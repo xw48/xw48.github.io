@@ -10,7 +10,7 @@ author_profile: true
     <font size="4">
       <strong>Understanding Illicit UI in iOS apps Through Hidden UI Analysis</strong>
       <a style="color:#3364FF" href="https://xw48.github.io/files/lee2019understanding.pdf" target="_blank">[PDF]</a>
-      <a style="color:#42FF33" href="https://xw48.github.io/files/lee2019understanding.bib" target="_blank">[Bib]</a>
+      <a style="color:#CE33FF" href="https://xw48.github.io/files/lee2019understanding.bib" target="_blank">[Bib]</a>
       <a style="color:#E803FC" href="https://sites.google.com/site/ioschameleons/" target="_blank">[Supplementary]</a>
       <a style="color:#FF3C33" href="https://spectrum.ieee.org/tech-talk/computing/software/new-screening-technique-reveals-142-malicious-apple-apps" target="_blank">[Media]</a>
     </font>
@@ -22,7 +22,7 @@ author_profile: true
     <font size="4">
       <strong>Looking from the Mirror: Evaluating IoT Device Security through Mobile Companion Apps</strong>
       <a style="color:#3364FF" href="https://xw48.github.io/files/wang2019looking.pdf" target="_blank">[PDF]</a>
-      <a style="color:#42FF33" href="https://xw48.github.io/files/wang2019looking.bib" target="_blank">[Bib]</a>
+      <a style="color:#CE33FF" href="https://xw48.github.io/files/wang2019looking.bib" target="_blank">[Bib]</a>
       <a style="color:#FF3C33" href="http://seclab.soic.indiana.edu/xw48/iot_companion_appset.tar.gz" target="_blank">[AppSet]</a>
     </font>
     <br><span style="text-decoration:underline;">Xueqiang Wang</span>, Yuqiong Sun, Susanta Nanda and XiaoFeng Wang
@@ -33,7 +33,7 @@ author_profile: true
     <font size="4">
       <strong>Understanding iOS-based Crowdturfing Through Hidden UI Analysis</strong>
       <a style="color:#3364FF" href="https://xw48.github.io/files/lee2019understandingi.pdf" target="_blank">[PDF]</a>
-      <a style="color:#42FF33" href="https://xw48.github.io/files/lee2019understandingi.bib" target="_blank">[Bib]</a>
+      <a style="color:#CE33FF" href="https://xw48.github.io/files/lee2019understandingi.bib" target="_blank">[Bib]</a>
     </font>
     <br><span style="text-decoration:underline;">Xueqiang Wang</span>*, Yeonjoon Lee*, Kwangwuk Lee, Xiaojing Liao, XiaoFeng Wang, Tongxi Li and Xianghang Mi (*co-first authors)
     <br><i>In USENIX Security'19</i>
@@ -43,7 +43,7 @@ author_profile: true
     <font size="4">
       <strong>ProFuzzer: On-the-fly Input Type Probing for Better Zero-day Vulnerability Discovery</strong>
       <a style="color:#3364FF" href="https://xw48.github.io/files/you2019profuzzer.pdf" target="_blank">[PDF]</a>
-      <a style="color:#42FF33" href="https://xw48.github.io/files/you2019profuzzer.bib" target="_blank">[Bib]</a>
+      <a style="color:#CE33FF" href="https://xw48.github.io/files/you2019profuzzer.bib" target="_blank">[Bib]</a>
     </font>
     <br>Wei You, <span style="text-decoration:underline;">Xueqiang Wang</span>, Shiqing Ma, Jianjun Huang, Xiangyu Zhang, XiaoFeng Wang and Bin Liang
     <br><i>In Security and Privacy (SP'19)</i>
@@ -54,7 +54,7 @@ author_profile: true
     <font size="4">
       <strong>OS-level Side Channels without Procfs: Exploring Cross-App Information Leakage on iOS</strong>
       <a style="color:#3364FF" href="https://xw48.github.io/files/zhang2018level.pdf" target="_blank">[PDF]</a>
-      <a style="color:#42FF33" href="https://xw48.github.io/files/zhang2018level.bib" target="_blank">[Bib]</a>
+      <a style="color:#CE33FF" href="https://xw48.github.io/files/zhang2018level.bib" target="_blank">[Bib]</a>
     </font>
     <br>Xiaokuan Zhang, <span style="text-decoration:underline;">Xueqiang Wang</span>, Xiaolong Bai, Yinqian Zhang and XiaoFeng Wang
     <br><i>In the Network and Distributed System Security Symposium (NDSS'18)</i>
@@ -65,7 +65,7 @@ author_profile: true
     <font size="4">
       <strong>Things You May Not Know About Android (Un)Packers: A Systematic Study based on Whole-System Emulation</strong>
       <a style="color:#3364FF" href="https://xw48.github.io/files/duan2018things.pdf" target="_blank">[PDF]</a>
-      <a style="color:#42FF33" href="https://xw48.github.io/files/duan2018things.bib" target="_blank">[Bib]</a>
+      <a style="color:#CE33FF" href="https://xw48.github.io/files/duan2018things.bib" target="_blank">[Bib]</a>
     </font>
     <br>Yue Duan, Mu Zhang, Abhishek Vasist Bhaskar, Heng Yin, Xiaorui Pan, Tongxin Li, <span style="text-decoration:underline;">Xueqiang Wang</span>, and Xiaofeng Wang
     <br><i>In the Network and Distributed System Security Symposium (NDSS'18)</i>
@@ -75,7 +75,7 @@ author_profile: true
     <font size="4">
       <strong>Privacy Loss in Apple’s Implementation of Differential Privacy on MacOS 10.12</strong>
       <a style="color:#3364FF" href="https://xw48.github.io/files/tang2017privacy.pdf" target="_blank">[PDF]</a>
-      <a style="color:#42FF33" href="https://xw48.github.io/files/tang2017privacy.bib" target="_blank">[Bib]</a>
+      <a style="color:#CE33FF" href="https://xw48.github.io/files/tang2017privacy.bib" target="_blank">[Bib]</a>
     </font>
     <br>Jun Tang, Aleksandra Korolova, Xiaolong Bai, <span style="text-decoration:underline;">Xueqiang Wang</span> and XiaoFeng Wang
     <br><i>In TPDP'17 (co-located with CCS)</i>
@@ -85,7 +85,7 @@ author_profile: true
     <font size="4">
       <strong>Unleashing the Walking Dead: Understanding Cross-App Remote Infections on Mobile WebViews</strong>
       <a style="color:#3364FF" href="https://xw48.github.io/files/li2017unleashing.pdf" target="_blank">[PDF]</a>
-      <a style="color:#42FF33" href="https://xw48.github.io/files/li2017unleashing.bib" target="_blank">[Bib]</a>
+      <a style="color:#CE33FF" href="https://xw48.github.io/files/li2017unleashing.bib" target="_blank">[Bib]</a>
       <a style="color:#E803FC" href="https://sites.google.com/site/xawisite/" target="_blank">[Supplementary]</a>
     </font>
     <br>Tongxin Li, <span style="text-decoration:underline;">Xueqiang Wang</span>, Mingming Zha, Kai Chen, XiaoFeng Wang, Luyi Xing, Xiaolong Bai, Nan Zhang, and Xinhui Han
@@ -96,7 +96,7 @@ author_profile: true
     <font size="4">
       <strong>Dark Hazard: Learning-based, Large-scale Discovery of Hidden Sensitive Operations in Android Apps</strong>
       <a style="color:#3364FF" href="https://xw48.github.io/files/pan2017dark.pdf" target="_blank">[PDF]</a>
-      <a style="color:#42FF33" href="https://xw48.github.io/files/pan2017dark.bib" target="_blank">[Bib]</a>
+      <a style="color:#CE33FF" href="https://xw48.github.io/files/pan2017dark.bib" target="_blank">[Bib]</a>
     </font>
     <br>Xiaorui Pan, <span style="text-decoration:underline;">Xueqiang Wang</span>, Yue Duan, XiaoFeng Wang, and Heng Yin
     <br><i>In the Network and Distributed System Security Symposium (NDSS'17)</i>
@@ -106,7 +106,7 @@ author_profile: true
     <font size="4">
       <strong>Following devil's footprints: Cross-platform analysis of potentially harmful libraries on android and ios</strong>
       <a style="color:#3364FF" href="https://xw48.github.io/files/chen2016following.pdf" target="_blank">[PDF]</a>
-      <a style="color:#42FF33" href="https://xw48.github.io/files/chen2016following.bib" target="_blank">[Bib]</a>
+      <a style="color:#CE33FF" href="https://xw48.github.io/files/chen2016following.bib" target="_blank">[Bib]</a>
     </font>
     <br>Kai Chen, <span style="text-decoration:underline;">Xueqiang Wang</span>, Yi Chen, Peng Wang, Yeonjoon Lee, XiaoFeng Wang, Bin Ma, Aohui Wang, Yingjun Zhang, and Wei Zou
     <br><i>In Security and Privacy (SP'16)</i>
@@ -116,7 +116,7 @@ author_profile: true
     <font size="4">
       <strong>DeepDroid: Dynamically Enforcing Enterprise Policy on Android Devices</strong>
       <a style="color:#3364FF" href="https://xw48.github.io/files/wang2015deepdroid.pdf" target="_blank">[PDF]</a>
-      <a style="color:#42FF33" href="https://xw48.github.io/files/wang2015deepdroid.bib" target="_blank">[Bib]</a>
+      <a style="color:#CE33FF" href="https://xw48.github.io/files/wang2015deepdroid.bib" target="_blank">[Bib]</a>
     </font>
     <br><span style="text-decoration:underline;">Xueqiang Wang</span>, Kun Sun, Yuewu Wang, and Jiwu Jing
     <br><i>In the Network and Distributed System Security Symposium (NDSS'15)</i>
@@ -126,7 +126,7 @@ author_profile: true
     <font size="4">
       <strong>WrapDroid: Flexible and Fine-Grained Scheme Towards Regulating Behaviors of Android Apps</strong>
       <a style="color:#3364FF" href="https://xw48.github.io/files/wang2014wrapdroid.pdf" target="_blank">[PDF]</a>
-      <a style="color:#42FF33" href="https://xw48.github.io/files/wang2014wrapdroid.bib" target="_blank">[Bib]</a>
+      <a style="color:#CE33FF" href="https://xw48.github.io/files/wang2014wrapdroid.bib" target="_blank">[Bib]</a>
     </font>
     <br><span style="text-decoration:underline;">Xueqiang Wang</span>, Yuewu Wang, Limin Liu, Lingguang Lei, and Jiwu Jing
     <br><i>In International Conference on Information Security and Cryptology (ICISC'14)</i>
