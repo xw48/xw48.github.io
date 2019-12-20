@@ -5,7 +5,21 @@ permalink: /publications/
 author_profile: true
 ---
 
-<p><span style="text-decoration:underline;">Xueqiang Wang*</span>, Yeonjoon Lee*, Xiaojing Liao, XiaoFeng Wang. <strong>Understanding Illicit UI in iOS apps Through Hidden UI Analysis</strong>. Accepted in the IEEE Transactions on Dependable and Secure Computing (TDSC),&nbsp;2019. (*co-first authors) [<a href="https://spectrum.ieee.org/tech-talk/computing/software/new-screening-technique-reveals-142-malicious-apple-apps" target="_blank" rel="noopener">Media</a>]</p>
+<ul>
+  <li>
+    <font size="4">
+      <strong>Understanding Illicit UI in iOS apps Through Hidden UI Analysis</strong>
+      <a class="text-important" href="https://xw48.github.io/files/lee2019understanding.pdf" target="_blank">[pdf]</a>
+      <a class="text-danger" href="https://spectrum.ieee.org/tech-talk/computing/software/new-screening-technique-reveals-142-malicious-apple-apps" target="_blank">[media]</a>
+      <a class="text-success" href="https://xw48.github.io/files/lee2019understanding.bib" target="_blank">[bib]</a>
+    </font>
+    <br><span style="text-decoration:underline;">Xueqiang Wang*</span>, Yeonjoon Lee*, Xiaojing Liao, XiaoFeng Wang (*co-first authors)
+    <br><i>In TDSC'19</i>
+  </li>
+  <br>
+</ul>
+
+
 <p><span style="text-decoration:underline;">Xueqiang Wang</span>, Yuqiong Sun, Susanta Nanda and XiaoFeng Wang. <strong>Looking from the Mirror: Evaluating IoT Device Security through Mobile Companion Apps</strong>, in USENIX Security'19.</p>
 <p><span style="text-decoration:underline;">Xueqiang Wang</span>*, Yeonjoon Lee*, Kwangwuk Lee, Xiaojing Liao, XiaoFeng Wang, Tongxi Li and Xianghang Mi. <strong>Understanding iOS-based Crowdturfing Through Hidden UI Analysis</strong>, in USENIX Security'19. (*co-first authors)</p>
 <p>Wei You, <span style="text-decoration:underline;">Xueqiang Wang</span>, Shiqing Ma, Jianjun Huang, Xiangyu Zhang, XiaoFeng Wang and Bin Liang. <strong>ProFuzzer: On-the-fly Input Type Probing for Better Zero-day Vulnerability Discovery</strong>, in Security and Privacy (SP'19), May 2019. [<b><i><span style="color:maroon;">CSAW 2019 Best Applied Security Paper Award TOP-10 Finalists</span></i></b>]</p>
