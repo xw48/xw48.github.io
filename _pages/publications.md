@@ -9,9 +9,9 @@ author_profile: true
   <li>
     <font size="4">
       <strong>Understanding Illicit UI in iOS apps Through Hidden UI Analysis</strong>
-      <a style="color:#FF0000" href="https://xw48.github.io/files/lee2019understanding.pdf" target="_blank">[pdf]</a>
-      <a class="text-danger" href="https://spectrum.ieee.org/tech-talk/computing/software/new-screening-technique-reveals-142-malicious-apple-apps" target="_blank">[media]</a>
-      <a class="text-success" href="https://xw48.github.io/files/lee2019understanding.bib" target="_blank">[bib]</a>
+      <a style="color:#3364FF" href="https://xw48.github.io/files/lee2019understanding.pdf" target="_blank">[pdf]</a>
+      <a style="color:#FF3C33" href="https://spectrum.ieee.org/tech-talk/computing/software/new-screening-technique-reveals-142-malicious-apple-apps" target="_blank">[media]</a>
+      <a style="color:#42FF33" href="https://xw48.github.io/files/lee2019understanding.bib" target="_blank">[bib]</a>
     </font>
     <br><span style="text-decoration:underline;">Xueqiang Wang*</span>, Yeonjoon Lee*, Xiaojing Liao, XiaoFeng Wang (*co-first authors)
     <br><i>In TDSC'19</i>
