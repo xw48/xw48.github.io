@@ -11,7 +11,7 @@ author_profile: true
       <strong>Understanding Illicit UI in iOS apps Through Hidden UI Analysis</strong>
       <a style="color:#3364FF" href="https://xw48.github.io/files/lee2019understanding.pdf" target="_blank">[PDF]</a>
       <a style="color:#CE33FF" href="https://xw48.github.io/files/lee2019understanding.bib" target="_blank">[Bib]</a>
-      <a style="color:#E803FC" href="https://sites.google.com/site/ioschameleons/" target="_blank">[Supplementary]</a>
+      <a style="color:#FF3C33" href="https://sites.google.com/site/ioschameleons/" target="_blank">[Supplementary]</a>
       <a style="color:#FF3C33" href="https://spectrum.ieee.org/tech-talk/computing/software/new-screening-technique-reveals-142-malicious-apple-apps" target="_blank">[Media]</a>
     </font>
     <br><span style="text-decoration:underline;">Xueqiang Wang*</span>, Yeonjoon Lee*, Xiaojing Liao, XiaoFeng Wang (*co-first authors)
@@ -86,7 +86,7 @@ author_profile: true
       <strong>Unleashing the Walking Dead: Understanding Cross-App Remote Infections on Mobile WebViews</strong>
       <a style="color:#3364FF" href="https://xw48.github.io/files/li2017unleashing.pdf" target="_blank">[PDF]</a>
       <a style="color:#CE33FF" href="https://xw48.github.io/files/li2017unleashing.bib" target="_blank">[Bib]</a>
-      <a style="color:#E803FC" href="https://sites.google.com/site/xawisite/" target="_blank">[Supplementary]</a>
+      <a style="color:#FF3C33" href="https://sites.google.com/site/xawisite/" target="_blank">[Supplementary]</a>
     </font>
     <br>Tongxin Li, <span style="text-decoration:underline;">Xueqiang Wang</span>, Mingming Zha, Kai Chen, XiaoFeng Wang, Luyi Xing, Xiaolong Bai, Nan Zhang, and Xinhui Han
     <br><i>In the 24th ACM Conference on Computer and Communications Security (CCS'17)</i>
