@@ -9,7 +9,7 @@ author_profile: true
   <li>
     <font size="4">
       <strong>Understanding Illicit UI in iOS apps Through Hidden UI Analysis</strong>
-      <a class="text-important" href="https://xw48.github.io/files/lee2019understanding.pdf" target="_blank">[pdf]</a>
+      <a style="color:#FF0000" href="https://xw48.github.io/files/lee2019understanding.pdf" target="_blank">[pdf]</a>
       <a class="text-danger" href="https://spectrum.ieee.org/tech-talk/computing/software/new-screening-technique-reveals-142-malicious-apple-apps" target="_blank">[media]</a>
       <a class="text-success" href="https://xw48.github.io/files/lee2019understanding.bib" target="_blank">[bib]</a>
     </font>
