@@ -16,13 +16,13 @@ redirect_from:
 <li>Security Research Intern, on Automotive Security
 <ul>
 <li>NIO, San Jose</li>
-<li>05/2019 - 08/2019, Mentor: Mark Hoy</li>
+<li>05/2019 - 08/2019, Mentor: <a href="https://www.linkedin.com/in/markthoy/" target="_blank" rel="noopener">Mark Hoy</a></li>
 </ul>
 </li>
 <li>Research Intern, on&nbsp;IoT Device Fingerprinting and Vulnerability Discovery
 <ul>
 <li>Symantec Research Labs, Mountain View, CA</li>
-<li>05/2018 - 08/2018, Mentor: Yuqiong Sun</li>
+<li>05/2018 - 08/2018, Mentor: <a href="https://yuqiongsun.org/index.html" target="_blank" rel="noopener">Yuqiong Sun</a></li>
 </ul>
 </li>
 <li>Undergraduate Research Program, on Automated Security Protocol Validation
