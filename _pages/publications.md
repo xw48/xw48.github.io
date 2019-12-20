@@ -17,6 +17,7 @@ author_profile: true
     <br><span style="text-decoration:underline;">Xueqiang Wang*</span>, Yeonjoon Lee*, Xiaojing Liao, XiaoFeng Wang (*co-first authors)
     <br><i>In TDSC'19</i>
   </li>
+  <br>
   <li>
     <font size="4">
       <strong>Looking from the Mirror: Evaluating IoT Device Security through Mobile Companion Apps</strong>
@@ -27,6 +28,7 @@ author_profile: true
     <br><span style="text-decoration:underline;">Xueqiang Wang</span>, Yuqiong Sun, Susanta Nanda and XiaoFeng Wang
     <br><i>In USENIX Security'19</i>
   </li>
+  <br>
   <li>
     <font size="4">
       <strong>Understanding iOS-based Crowdturfing Through Hidden UI Analysis</strong>
@@ -36,6 +38,7 @@ author_profile: true
     <br><span style="text-decoration:underline;">Xueqiang Wang</span>*, Yeonjoon Lee*, Kwangwuk Lee, Xiaojing Liao, XiaoFeng Wang, Tongxi Li and Xianghang Mi (*co-first authors)
     <br><i>In USENIX Security'19</i>
   </li>
+  <br>
   <li>
     <font size="4">
       <strong>ProFuzzer: On-the-fly Input Type Probing for Better Zero-day Vulnerability Discovery</strong>
@@ -46,6 +49,7 @@ author_profile: true
     <br><i>In Security and Privacy (SP'19)</i>
     <br>[<b><i><span style="color:maroon;">CSAW 2019 Best Applied Security Paper Award TOP-10 Finalists</span></i></b>]
   </li>
+  <br>
   <li>
     <font size="4">
       <strong>OS-level Side Channels without Procfs: Exploring Cross-App Information Leakage on iOS</strong>
@@ -56,6 +60,7 @@ author_profile: true
     <br><i>In the Network and Distributed System Security Symposium (NDSS'18)</i>
     <br>[<b><i><span style="color:maroon;">CSAW 2018 Best Applied Security Paper Award TOP-10 Finalists</span></i></b>]
   </li>
+  <br>
   <li>
     <font size="4">
       <strong>Things You May Not Know About Android (Un)Packers: A Systematic Study based on Whole-System Emulation</strong>
@@ -65,6 +70,7 @@ author_profile: true
     <br>Yue Duan, Mu Zhang, Abhishek Vasist Bhaskar, Heng Yin, Xiaorui Pan, Tongxin Li, <span style="text-decoration:underline;">Xueqiang Wang</span>, and Xiaofeng Wang
     <br><i>In the Network and Distributed System Security Symposium (NDSS'18)</i>
   </li>
+  <br>
   <li>
     <font size="4">
       <strong>Privacy Loss in Apple’s Implementation of Differential Privacy on MacOS 10.12</strong>
@@ -74,6 +80,7 @@ author_profile: true
     <br>Jun Tang, Aleksandra Korolova, Xiaolong Bai, <span style="text-decoration:underline;">Xueqiang Wang</span> and XiaoFeng Wang
     <br><i>In TPDP'17 (co-located with CCS)</i>
   </li>
+  <br>
   <li>
     <font size="4">
       <strong>Unleashing the Walking Dead: Understanding Cross-App Remote Infections on Mobile WebViews</strong>
@@ -84,6 +91,7 @@ author_profile: true
     <br>Tongxin Li, <span style="text-decoration:underline;">Xueqiang Wang</span>, Mingming Zha, Kai Chen, XiaoFeng Wang, Luyi Xing, Xiaolong Bai, Nan Zhang, and Xinhui Han
     <br><i>In the 24th ACM Conference on Computer and Communications Security (CCS'17)</i>
   </li>
+  <br>
   <li>
     <font size="4">
       <strong>Dark Hazard: Learning-based, Large-scale Discovery of Hidden Sensitive Operations in Android Apps</strong>
@@ -93,6 +101,7 @@ author_profile: true
     <br>Xiaorui Pan, <span style="text-decoration:underline;">Xueqiang Wang</span>, Yue Duan, XiaoFeng Wang, and Heng Yin
     <br><i>In the Network and Distributed System Security Symposium (NDSS'17)</i>
   </li>
+  <br>
   <li>
     <font size="4">
       <strong>Following devil's footprints: Cross-platform analysis of potentially harmful libraries on android and ios</strong>
@@ -102,6 +111,7 @@ author_profile: true
     <br>Kai Chen, <span style="text-decoration:underline;">Xueqiang Wang</span>, Yi Chen, Peng Wang, Yeonjoon Lee, XiaoFeng Wang, Bin Ma, Aohui Wang, Yingjun Zhang, and Wei Zou
     <br><i>In Security and Privacy (SP'16)</i>
   </li>
+  <br>
   <li>
     <font size="4">
       <strong>DeepDroid: Dynamically Enforcing Enterprise Policy on Android Devices</strong>
@@ -111,6 +121,7 @@ author_profile: true
     <br><span style="text-decoration:underline;">Xueqiang Wang</span>, Kun Sun, Yuewu Wang, and Jiwu Jing
     <br><i>In the Network and Distributed System Security Symposium (NDSS'15)</i>
   </li>
+  <br>
   <li>
     <font size="4">
       <strong>WrapDroid: Flexible and Fine-Grained Scheme Towards Regulating Behaviors of Android Apps</strong>
@@ -120,6 +131,7 @@ author_profile: true
     <br><span style="text-decoration:underline;">Xueqiang Wang</span>, Yuewu Wang, Limin Liu, Lingguang Lei, and Jiwu Jing
     <br><i>In International Conference on Information Security and Cryptology (ICISC'14)</i>
   </li>
+  <br>
   <li>
     <font size="4">
       <strong>A Behavior Monitoring Scheme of Android Applications for Flexible Deployment (In Chinese)</strong>
@@ -127,6 +139,7 @@ author_profile: true
     <br><span style="text-decoration:underline;">Xueqiang Wang</span>, Lingguang Lei and Yuewu Wang
     <br><i>In Journal of University of Chinese Academy of Sciences</i>
   </li>
+  <br>
   <li>
     <font size="4">
       <strong>A Review of Security Threats of Mobile Internet (In Chinese)</strong>
