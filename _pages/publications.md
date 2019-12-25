@@ -107,6 +107,7 @@ author_profile: true
       <strong>Following devil's footprints: Cross-platform analysis of potentially harmful libraries on android and ios</strong>
       <a style="color:#3364FF" href="https://xw48.github.io/files/chen2016following.pdf" target="_blank" rel="noopener">[PDF]</a>
       <a style="color:#CE33FF" href="https://xw48.github.io/files/chen2016following.bib" target="_blank" rel="noopener">[Bib]</a>
+      <a style="color:#FF3C33" href="https://sites.google.com/site/phalibscom/" target="_blank" rel="noopener">[Supplementary]</a>
     </font>
     <br>Kai Chen, <span style="text-decoration:underline;">Xueqiang Wang</span>, Yi Chen, Peng Wang, Yeonjoon Lee, XiaoFeng Wang, Bin Ma, Aohui Wang, Yingjun Zhang, and Wei Zou
     <br><i>In Security and Privacy (SP'16)</i>
