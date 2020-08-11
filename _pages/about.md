@@ -13,8 +13,12 @@ redirect_from:
 
 <h2>Work Experience</h2>
 <ul>
-<li>Security Research Intern, on Automotive Security
+<li>Device Security
 <ul>
+<li>Amazon Lab126</li>
+<li>05/2019 - Now, Manager: <a href="" target="_blank" rel="noopener">Howard Lew</a></li>
+</ul>
+</li>
 <li>NIO, San Jose</li>
 <li>05/2019 - 08/2019, Mentor: <a href="https://www.linkedin.com/in/markthoy/" target="_blank" rel="noopener">Mark Hoy</a></li>
 </ul>
