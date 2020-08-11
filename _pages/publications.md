@@ -6,6 +6,14 @@ author_profile: true
 ---
 
 <ul>
+   <li>
+    <font size="4">
+      <strong>Demystifying Resource Management Risks in Emerging Mobile App-in-App Ecosystems</strong>
+    </font>
+    <br>Haoran Lu, Luyi Xing, Yue Xiao, Yifan Zhang, Xiaojing Liao, Xiaofeng Wang, <span style="text-decoration:underline;">Xueqiang Wang</span>
+    <br><i>In CCS'20</i>
+  </li>
+  <br>
   <li>
     <font size="4">
       <strong>Understanding Illicit UI in iOS apps Through Hidden UI Analysis</strong>
@@ -18,6 +26,7 @@ author_profile: true
     <br><i>In TDSC'19</i>
   </li>
   <br>
+  
   <li>
     <font size="4">
       <strong>Looking from the Mirror: Evaluating IoT Device Security through Mobile Companion Apps</strong>
