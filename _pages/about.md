@@ -17,7 +17,7 @@ redirect_from:
 <li>Security Engineer, Device Security
 <ul>
 <li>Amazon Lab126</li>
-<li>05/2019 - Now, Manager: <a href="" target="_blank" rel="noopener">Howard Lew</a></li>
+<li>04/2020 - Now, Manager: <a href="" target="_blank" rel="noopener">Howard Lew</a></li>
 </ul>
 </li>
 
