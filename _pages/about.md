@@ -14,7 +14,7 @@ redirect_from:
 <h2>Work Experience</h2>
 <ul>
 
-<li>Security Engineer, Device Security
+<li>Security Engineer, Amazon Device Security
 <ul>
 <li>Amazon Lab126, 04/2020 - Now</li>
 </ul>
