@@ -14,27 +14,27 @@ redirect_from:
 <h2>Work Experience</h2>
 <ul>
 
-<li>Security Engineer, Amazon Device Security
+<li>Amazon Lab126, Security Engineer
 <ul>
-<li>Amazon Lab126, 04/2020 - Now</li>
+<li>Amazon Device Security, 04/2020 - Now</li>
 </ul>
 </li>
 
-<li>Research Intern, Vehicle Security
+<li>NIO USA, Security Research Intern
 <ul>
-<li>NIO USA, 05/2019 - 08/2019</li>
+<li>Vehicle Security, 05/2019 - 08/2019</li>
 </ul>
 </li>
 
-<li>Research Intern, on&nbsp;IoT Device Fingerprinting and Vulnerability Discovery
+<li>Symantec Research Labs, Security Research Intern
 <ul>
-<li>Symantec Research Labs, 05/2018 - 08/2018</li>
+<li>IoT Device Security, 05/2018 - 08/2018</li>
 </ul>
 </li>
 
-<li>Undergraduate Research Program, on Automated Security Protocol Validation
+<li>State Key Laboratory of Information Security, CAS, Undergraduate Researcher Program
 <ul>
-<li>State Key Laboratory of Information Security, 07/2011 – 09/2011</li>
+<li>Automated Validation of Security Protocols, 07/2011 – 09/2011</li>
 </ul>
 </li>
 
