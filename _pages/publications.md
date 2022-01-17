@@ -10,7 +10,7 @@ author_profile: true
     <font size="4">
       <strong>Understanding Malicious Cross-library Data Harvesting on Android</strong>
     </font>
-      <br>Jice Wang*, Yue Xiao*, <span style="text-decoration:underline;">Xueqiang Wang</spa>, Yuhong Nan, Luyi Xing, Xiaojing Liao, JinWei Dong, Nicolas Serrano, XiaoFeng Wang, Yuqing Zhang, Haoran Lu(*co-first authors)
+      <br>Jice Wang*, Yue Xiao*, <span style="text-decoration:underline;">Xueqiang Wang</span>, Yuhong Nan, Luyi Xing, Xiaojing Liao, JinWei Dong, Nicolas Serrano, XiaoFeng Wang, Yuqing Zhang, Haoran Lu(*co-first authors)
     <br><i>In USENIX Security’21</i>
   </li>
   <br>
