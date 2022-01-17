@@ -8,9 +8,17 @@ author_profile: true
 <ul>
    <li>
     <font size="4">
+      <strong>Understanding Malicious Cross-library Data Harvesting on Android</strong>
+    </font>
+      <br>Jice Wang*, Yue Xiao*, <span style="text-decoration:underline;">Xueqiang Wang</spa>, Yuhong Nan, Luyi Xing, Xiaojing Liao, JinWei Dong, Nicolas Serrano, XiaoFeng Wang, Yuqing Zhang, Haoran Lu(*co-first authors)
+    <br><i>In USENIX Security’21</i>
+  </li>
+  <br>
+   <li>
+    <font size="4">
       <strong>Demystifying Resource Management Risks in Emerging Mobile App-in-App Ecosystems</strong>
     </font>
-    <br>Haoran Lu, Luyi Xing, Yue Xiao, Yifan Zhang, Xiaojing Liao, Xiaofeng Wang, <span style="text-decoration:underline;">Xueqiang Wang</span>
+    <br>Haoran Lu, Luyi Xing, Yue Xiao, Yifan Zhang, Xiaojing Liao, XiaoFeng Wang and <span style="text-decoration:underline;">Xueqiang Wang</span>
     <br><i>In CCS'20</i>
   </li>
   <br>
@@ -22,7 +30,7 @@ author_profile: true
       <a style="color:#FF3C33" href="https://sites.google.com/site/ioschameleons/" target="_blank" rel="noopener">[Supplementary]</a>
       <a style="color:#FF3C33" href="https://spectrum.ieee.org/tech-talk/computing/software/new-screening-technique-reveals-142-malicious-apple-apps" target="_blank" rel="noopener">[Media]</a>
     </font>
-    <br><span style="text-decoration:underline;">Xueqiang Wang*</span>, Yeonjoon Lee*, Xiaojing Liao, XiaoFeng Wang (*co-first authors)
+    <br><span style="text-decoration:underline;">Xueqiang Wang*</span>, Yeonjoon Lee*, Xiaojing Liao and XiaoFeng Wang (*co-first authors)
     <br><i>In TDSC'19</i>
   </li>
   <br>
