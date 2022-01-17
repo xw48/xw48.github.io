@@ -8,8 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-<p>Xueqiang Wang earned his Ph.D. in Computer Science from Indiana University Bloomington in 2021, under the supervision of Dr. <a href="https://www.informatics.indiana.edu/xw7/" target="_blank" rel="noopener">XiaoFeng Wang</a>. Before joining IU, he earned a Master's&nbsp;degree from <a href="http://www.iie.ac.cn" target="_blank" rel="noopener">IIE, CAS</a> in 2015, and a Bachelor's degree from <a href="https://en.ustc.edu.cn" target="_blank" rel="noopener">USTC</a> in 2012.</p>
-<p><span style="color:var(--color-text);">His research interests lie in mobile and CPS security and privacy, such as designing intelligent and scalable solutions to identify security vulnerabilities, finding new attacks, and analyzing privacy exposures of device users, etc. He is also interested in measuring crimes in the cyberspace.&nbsp;</span></p>
+
+
+<p>Brandon Xueqiang Wang is currently a Security Engineer at Amazon Lab126, working on device security automation. Before that, he earned his Ph.D. at Indiana University Bloomington under the supervision of Dr. <a href="https://www.informatics.indiana.edu/xw7/" target="_blank" rel="noopener">XiaoFeng Wang</a>. His research focuses on building scalable and data-driven approaches to identifying security vulnerabilities, new attacks, and cybercriminal threats in mobile and Internet-of-Things (IoT) systems. He is also interested in software supply chain security and cloud security.&nbsp;</span></p>
 
 <h2>Work Experience</h2>
 <ul>
