@@ -9,6 +9,8 @@ author_profile: true
    <li>
     <font size="4">
       <strong>Understanding Malicious Cross-library Data Harvesting on Android</strong>
+      <a style="color:#3364FF" href="https://xw48.github.io/files/wang2021understanding.pdf" target="_blank" rel="noopener">[PDF]</a>
+      <a style="color:#CE33FF" href="https://xw48.github.io/files/wang2021understanding.bib" target="_blank" rel="noopener">[Bib]</a>
     </font>
       <br>Jice Wang*, Yue Xiao*, <span style="text-decoration:underline;">Xueqiang Wang</span>, Yuhong Nan, Luyi Xing, Xiaojing Liao, JinWei Dong, Nicolas Serrano, XiaoFeng Wang, Yuqing Zhang, Haoran Lu (*co-first authors)
     <br><i>In USENIX Security’21</i>
@@ -17,6 +19,8 @@ author_profile: true
    <li>
     <font size="4">
       <strong>Demystifying Resource Management Risks in Emerging Mobile App-in-App Ecosystems</strong>
+      <a style="color:#3364FF" href="https://xw48.github.io/files/lu2020demystifying.pdf" target="_blank" rel="noopener">[PDF]</a>
+      <a style="color:#CE33FF" href="https://xw48.github.io/files/lu2020demystifying.bib" target="_blank" rel="noopener">[Bib]</a>
     </font>
     <br>Haoran Lu, Luyi Xing, Yue Xiao, Yifan Zhang, Xiaojing Liao, XiaoFeng Wang, <span style="text-decoration:underline;">Xueqiang Wang</span>
     <br><i>In CCS'20</i>
