@@ -14,8 +14,8 @@ redirect_from:
 
 <h3>Research Interests</h3>
 <ul>
-  <li>Mobile Security</li>
-  <li>IoT Security/Privacy</li>
-  <li>Cybercrime</li>
-  <li>Vulnerability Discovery</li>
+  <li>Mobile Security: <a href="https://xw48.github.io/files/duan2018things.pdf" target="_blank" rel="noopener">[NDSS'18]</a>, <a href="https://xw48.github.io/files/pan2017dark.pdf" target="_blank" rel="noopener">[NDSS'17]</a>, <a href="https://xw48.github.io/files/chen2016following.pdf" target="_blank" rel="noopener">[SP'16]</a>, <a href="https://xw48.github.io/files/wang2015deepdroid.pdf" target="_blank" rel="noopener">[NDSS'15]</a></li>
+  <li>IoT Security/Privacy: <a href="https://xw48.github.io/files/wang2019looking.pdf" target="_blank" rel="noopener">[USENIX Security'19]</a></li>
+  <li>Cybercrime: <a href="https://xw48.github.io/files/wang2021understanding.pdf" target="_blank" rel="noopener">[USENIX Security'21]</a>, <a href="https://xw48.github.io/files/lee2019understanding.pdf" target="_blank" rel="noopener">[TDSC'19]</a>, <a href="https://xw48.github.io/files/lee2019understandingi.pdf" target="_blank" rel="noopener">[USENIX Security'19]</a></li>
+  <li>Vulnerability Discovery and Exploitation: <a href="https://xw48.github.io/files/you2019profuzzer.pdf" target="_blank" rel="noopener">[SP'19]</a>, <a href="https://xw48.github.io/files/lu2020demystifying.pdf" target="_blank" rel="noopener">[CCS'20]</a>, <a href="https://xw48.github.io/files/zhang2018level.pdf" target="_blank" rel="noopener">[NDSS'18]</a>, <a href="https://xw48.github.io/files/li2017unleashing.pdf" target="_blank" rel="noopener">[CCS'17]</a></li>
 </ul>
