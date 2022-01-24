@@ -12,6 +12,8 @@ redirect_from:
 
 <p>Brandon is a Security Engineer at Amazon Lab126, designing solutions to scale security/privacy analysis on Amazon devices (2020-Now). He also worked at Symantec Research Labs (now <a href="https://www.nortonlifelock.com/us/en/research-labs/" target="_blank" rel="noopener">NortonLifeLock Research Group</a>, 2018) and <a href="https://www.nio.com" target="_blank" rel="noopener">NIO USA</a> (2019) on security issues of smart home devices and smart vehicles.</p>
 
+<p>His research focuses on building scalable and data-driven approaches to identifying security vulnerabilities, new attacks, and cybercriminal threats in mobile and Internet-of-Things (IoT) systems. He has published papers on leading security venues such as S&P (Oakland), USENIX Security, CCS, NDSS and TDSC. His research was recognized by some academic awards, e.g., two papers are among the top-10 finalists of CSAW Best Applied Security Paper Award. He also received acknowledgments and rewards from top tech companies such as Apple, Google, Facebook, Amazon, Twitter, etc. for discoveries of new attacks and security vulnerabilities in their products.</p>
+
 <h3>Research Interests</h3>
 <ul>
   <li>Cybercrime: <a href="https://xw48.github.io/files/wang2021understanding.pdf" target="_blank" rel="noopener">[USENIX Security'21]</a>, <a href="https://xw48.github.io/files/lee2019understanding.pdf" target="_blank" rel="noopener">[TDSC'19]</a>, <a href="https://xw48.github.io/files/lee2019understandingi.pdf" target="_blank" rel="noopener">[USENIX Security'19]</a></li>
