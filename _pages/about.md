@@ -36,5 +36,4 @@ redirect_from:
   <li>(12/2020) Our paper about malicious cross-library data harvesting (XLDH) attack is accepted to USENIX Security'21.</li>
   <li>(06/2020) Our paper about the app-in-app paradigm was accepted by CCS'20</li>
   <li>(04/2020) I have joined Amazon Lab126.</li>
-  <li></li>
 </ul>
