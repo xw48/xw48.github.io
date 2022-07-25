@@ -17,7 +17,7 @@ redirect_from:
   <li>Vulnerability Discovery and Exploitation: <a href="https://xw48.github.io/files/you2019profuzzer.pdf" target="_blank" rel="noopener">[SP'19]</a>, <a href="https://xw48.github.io/files/lu2020demystifying.pdf" target="_blank" rel="noopener">[CCS'20]</a>, <a href="https://xw48.github.io/files/zhang2018level.pdf" target="_blank" rel="noopener">[NDSS'18]</a>, <a href="https://xw48.github.io/files/li2017unleashing.pdf" target="_blank" rel="noopener">[CCS'17]</a></li>
   <li>Mobile Security: <a href="https://xw48.github.io/files/duan2018things.pdf" target="_blank" rel="noopener">[NDSS'18]</a>, <a href="https://xw48.github.io/files/pan2017dark.pdf" target="_blank" rel="noopener">[NDSS'17]</a>, <a href="https://xw48.github.io/files/chen2016following.pdf" target="_blank" rel="noopener">[SP'16]</a>, <a href="https://xw48.github.io/files/wang2015deepdroid.pdf" target="_blank" rel="noopener">[NDSS'15]</a>, <a href="https://xw48.github.io/files/wang2014wrapdroid.pdf" target="_blank" rel="noopener">[ICISC'14]</a></li>
   <li>IoT Security/Privacy: <a href="https://xw48.github.io/files/wang2019looking.pdf" target="_blank" rel="noopener">[USENIX Security'19]</a></li>
-  <li>Software Supply Chain Security: </li>
+  <li>Software Supply Chain Security: <a href="https://xw48.github.io/files/wang2019looking.pdf" target="_blank" rel="noopener">[USENIX Security'19]</a>, <a href="https://xw48.github.io/files/wang2021understanding.pdf" target="_blank" rel="noopener">[USENIX Security'21]</a></li>
 </ul>
 
 <h3>For Prospective Students</h3>
