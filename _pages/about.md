@@ -28,7 +28,7 @@ redirect_from:
 <h3>News</h3>
 <ul>
   <li>(07/2022) Our paper on the security of exposed cloud services is accepted to USENIX 2023. </li>
-  <li>(07/2022) I will serve as a PC member of ACNS 2023 (Applied Cryptography and Network Security 2023).</li>
+  <li>(07/2022) I will serve as a PC member of <a href="https://sulab-sever.u-aizu.ac.jp/ACNS2023/index.html">ACNS 2023</a> (Applied Cryptography and Network Security 2023).</li>
   <li>(03/2022) I will join UCF as a tenure-track assistant professor in fall 2022.</li>
   <li>(09/2021) I will serve as a reviewer of IEEE Security & Privacy.</li>
   <li>(01/2021) I will serve as a reviewer of ACM Transactions on Privacy and Security.</li>
