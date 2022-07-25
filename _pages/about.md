@@ -27,9 +27,11 @@ redirect_from:
 
 <h3>News</h3>
 <ul>
+  <li>(07/2022) Our paper on the security of exposed cloud services is accepted to USENIX 2023. </li>
+  <li>(07/2022) I will serve as a PC member of ACNS 2023 (Applied Cryptography and Network Security 2023).</li>
   <li>(03/2022) I will join UCF as a tenure-track assistant professor in fall 2022.</li>
-  <li>(09/2021) I am serving as a reviewer of IEEE Security & Privacy.</li>
-  <li>(01/2021) I am serving as a reviewer of ACM Transactions on Privacy and Security.</li>
+  <li>(09/2021) I will serve as a reviewer of IEEE Security & Privacy.</li>
+  <li>(01/2021) I will serve as a reviewer of ACM Transactions on Privacy and Security.</li>
   <li>(12/2020) Our paper about malicious cross-library data harvesting (XLDH) attack is accepted by USENIX Security'21.</li>
   <li>(06/2020) Our paper about the app-in-app paradigm was accepted by CCS'20</li>
   <li>(04/2020) I have joined Amazon Lab126.</li>
