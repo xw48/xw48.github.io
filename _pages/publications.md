@@ -8,6 +8,15 @@ author_profile: true
 <ul>
    <li>
     <font size="4">
+      <strong>Credit Karma: Understanding Security Implications of Exposed Cloud Services through Automated Capability Inference</strong>
+      <a style="color:#3364FF" href="#" target="_blank" rel="noopener">[PDF]</a>
+      <a style="color:#CE33FF" href="#b" target="_blank" rel="noopener">[Bib]</a>
+    </font>
+    <br><i>To Appear in USENIX Security’23</i>
+  </li>
+  <br>
+   <li>
+    <font size="4">
       <strong>Understanding Malicious Cross-library Data Harvesting on Android</strong>
       <a style="color:#3364FF" href="https://xw48.github.io/files/wang2021understanding.pdf" target="_blank" rel="noopener">[PDF]</a>
       <a style="color:#CE33FF" href="https://xw48.github.io/files/wang2021understanding.bib" target="_blank" rel="noopener">[Bib]</a>
