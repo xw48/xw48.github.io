@@ -12,6 +12,7 @@ author_profile: true
       <a style="color:#3364FF" href="#" target="_blank" rel="noopener">[PDF]</a>
       <a style="color:#CE33FF" href="#b" target="_blank" rel="noopener">[Bib]</a>
     </font>
+    <br>Yuhong Nan*, <span style="text-decoration:underline;">Xueqiang Wang*</span>, Luyi Xing, Xiaojing Liao, Ruoyu Wu, Jianliang Wu, Yifan Zhang, XiaoFeng Wang (*co-first authors)
     <br><i>To Appear in USENIX Security’23</i>
   </li>
    <br>
@@ -21,6 +22,7 @@ author_profile: true
       <a style="color:#3364FF" href="#" target="_blank" rel="noopener">[PDF]</a>
       <a style="color:#CE33FF" href="#b" target="_blank" rel="noopener">[Bib]</a>
     </font>
+    <br><span style="text-decoration:underline;">Xueqiang Wang*</span>, Yuqiong Sun*, Susanta Nanda, XiaoFeng Wang (*co-first authors)
     <br><i>To Appear in USENIX Security’23</i>
   </li>
   <br>
@@ -52,7 +54,7 @@ author_profile: true
       <a style="color:#FF3C33" href="https://sites.google.com/site/ioschameleons/" target="_blank" rel="noopener">[Supplementary]</a>
       <a style="color:#FF3C33" href="https://spectrum.ieee.org/tech-talk/computing/software/new-screening-technique-reveals-142-malicious-apple-apps" target="_blank" rel="noopener">[Media]</a>
     </font>
-    <br><span style="text-decoration:underline;">Xueqiang Wang*</span>, Yeonjoon Lee*, Xiaojing Liao, XiaoFeng Wang (*co-first authors)
+    <br>Yeonjoon Lee*,<span style="text-decoration:underline;">Xueqiang Wang*</span>, Xiaojing Liao, XiaoFeng Wang (*co-first authors)
     <br><i>In TDSC'19</i>
   </li>
   <br>
@@ -74,7 +76,7 @@ author_profile: true
       <a style="color:#3364FF" href="https://xw48.github.io/files/lee2019understandingi.pdf" target="_blank" rel="noopener">[PDF]</a>
       <a style="color:#CE33FF" href="https://xw48.github.io/files/lee2019understandingi.bib" target="_blank" rel="noopener">[Bib]</a>
     </font>
-    <br><span style="text-decoration:underline;">Xueqiang Wang</span>*, Yeonjoon Lee*, Kwangwuk Lee, Xiaojing Liao, XiaoFeng Wang, Tongxi Li, Xianghang Mi (*co-first authors)
+    <br>Yeonjoon Lee*, <span style="text-decoration:underline;">Xueqiang Wang</span>*, Kwangwuk Lee, Xiaojing Liao, XiaoFeng Wang, Tongxi Li, Xianghang Mi (*co-first authors)
     <br><i>In USENIX Security'19</i>
   </li>
   <br>
