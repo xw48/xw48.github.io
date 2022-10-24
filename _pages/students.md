@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Students"
-permalink: /patents/
+permalink: /students/
 author_profile: true
 ---
 
