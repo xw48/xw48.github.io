@@ -17,7 +17,7 @@ redirect_from:
 
 <li>Cybercrime: <a href="https://xw48.github.io/files/wang2021understanding.pdf" target="_blank" rel="noopener">[USENIX Security'21]</a>, <a href="https://xw48.github.io/files/lee2019understanding.pdf" target="_blank" rel="noopener">[TDSC'19]</a>, <a href="https://xw48.github.io/files/lee2019understandingi.pdf" target="_blank" rel="noopener">[USENIX Security'19]</a></li>
 
-<li>Software Supply Chain Security: <a href="https://xw48.github.io/files/wang2019looking.pdf" target="_blank" rel="noopener">[USENIX Security'19]</a>, <a href="https://xw48.github.io/files/wang2021understanding.pdf" target="_blank" rel="noopener">[USENIX Security'21]</a></li>
+<li>Software Supply Chain Security: <a href="https://xw48.github.io/files/wang2019looking.pdf" target="_blank" rel="noopener">[USENIX Security'19]</a>, <a href="https://xw48.github.io/files/wang2021understanding.pdf" target="_blank" rel="noopener">[USENIX Security'21]</a>,<a href="" target="_blank" rel="noopener">[USENIX Security'23]</a></li>
 
 <li>IoT Security/Privacy: <a href="https://xw48.github.io/files/wang2019looking.pdf" target="_blank" rel="noopener">[USENIX Security'19]</a>, <a href="#" target="_blank" rel="noopener">[USENIX Security'23]</a></li>
 
@@ -26,7 +26,8 @@ redirect_from:
 
 <h3>News</h3>
 <ul>
-  <li>(09/2022) Our paper on the large-scale analysis of IoT data exposure is accepted to USENIX Security 2023. </li>
+  <li>(03/2023) Our paper on software supply chain security is accepted to USENIX Security 2023. </li>
+  <li>(09/2022) Our paper on a large-scale analysis of IoT data exposure is accepted to USENIX Security 2023. </li>
   <li>(07/2022) Our paper on the security of exposed cloud services is accepted to USENIX Security 2023. </li>
   <li>(07/2022) I will serve as a PC member of <a href="https://sulab-sever.u-aizu.ac.jp/ACNS2023/index.html">ACNS 2023</a> (Applied Cryptography and Network Security 2023).</li>
   <li>(03/2022) I will join UCF as a tenure-track assistant professor in fall 2022.</li>
