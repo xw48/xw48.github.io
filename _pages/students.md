@@ -5,21 +5,17 @@ permalink: /students/
 author_profile: true
 ---
 
+Current Students:
+- Edelma Saenz (UCF REU, 2023)
 
-<p>I am looking for several self-motivated <b>Ph.D. students</b> and <b>visiting postdoctoral scholars</b> who are passionate in exploring issues in the broad domain of security and privacy to join our team at UCF. If you are interested, please feel free to drop an email at <span style="color:blue">xueqiang.wang@ucf.edu</span> with the title <span style="color:blue">"Prospective Student [Your Name]"</span>, your research interests, and your CV.</p>
+I also work closely with the following students:
+- Zhaoxin Cai (Sun Yat-sen University）
+- Tao Jing (Huazhong University of Science and Technology)
+- Sungbin Park (Hanyang University)
+- Yifan Zhang (Indiana University Bloomington)
 
-<p>Before contacting me, I recommend reading the below information.
-<br><b>Application Requirements?</b>: All applicants need to meet the <a href="https://www.cs.ucf.edu/graduate/graduate-admissions/">UCF graduate admissions requirements</a>. Please don’t contact me if you fail to meet any of them, as I cannot make a waiver of any kind.</p>
-  
-<b>Funding?</b>: All Ph.D. students will have support for tuition fees, health insurance, and stipends that cover their living expenses. I don’t support short-term visitors, and visiting scholars without a Ph.D. degree, unless I know them well through prior collaborations or they are referred by someone I know well. 
-  
-<b>Is security background required?</b>: The short answer is NO. Although I do appreciate research experience in security, it is not a requirement for joining our team. I am looking for students with diverse backgrounds (e.g., in NLP, ML, Hardware, etc.), so that we can explore interesting security problems in a broader domain.
-  
-<b>Is GRE/TOEFL required?</b>: YES for international students. Please see <a href="https://www.cs.ucf.edu/graduate/graduate-admissions/">UCF graduate admissions requirements</a> for more information.
+Past Students and Mentees:
+- Autumn Li, UC Berkeley (SDE Intern at Amazon Lab126, 2021)
+- Jourdan Beverly (IU REU/SROC, 2016)
 
-<b>How long is the PhD program?</b> This depends on the research topic, how motivated you are, and many other factors that affect your study. Ph.D. is a challenging, enjoyable, and long journey. I see students take 4-8 years. 
-  
-<p>UCF is a <a href="https://en.wikipedia.org/wiki/List_of_research_universities_in_the_United_States">Carnegie Research I (R1)</a> university located in Orlando, Florida. UCF is ranked #53 overall for Computer Science in US according to  <a href="http://csrankings.org/#/index?all">CSRankings.org</a>, and is ranked #69 according to <a href="https://www.usnews.com/best-graduate-schools/top-science-schools/computer-science-rankings">US News</a>.</p>
-
-  
-  
+<p><b><span style="color:red">Hiring:</span></b> I am looking for several self-motivated <b>Ph.D. students</b> and <b>visiting postdoctoral scholars</b> who are passionate in exploring issues in the broad domain of security and privacy to join our team at UCF. If you are interested, please feel free to drop an email at <span style="color:blue">xueqiang.wang@ucf.edu</span> with the title <span style="color:blue">"Prospective Student [Your Name]"</span>, your research interests, and your CV. <a href="https://xw48.github.io/faqs">FAQs for Future Students</a></p>
