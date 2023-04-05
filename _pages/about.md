@@ -26,6 +26,7 @@ redirect_from:
 
 <h3>News</h3>
 <ul>
+  <li>(04/2023) Our paper on mobile dark user interface patterns is accepted to DSN 2023. </li>
   <li>(03/2023) Our paper on software supply chain security is accepted to USENIX Security 2023. </li>
   <li>(09/2022) Our paper on a large-scale analysis of IoT data exposure is accepted to USENIX Security 2023. </li>
   <li>(07/2022) Our paper on the security of exposed cloud services is accepted to USENIX Security 2023. </li>
