@@ -8,6 +8,26 @@ author_profile: true
 <ul>
     <li>
     <font size="4">
+      <strong>DARPA: Combating Asymmetric Dark UI Patterns on Android with Run-time View Decorator</strong>
+      <a style="color:#3364FF" href="#" target="_blank" rel="noopener">[PDF]</a>
+      <a style="color:#CE33FF" href="#b" target="_blank" rel="noopener">[Bib]</a>
+    </font>
+    <br>Zhaoxin Cai, Yuhong Nan, <span style="text-decoration:underline;">Xueqiang Wang</span>, Mengyi Long, Qihua Ou, Min Yang, Zibin Zheng
+    <br><i>To Appear in DSN’23</i>
+  </li>
+   <br>
+    <li>
+    <font size="4">
+      <strong>Union under Duress: Understanding Hazards of Duplicate Resource Mismediation in Android Software Supply Chain</strong>
+      <a style="color:#3364FF" href="#" target="_blank" rel="noopener">[PDF]</a>
+      <a style="color:#CE33FF" href="#b" target="_blank" rel="noopener">[Bib]</a>
+    </font>
+    <br><span style="text-decoration:underline;">Xueqiang Wang</span>, Yifan Zhang, XiaoFeng Wang, Yan Jia, Luyi Xing
+    <br><i>To Appear in USENIX Security’23</i>
+  </li>
+   <br>
+    <li>
+    <font size="4">
       <strong>Are You Spying on Me? Large-Scale Analysis on IoT Data Exposure through Companion Apps</strong>
       <a style="color:#3364FF" href="#" target="_blank" rel="noopener">[PDF]</a>
       <a style="color:#CE33FF" href="#b" target="_blank" rel="noopener">[Bib]</a>
