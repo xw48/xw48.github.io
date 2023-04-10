@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Short Bio"
+title: "Xueqiang Wang (Cyber Security & Privacy at UCF)"
 excerpt: "Short Bio"
 author_profile: true
 redirect_from: 
