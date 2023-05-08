@@ -1,12 +1,13 @@
 ---
 permalink: /
-title: "Welcome"
-excerpt: "Xueqiang Wang (Cyber Security & Privacy at UCF)"
+excerpt: "Homepage - Xueqiang Wang"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+Welcome to Xueqiang Wang's homepage!
 
 <p> I am an Assistant Professor of Computer Science at <a href="https://www.ucf.edu" target="_blank" rel="noopener">UCF</a>, where I am also a member of the Cyber Security and Privacy Cluster (<a href="https://sites.google.com/view/ucfcybersp/home" target="_blank" rel="noopener">CyberSP</a>). I obtained my Ph.D. degree in 2021 from Indiana University Bloomington under the guidance of Dr. XiaoFeng Wang. Prior to that, I earned a Master's degree from IIE CAS in 2015 and a Bachelor's degree from USTC in 2012. </p>
 
