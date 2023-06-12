@@ -5,7 +5,9 @@ permalink: /students/
 author_profile: true
 ---
 
-Current Students:
+Current/Incoming Students:
+- Jingzhou Ye (PhD, Fall 2023)
+- Zhaojie Hu (PhD, Fall 2023)
 - Edelma Saenz (UCF REU, 2023)
 
 I also work closely with the following students:
