@@ -20,6 +20,6 @@ Past Students and Mentees:
 - Autumn Li, UC Berkeley (SDE Intern at Amazon Lab126, 2021)
 - Jourdan Beverly (IU REU/SROC, 2016)
 
-<p><b><span style="color:red">Hiring:</span></b> I am looking for several self-motivated <b>Ph.D. students</b> and <b>visiting postdoctoral scholars</b> who are passionate in exploring issues in the broad domain of security and privacy to join our team at UCF. If you are interested, please feel free to drop an email at <span style="color:blue">xueqiang.wang@ucf.edu</span> with the title <span style="color:blue">"Prospective Student [Your Name]"</span>, your research interests, and your CV. </p>
+<p><b><span style="color:red">Opening:</span></b> I am looking for one self-motivated <b>Ph.D. student</b> (starting Spring 2024) who is passionate about exploring issues in the broad domain of security and privacy to join our team at UCF. If you are interested, please feel free to send an email to <span style="color:blue">xueqiang.wang@ucf.edu</span> with the subject line <span style="color:blue">"Prospective Student [Your Name]"</span>, your research interests, and your CV. </p>
 
 <!--- <a href="https://xw48.github.io/faqs">FAQs for Future Students</a></p> -->
