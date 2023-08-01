@@ -9,7 +9,7 @@ author_profile: true
     <li>
     <font size="4">
       <strong>DARPA: Combating Asymmetric Dark UI Patterns on Android with Run-time View Decorator</strong>
-      <a style="color:#3364FF" href="#" target="_blank" rel="noopener">[PDF]</a>
+      <a style="color:#3364FF" href="https://xw48.github.io/files/cai2023darpa.pdf" target="_blank" rel="noopener">[PDF]</a>
       <a style="color:#CE33FF" href="#b" target="_blank" rel="noopener">[Bib]</a>
     </font>
     <br>Zhaoxin Cai, Yuhong Nan, <span style="text-decoration:underline;">Xueqiang Wang</span>, Mengyi Long, Qihua Ou, Min Yang, Zibin Zheng
@@ -19,7 +19,7 @@ author_profile: true
     <li>
     <font size="4">
       <strong>Union under Duress: Understanding Hazards of Duplicate Resource Mismediation in Android Software Supply Chain</strong>
-      <a style="color:#3364FF" href="#" target="_blank" rel="noopener">[PDF]</a>
+      <a style="color:#3364FF" href="https://xw48.github.io/files/wang2023duress.pdf" target="_blank" rel="noopener">[PDF]</a>
       <a style="color:#CE33FF" href="#b" target="_blank" rel="noopener">[Bib]</a>
     </font>
     <br><span style="text-decoration:underline;">Xueqiang Wang</span>, Yifan Zhang, XiaoFeng Wang, Yan Jia, Luyi Xing
@@ -29,7 +29,7 @@ author_profile: true
     <li>
     <font size="4">
       <strong>Are You Spying on Me? Large-Scale Analysis on IoT Data Exposure through Companion Apps</strong>
-      <a style="color:#3364FF" href="#" target="_blank" rel="noopener">[PDF]</a>
+      <a style="color:#3364FF" href="https://xw48.github.io/files/nan2023iotprofiler.pdf" target="_blank" rel="noopener">[PDF]</a>
       <a style="color:#CE33FF" href="#b" target="_blank" rel="noopener">[Bib]</a>
       <a style="color:#FF3C33" href="https://sites.google.com/view/iotprofiler" target="_blank" rel="noopener">[Supplementary]</a>
     </font>
@@ -40,7 +40,7 @@ author_profile: true
    <li>
     <font size="4">
       <strong>Credit Karma: Understanding Security Implications of Exposed Cloud Services through Automated Capability Inference</strong>
-      <a style="color:#3364FF" href="#" target="_blank" rel="noopener">[PDF]</a>
+      <a style="color:#3364FF" href="https://xw48.github.io/files/wang2023creditkarma.pdf" target="_blank" rel="noopener">[PDF]</a>
       <a style="color:#CE33FF" href="#b" target="_blank" rel="noopener">[Bib]</a>
     </font>
     <br><span style="text-decoration:underline;">Xueqiang Wang*</span>, Yuqiong Sun*, Susanta Nanda, XiaoFeng Wang (*co-first authors)
