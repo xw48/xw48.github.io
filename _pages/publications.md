@@ -31,6 +31,7 @@ author_profile: true
       <strong>Are You Spying on Me? Large-Scale Analysis on IoT Data Exposure through Companion Apps</strong>
       <a style="color:#3364FF" href="#" target="_blank" rel="noopener">[PDF]</a>
       <a style="color:#CE33FF" href="#b" target="_blank" rel="noopener">[Bib]</a>
+      <a style="color:#FF3C33" href="https://sites.google.com/view/iotprofiler" target="_blank" rel="noopener">[Supplementary]</a>
     </font>
     <br>Yuhong Nan*, <span style="text-decoration:underline;">Xueqiang Wang*</span>, Luyi Xing, Xiaojing Liao, Ruoyu Wu, Jianliang Wu, Yifan Zhang, XiaoFeng Wang (*co-first authors)
     <br><i>To Appear in USENIX Security’23</i>
