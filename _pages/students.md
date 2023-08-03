@@ -5,7 +5,7 @@ permalink: /students/
 author_profile: true
 ---
 
-Current/Incoming Students:
+Current Students:
 - Jingzhou Ye (PhD, Fall 2023)
 - Zhaojie Hu (PhD, Fall 2023)
 
