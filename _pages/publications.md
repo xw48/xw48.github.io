@@ -212,7 +212,7 @@ author_profile: true
   <br>
   <li>
     <font size="4">
-      <strong>A Behavior Monitoring Scheme of Android Applications for Flexible Deployment (In Chinese)</strong>
+      <strong>An Easy-To-Deploy Behavior Monitoring Scheme for Android Applications (In Chinese)</strong>
     </font>
     <br><span style="text-decoration:underline;">Xueqiang Wang</span>, Lingguang Lei, Yuewu Wang
     <br><i>In Journal of University of Chinese Academy of Sciences</i>
@@ -222,7 +222,7 @@ author_profile: true
     <font size="4">
       <strong>A Review of Security Threats of Mobile Internet (In Chinese)</strong>
     </font>
-    <br><span style="text-decoration:underline;">Xueqiang Wang</span>, Yuewu Wang, Lingguang Lei
+    <br><span style="text-decoration:underline;">Xueqiang Wang</span>, Lingguang Lei, Yuewu Wang
     <br><i>In Netinfo Security</i>
   </li>
   <br>
