@@ -124,7 +124,6 @@ author_profile: true
     </font>
     <br>Wei You, <span style="text-decoration:underline;">Xueqiang Wang</span>, Shiqing Ma, Jianjun Huang, Xiangyu Zhang, XiaoFeng Wang, Bin Liang
     <br><i>In Security and Privacy (SP'19)</i>
-    <br>[<b><i><span style="color:maroon;">CSAW 2019 Best Applied Security Paper Award TOP-10 Finalists</span></i></b>]
   </li>
   <br>
   <li>
@@ -135,7 +134,6 @@ author_profile: true
     </font>
     <br>Xiaokuan Zhang, <span style="text-decoration:underline;">Xueqiang Wang</span>, Xiaolong Bai, Yinqian Zhang, XiaoFeng Wang
     <br><i>In the Network and Distributed System Security Symposium (NDSS'18)</i>
-    <br>[<b><i><span style="color:maroon;">CSAW 2018 Best Applied Security Paper Award TOP-10 Finalists</span></i></b>]
   </li>
   <br>
   <li>
