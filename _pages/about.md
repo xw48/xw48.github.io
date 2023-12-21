@@ -11,13 +11,14 @@ Welcome to Xueqiang Wang's homepage!
 
 <p> I am an Assistant Professor of Computer Science at <a href="https://www.ucf.edu" target="_blank" rel="noopener">UCF</a>, where I am also a member of the Cyber Security and Privacy Cluster (<a href="https://sites.google.com/view/ucfcybersp/home" target="_blank" rel="noopener">CyberSP</a>). I obtained my Ph.D. degree in 2021 from Indiana University Bloomington under the guidance of Dr. XiaoFeng Wang. Prior to that, I earned a Master's degree from IIE CAS in 2015 and a Bachelor's degree from USTC in 2012. </p>
 
-<p> My research interests lie in the broad areas of mobile/IoT security, software supply chain security, and cybercrime. In particular, my current research focuses on safeguarding end-users and developers by identifying new attack vectors, and developing data-driven security analysis methodologies to quantify and measure their security and privacy impacts. </p>
+<p>
+  My current research interests are in <b>software supply chain security</b> and <b>privacy automation</b>. I am also interested in mobile/IoT system security and cybercrime, with a focus on safeguarding end-users and developers by identifying new attack vectors and developing data-driven security analysis methodologies to quantify and measure their security and privacy impacts. </p>
 
 <ul>
+<li>Software Supply Chain Security: <a href="https://xw48.github.io/files/wang2023duress.pdf" target="_blank" rel="noopener">[USENIX Security'23-C]</a>, <a href="https://xw48.github.io/files/wang2021understanding.pdf" target="_blank" rel="noopener">[USENIX Security'21]</a>, <a href="https://xw48.github.io/files/wang2019looking.pdf" target="_blank" rel="noopener">[USENIX Security'19]</a>, <a href="https://xw48.github.io/files/you2019profuzzer.pdf" target="_blank" rel="noopener">[SP'19]</a></li>
+
 <li>Mobile/IoT Security: 
   <a href="https://xw48.github.io/files/nan2023iotprofiler.pdf" target="_blank" rel="noopener">[USENIX Security'23-A]</a>, <a href="https://xw48.github.io/files/wang2023creditkarma.pdf" target="_blank" rel="noopener">[USENIX Security'23-B]</a>, <a href="" target="_blank" rel="noopener">[DSN'23]</a>, <a href="https://xw48.github.io/files/lu2020demystifying.pdf" target="_blank" rel="noopener">[CCS'20]</a>, <a href="https://xw48.github.io/files/wang2019looking.pdf" target="_blank" rel="noopener">[USENIX Security'19]</a>, <a href="https://xw48.github.io/files/zhang2018level.pdf" target="_blank" rel="noopener">[NDSS'18]</a>, <a href="https://xw48.github.io/files/duan2018things.pdf" target="_blank" rel="noopener">[NDSS'18]</a>, <a href="https://xw48.github.io/files/li2017unleashing.pdf" target="_blank" rel="noopener">[CCS'17]</a>, <a href="https://xw48.github.io/files/pan2017dark.pdf" target="_blank" rel="noopener">[NDSS'17]</a>, <a href="https://xw48.github.io/files/chen2016following.pdf" target="_blank" rel="noopener">[SP'16]</a>, <a href="https://xw48.github.io/files/wang2015deepdroid.pdf" target="_blank" rel="noopener">[NDSS'15]</a>,  <a href="https://xw48.github.io/files/wang2014wrapdroid.pdf" target="_blank" rel="noopener">[ICISC'14]</a></li>
-
-<li>Software Supply Chain Security: <a href="https://xw48.github.io/files/wang2023duress.pdf" target="_blank" rel="noopener">[USENIX Security'23-C]</a>, <a href="https://xw48.github.io/files/wang2021understanding.pdf" target="_blank" rel="noopener">[USENIX Security'21]</a>, <a href="https://xw48.github.io/files/wang2019looking.pdf" target="_blank" rel="noopener">[USENIX Security'19]</a>, <a href="https://xw48.github.io/files/you2019profuzzer.pdf" target="_blank" rel="noopener">[SP'19]</a></li>
 
 <li>Cybercrime: <a href="https://xw48.github.io/files/wang2021understanding.pdf" target="_blank" rel="noopener">[USENIX Security'21]</a>, <a href="https://xw48.github.io/files/lee2019understanding.pdf" target="_blank" rel="noopener">[TDSC'19]</a>, <a href="https://xw48.github.io/files/lee2019understandingi.pdf" target="_blank" rel="noopener">[USENIX Security'19]</a></li>
 
@@ -25,6 +26,9 @@ Welcome to Xueqiang Wang's homepage!
 
 <h3>News</h3>
 <ul>
+  <li>(10/2023) I am serving as registration chair for CCS'24. </li>
+  <li>(09/2023) NSF awarded our collaborative grant led by FIU through the CyberTraining program. </li>
+  <li>(08/2023) I will serve as a PC member of <a href="https://eurosp2024.ieee-security.org/">EuroS&P 2024</a> </li>
   <li>(08/2023) Welcome Jingzhou and Zhaojie to the team! </li>
   <li>(04/2023) Our paper on mobile dark user interface patterns is accepted to DSN 2023. </li>
   <li>(03/2023) Our paper on software supply chain security is accepted to USENIX Security 2023. </li>
