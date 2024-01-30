@@ -27,7 +27,7 @@ Welcome to Xueqiang Wang's homepage!
 <h3>News</h3>
 <ul>
   <li>(10/2023) I am serving as registration chair for CCS'24. </li>
-  <li>(09/2023) NSF awarded our collaborative grant led by FIU through the CyberTraining program. </li>
+  <li>(09/2023) NSF awarded our collaborative grant led by FAU through the CyberTraining program. </li>
   <li>(08/2023) I will serve as a PC member of <a href="https://eurosp2024.ieee-security.org/">EuroS&P 2024</a> </li>
   <li>(08/2023) Welcome Jingzhou and Zhaojie to the team! </li>
   <li>(04/2023) Our paper on mobile dark user interface patterns is accepted to DSN 2023. </li>
