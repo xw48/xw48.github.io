@@ -7,12 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to Xueqiang Wang's homepage!
+<p> Xueqiang (Brandon) Wang is an Assistant Professor of Computer Science at <a href="https://www.ucf.edu" target="_blank" rel="noopener">UCF</a>, where he is also a member of the Cyber Security and Privacy Cluster (<a href="https://sites.google.com/view/ucfcybersp/home" target="_blank" rel="noopener">CyberSP</a>). Dr. Wang obtained his Ph.D. degree in 2021 from Indiana University Bloomington under the guidance of Dr. XiaoFeng Wang. Prior to that, he earned a Master's degree from IIE CAS in 2015 and a Bachelor's degree from USTC in 2012. </p>
 
-<p> I am an Assistant Professor of Computer Science at <a href="https://www.ucf.edu" target="_blank" rel="noopener">UCF</a>, where I am also a member of the Cyber Security and Privacy Cluster (<a href="https://sites.google.com/view/ucfcybersp/home" target="_blank" rel="noopener">CyberSP</a>). I obtained my Ph.D. degree in 2021 from Indiana University Bloomington under the guidance of Dr. XiaoFeng Wang. Prior to that, I earned a Master's degree from IIE CAS in 2015 and a Bachelor's degree from USTC in 2012. </p>
-
-<p>
-  My current research interests are in <b>software supply chain security</b> and <b>privacy automation</b>. I am also interested in mobile/IoT system security and cybercrime, with a focus on safeguarding end-users and developers by identifying new attack vectors and developing data-driven security analysis methodologies to quantify and measure their security and privacy impacts. </p>
+<p> Dr. Wang leads the Security and PRIvacy for smarT applications (SPIRIT) lab at UCF. His current research interests are in <b>software supply chain security</b> and <b>privacy automation</b>. He is also interested in mobile/IoT system security and cybercrime, with a focus on safeguarding end-users and developers by identifying new attack vectors and developing data-driven security analysis methodologies to quantify and measure their security and privacy impacts. </p>
 
 <ul>
 <li>Software Supply Chain Security: <a href="https://xw48.github.io/files/wang2023duress.pdf" target="_blank" rel="noopener">[USENIX Security'23-C]</a>, <a href="https://xw48.github.io/files/wang2021understanding.pdf" target="_blank" rel="noopener">[USENIX Security'21]</a>, <a href="https://xw48.github.io/files/wang2019looking.pdf" target="_blank" rel="noopener">[USENIX Security'19]</a>, <a href="https://xw48.github.io/files/you2019profuzzer.pdf" target="_blank" rel="noopener">[SP'19]</a></li>
