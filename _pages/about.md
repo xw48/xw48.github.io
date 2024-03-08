@@ -7,7 +7,19 @@ redirect_from:
   - /about.html
 ---
 
-<p> Xueqiang (Brandon) Wang is an Assistant Professor of Computer Science at <a href="https://www.ucf.edu" target="_blank" rel="noopener">UCF</a>, where he is also a member of the Cyber Security and Privacy Cluster (<a href="https://sites.google.com/view/ucfcybersp/home" target="_blank" rel="noopener">CyberSP</a>). Dr. Wang obtained his Ph.D. degree in 2021 from Indiana University Bloomington under the guidance of Dr. XiaoFeng Wang. Prior to that, he earned a Master's degree from IIE CAS in 2015 and a Bachelor's degree from USTC in 2012. </p>
+
+
+<table border="1" cellpadding="10" cellspacing="0">
+  <tr>
+    <td>
+      <p><font size="-2"><b><span style="color:red">Openings:</span></b> The SPIRIT lab is looking for one self-motivated <b>Ph.D. student</b> (starting Fall 2024, Spring 2025) who is passionate about exploring security and privacy issues in the software supply chain to join our team at UCF. Students with experience in software analysis, or vulnerability detection and mitigation are highly encouraged to apply.</font></p>
+
+<p><font size="-2">If you are interested, please feel free to send an email to <span style="color:blue">xueqiang.wang@ucf.edu</span> with the subject line <span style="color:blue">"Prospective Student [Your Name]"</span>, your research interests, and your CV. For more information about CS PhD program at UCF, please visit the <a href="https://www.cs.ucf.edu/graduate/computer-science-phd/">program webpage!</a></font></p> 
+    </td>
+  </tr>
+</table>
+
+<p>Xueqiang (Brandon) Wang is an Assistant Professor of Computer Science at <a href="https://www.ucf.edu" target="_blank" rel="noopener">UCF</a>, where he is also a member of the Cyber Security and Privacy Cluster (<a href="https://sites.google.com/view/ucfcybersp/home" target="_blank" rel="noopener">CyberSP</a>). Dr. Wang obtained his Ph.D. degree in 2021 from Indiana University Bloomington under the guidance of Dr. XiaoFeng Wang. Prior to that, he earned a Master's degree from IIE CAS in 2015 and a Bachelor's degree from USTC in 2012. </p>
 
 <p> Dr. Wang leads the Security and PRIvacy for smarT applications (<b>SPIRIT</b>) lab at UCF. His current research interests are in <b>software supply chain security</b> and <b>privacy automation</b>. He is also interested in mobile/IoT system security and cybercrime, with a focus on safeguarding end-users and developers by identifying new attack vectors and developing data-driven security analysis methodologies to quantify and measure their security and privacy impacts. </p>
 
