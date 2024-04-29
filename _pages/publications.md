@@ -43,7 +43,7 @@ author_profile: true
       <a style="color:#CE33FF" href="https://xw48.github.io/files/wang2023duress.bib" target="_blank" rel="noopener">[Bib]</a>
     </font>
     <br><span style="text-decoration:underline;">Xueqiang Wang</span>, Yifan Zhang, XiaoFeng Wang, Yan Jia, Luyi Xing
-    <br><i>To Appear in USENIX Security’23</i>
+    <br><i>In USENIX Security’23</i>
   </li>
    <br>
     <li>
@@ -54,7 +54,7 @@ author_profile: true
       <a style="color:#FF3C33" href="https://sites.google.com/view/iotprofiler" target="_blank" rel="noopener">[Supplementary]</a>
     </font>
     <br>Yuhong Nan*, <span style="text-decoration:underline;">Xueqiang Wang*</span>, Luyi Xing, Xiaojing Liao, Ruoyu Wu, Jianliang Wu, Yifan Zhang, XiaoFeng Wang (*co-first authors)
-    <br><i>To Appear in USENIX Security’23</i>
+    <br><i>In USENIX Security’23</i>
   </li>
    <br>
    <li>
@@ -64,7 +64,7 @@ author_profile: true
       <a style="color:#CE33FF" href="https://xw48.github.io/files/wang2023creditkarma.bib" target="_blank" rel="noopener">[Bib]</a>
     </font>
     <br><span style="text-decoration:underline;">Xueqiang Wang*</span>, Yuqiong Sun*, Susanta Nanda, XiaoFeng Wang (*co-first authors)
-    <br><i>To Appear in USENIX Security’23</i>
+    <br><i>In USENIX Security’23</i>
   </li>
   <br>
    <li>
