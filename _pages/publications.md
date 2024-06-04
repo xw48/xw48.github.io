@@ -8,8 +8,18 @@ author_profile: true
 <ul>
     <li>
     <font size="4">
+      <strong>Navigating the Privacy Compliance Maze: Understanding Risks with Privacy-Configurable Mobile SDKs</strong>
+      <a style="color:#3364FF" href="" target="https://xw48.github.io/files/pico-preview.pdf" rel="noopener">[PDF]</a>
+      <a style="color:#CE33FF" href="" target="_blank" rel="noopener">[Bib]</a>
+    </font>
+    <br>Yifan Zhang*, Zhaojie Hu*, Xueqiang Wang, Yuhui Hong, Yuhong Nan, XiaoFeng Wang, Jiatao Cheng, Luyi Xing
+    <br><i>In USENIX Security'24</i>
+  </li>
+   <br>
+    <li>
+    <font size="4">
       <strong>Seeing is Not Always Believing: An Empirical Analysis of Fake Evidence Generators</strong>
-      <a style="color:#3364FF" href="" target="_blank" rel="noopener">[PDF]</a>
+      <a style="color:#3364FF" href="" target="https://xw48.github.io/files/fegen.pdf" rel="noopener">[PDF]</a>
       <a style="color:#CE33FF" href="" target="_blank" rel="noopener">[Bib]</a>
     </font>
     <br>Zhaojie Hu*, Jingzhou Ye*, Yifan Zhang, <span style="text-decoration:underline;">Xueqiang Wang</span>
@@ -19,7 +29,7 @@ author_profile: true
     <li>
     <font size="4">
       <strong>STATION: Gesture-Based Authentication for Voice Interfaces</strong>
-      <a style="color:#3364FF" href="" target="_blank" rel="noopener">[PDF]</a>
+      <a style="color:#3364FF" href="" target="https://ieeexplore.ieee.org/document/10485205" rel="noopener">[PDF]</a>
       <a style="color:#CE33FF" href="" target="_blank" rel="noopener">[Bib]</a>
     </font>
     <br>Sungbin Park, <span style="text-decoration:underline;">Xueqiang Wang</span>, Kai Chen, Yeonjoon Lee
