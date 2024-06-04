@@ -22,7 +22,7 @@ author_profile: true
       <a style="color:#3364FF" href="" target="https://xw48.github.io/files/fegen.pdf" rel="noopener">[PDF]</a>
       <a style="color:#CE33FF" href="" target="_blank" rel="noopener">[Bib]</a>
     </font>
-    <br>Zhaojie Hu*, Jingzhou Ye*, Yifan Zhang, <span style="text-decoration:underline;">Xueqiang Wang</span>
+    <br>Zhaojie Hu*, Jingzhou Ye*, Yifan Zhang, Xueqiang Wang
     <br><i>In EuroS&P’24</i>
   </li>
    <br>
@@ -32,7 +32,7 @@ author_profile: true
       <a style="color:#3364FF" href="" target="https://ieeexplore.ieee.org/document/10485205" rel="noopener">[PDF]</a>
       <a style="color:#CE33FF" href="" target="_blank" rel="noopener">[Bib]</a>
     </font>
-    <br>Sungbin Park, <span style="text-decoration:underline;">Xueqiang Wang</span>, Kai Chen, Yeonjoon Lee
+    <br>Sungbin Park, Xueqiang Wang, Kai Chen, Yeonjoon Lee
     <br><i>In IoT-J’24</i>
   </li>
    <br>
@@ -42,7 +42,7 @@ author_profile: true
       <a style="color:#3364FF" href="https://xw48.github.io/files/cai2023darpa.pdf" target="_blank" rel="noopener">[PDF]</a>
       <a style="color:#CE33FF" href="https://xw48.github.io/files/cai2023darpa.bib" target="_blank" rel="noopener">[Bib]</a>
     </font>
-    <br>Zhaoxin Cai, Yuhong Nan, <span style="text-decoration:underline;">Xueqiang Wang</span>, Mengyi Long, Qihua Ou, Min Yang, Zibin Zheng
+    <br>Zhaoxin Cai, Yuhong Nan, Xueqiang Wang, Mengyi Long, Qihua Ou, Min Yang, Zibin Zheng
     <br><i>In DSN’23</i>
   </li>
    <br>
@@ -52,7 +52,7 @@ author_profile: true
       <a style="color:#3364FF" href="https://xw48.github.io/files/wang2023duress.pdf" target="_blank" rel="noopener">[PDF]</a>
       <a style="color:#CE33FF" href="https://xw48.github.io/files/wang2023duress.bib" target="_blank" rel="noopener">[Bib]</a>
     </font>
-    <br><span style="text-decoration:underline;">Xueqiang Wang</span>, Yifan Zhang, XiaoFeng Wang, Yan Jia, Luyi Xing
+    <br>Xueqiang Wang, Yifan Zhang, XiaoFeng Wang, Yan Jia, Luyi Xing
     <br><i>In USENIX Security’23</i>
   </li>
    <br>
@@ -63,7 +63,7 @@ author_profile: true
       <a style="color:#CE33FF" href="https://xw48.github.io/files/nan2023iotprofiler.bib" target="_blank" rel="noopener">[Bib]</a>
       <a style="color:#FF3C33" href="https://sites.google.com/view/iotprofiler" target="_blank" rel="noopener">[Supplementary]</a>
     </font>
-    <br>Yuhong Nan*, <span style="text-decoration:underline;">Xueqiang Wang*</span>, Luyi Xing, Xiaojing Liao, Ruoyu Wu, Jianliang Wu, Yifan Zhang, XiaoFeng Wang (*co-first authors)
+    <br>Yuhong Nan*, Xueqiang Wang*, Luyi Xing, Xiaojing Liao, Ruoyu Wu, Jianliang Wu, Yifan Zhang, XiaoFeng Wang (*co-first authors)
     <br><i>In USENIX Security’23</i>
   </li>
    <br>
@@ -73,7 +73,7 @@ author_profile: true
       <a style="color:#3364FF" href="https://xw48.github.io/files/wang2023creditkarma.pdf" target="_blank" rel="noopener">[PDF]</a>
       <a style="color:#CE33FF" href="https://xw48.github.io/files/wang2023creditkarma.bib" target="_blank" rel="noopener">[Bib]</a>
     </font>
-    <br><span style="text-decoration:underline;">Xueqiang Wang*</span>, Yuqiong Sun*, Susanta Nanda, XiaoFeng Wang (*co-first authors)
+    <br>Xueqiang Wang*, Yuqiong Sun*, Susanta Nanda, XiaoFeng Wang (*co-first authors)
     <br><i>In USENIX Security’23</i>
   </li>
   <br>
@@ -83,7 +83,7 @@ author_profile: true
       <a style="color:#3364FF" href="https://xw48.github.io/files/wang2021understanding.pdf" target="_blank" rel="noopener">[PDF]</a>
       <a style="color:#CE33FF" href="https://xw48.github.io/files/wang2021understanding.bib" target="_blank" rel="noopener">[Bib]</a>
     </font>
-      <br>Jice Wang*, Yue Xiao*, <span style="text-decoration:underline;">Xueqiang Wang</span>, Yuhong Nan, Luyi Xing, Xiaojing Liao, JinWei Dong, Nicolas Serrano, XiaoFeng Wang, Yuqing Zhang, Haoran Lu (*co-first authors)
+      <br>Jice Wang*, Yue Xiao*, Xueqiang Wang, Yuhong Nan, Luyi Xing, Xiaojing Liao, JinWei Dong, Nicolas Serrano, XiaoFeng Wang, Yuqing Zhang, Haoran Lu (*co-first authors)
     <br><i>In USENIX Security’21</i>
   </li>
   <br>
@@ -93,7 +93,7 @@ author_profile: true
       <a style="color:#3364FF" href="https://xw48.github.io/files/lu2020demystifying.pdf" target="_blank" rel="noopener">[PDF]</a>
       <a style="color:#CE33FF" href="https://xw48.github.io/files/lu2020demystifying.bib" target="_blank" rel="noopener">[Bib]</a>
     </font>
-    <br>Haoran Lu, Luyi Xing, Yue Xiao, Yifan Zhang, Xiaojing Liao, XiaoFeng Wang, <span style="text-decoration:underline;">Xueqiang Wang</span>
+    <br>Haoran Lu, Luyi Xing, Yue Xiao, Yifan Zhang, Xiaojing Liao, XiaoFeng Wang, Xueqiang Wang
     <br><i>In CCS'20</i>
   </li>
   <br>
@@ -105,7 +105,7 @@ author_profile: true
       <a style="color:#FF3C33" href="https://sites.google.com/site/ioschameleons/" target="_blank" rel="noopener">[Supplementary]</a>
       <a style="color:#FF3C33" href="https://spectrum.ieee.org/tech-talk/computing/software/new-screening-technique-reveals-142-malicious-apple-apps" target="_blank" rel="noopener">[Media]</a>
     </font>
-    <br>Yeonjoon Lee*,<span style="text-decoration:underline;">Xueqiang Wang*</span>, Xiaojing Liao, XiaoFeng Wang (*co-first authors)
+    <br>Yeonjoon Lee*,Xueqiang Wang*, Xiaojing Liao, XiaoFeng Wang (*co-first authors)
     <br><i>In TDSC'19</i>
   </li>
   <br>
@@ -113,7 +113,7 @@ author_profile: true
     <font size="4">
       <strong>System and Methods for Evaluating Security Posture of Smart Home Devices</strong>
     </font>
-    <br>Yuqiong Sun, <span style="text-decoration:underline;">Xueqiang Wang</span>, Susanta Nanda, Petros Efstathopouloss
+    <br>Yuqiong Sun, Xueqiang Wang, Susanta Nanda, Petros Efstathopouloss
     <br><i>US Patent (US11132447B1)</i>
   </li>
   <br>
@@ -121,7 +121,7 @@ author_profile: true
     <font size="4">
       <strong>Generate Accurate IoT Device Fingerprints Without IoT Device</strong>
     </font>
-    <br>Yuqiong Sun, <span style="text-decoration:underline;">Xueqiang Wang</span>, Susanta Nanda, Yun Shen, Pierre-Antoine Vervier, Petros Efstathopouloss
+    <br>Yuqiong Sun, Xueqiang Wang, Susanta Nanda, Yun Shen, Pierre-Antoine Vervier, Petros Efstathopouloss
     <br><i>US Patent (US11122040B1)</i>
   </li>
   <br>
@@ -132,7 +132,7 @@ author_profile: true
       <a style="color:#CE33FF" href="https://xw48.github.io/files/wang2019looking.bib" target="_blank" rel="noopener">[Bib]</a>
       <a style="color:#FF3C33" href="http://seclab.soic.indiana.edu/xw48/iot_companion_appset.tar.gz" target="_blank" rel="noopener">[AppSet]</a>
     </font>
-    <br><span style="text-decoration:underline;">Xueqiang Wang</span>, Yuqiong Sun, Susanta Nanda, XiaoFeng Wang
+    <br>Xueqiang Wang, Yuqiong Sun, Susanta Nanda, XiaoFeng Wang
     <br><i>In USENIX Security'19</i>
   </li>
   <br>
@@ -142,7 +142,7 @@ author_profile: true
       <a style="color:#3364FF" href="https://xw48.github.io/files/lee2019understandingi.pdf" target="_blank" rel="noopener">[PDF]</a>
       <a style="color:#CE33FF" href="https://xw48.github.io/files/lee2019understandingi.bib" target="_blank" rel="noopener">[Bib]</a>
     </font>
-    <br>Yeonjoon Lee*, <span style="text-decoration:underline;">Xueqiang Wang</span>*, Kwangwuk Lee, Xiaojing Liao, XiaoFeng Wang, Tongxi Li, Xianghang Mi (*co-first authors)
+    <br>Yeonjoon Lee*, Xueqiang Wang*, Kwangwuk Lee, Xiaojing Liao, XiaoFeng Wang, Tongxi Li, Xianghang Mi (*co-first authors)
     <br><i>In USENIX Security'19</i>
   </li>
   <br>
@@ -152,7 +152,7 @@ author_profile: true
       <a style="color:#3364FF" href="https://xw48.github.io/files/you2019profuzzer.pdf" target="_blank" rel="noopener">[PDF]</a>
       <a style="color:#CE33FF" href="https://xw48.github.io/files/you2019profuzzer.bib" target="_blank" rel="noopener">[Bib]</a>
     </font>
-    <br>Wei You, <span style="text-decoration:underline;">Xueqiang Wang</span>, Shiqing Ma, Jianjun Huang, Xiangyu Zhang, XiaoFeng Wang, Bin Liang
+    <br>Wei You, Xueqiang Wang, Shiqing Ma, Jianjun Huang, Xiangyu Zhang, XiaoFeng Wang, Bin Liang
     <br><i>In Security and Privacy (SP'19)</i>
   </li>
   <br>
@@ -162,7 +162,7 @@ author_profile: true
       <a style="color:#3364FF" href="https://xw48.github.io/files/zhang2018level.pdf" target="_blank" rel="noopener">[PDF]</a>
       <a style="color:#CE33FF" href="https://xw48.github.io/files/zhang2018level.bib" target="_blank" rel="noopener">[Bib]</a>
     </font>
-    <br>Xiaokuan Zhang, <span style="text-decoration:underline;">Xueqiang Wang</span>, Xiaolong Bai, Yinqian Zhang, XiaoFeng Wang
+    <br>Xiaokuan Zhang, Xueqiang Wang, Xiaolong Bai, Yinqian Zhang, XiaoFeng Wang
     <br><i>In the Network and Distributed System Security Symposium (NDSS'18)</i>
   </li>
   <br>
@@ -172,7 +172,7 @@ author_profile: true
       <a style="color:#3364FF" href="https://xw48.github.io/files/duan2018things.pdf" target="_blank" rel="noopener">[PDF]</a>
       <a style="color:#CE33FF" href="https://xw48.github.io/files/duan2018things.bib" target="_blank" rel="noopener">[Bib]</a>
     </font>
-    <br>Yue Duan, Mu Zhang, Abhishek Vasist Bhaskar, Heng Yin, Xiaorui Pan, Tongxin Li, <span style="text-decoration:underline;">Xueqiang Wang</span>, Xiaofeng Wang
+    <br>Yue Duan, Mu Zhang, Abhishek Vasist Bhaskar, Heng Yin, Xiaorui Pan, Tongxin Li, Xueqiang Wang, Xiaofeng Wang
     <br><i>In the Network and Distributed System Security Symposium (NDSS'18)</i>
   </li>
   <br>
@@ -182,7 +182,7 @@ author_profile: true
       <a style="color:#3364FF" href="https://xw48.github.io/files/tang2017privacy.pdf" target="_blank" rel="noopener">[PDF]</a>
       <a style="color:#CE33FF" href="https://xw48.github.io/files/tang2017privacy.bib" target="_blank" rel="noopener">[Bib]</a>
     </font>
-    <br>Jun Tang, Aleksandra Korolova, Xiaolong Bai, <span style="text-decoration:underline;">Xueqiang Wang</span>, XiaoFeng Wang
+    <br>Jun Tang, Aleksandra Korolova, Xiaolong Bai, Xueqiang Wang, XiaoFeng Wang
     <br><i>In TPDP'17 (co-located with CCS)</i>
   </li>
   <br>
@@ -193,7 +193,7 @@ author_profile: true
       <a style="color:#CE33FF" href="https://xw48.github.io/files/li2017unleashing.bib" target="_blank" rel="noopener">[Bib]</a>
       <a style="color:#FF3C33" href="https://sites.google.com/site/xawisite/" target="_blank">[Supplementary]</a>
     </font>
-    <br>Tongxin Li, <span style="text-decoration:underline;">Xueqiang Wang</span>, Mingming Zha, Kai Chen, XiaoFeng Wang, Luyi Xing, Xiaolong Bai, Nan Zhang, Xinhui Han
+    <br>Tongxin Li, Xueqiang Wang, Mingming Zha, Kai Chen, XiaoFeng Wang, Luyi Xing, Xiaolong Bai, Nan Zhang, Xinhui Han
     <br><i>In the 24th ACM Conference on Computer and Communications Security (CCS'17)</i>
   </li>
   <br>
@@ -203,7 +203,7 @@ author_profile: true
       <a style="color:#3364FF" href="https://xw48.github.io/files/pan2017dark.pdf" target="_blank" rel="noopener">[PDF]</a>
       <a style="color:#CE33FF" href="https://xw48.github.io/files/pan2017dark.bib" target="_blank" rel="noopener">[Bib]</a>
     </font>
-    <br>Xiaorui Pan, <span style="text-decoration:underline;">Xueqiang Wang</span>, Yue Duan, XiaoFeng Wang, Heng Yin
+    <br>Xiaorui Pan, Xueqiang Wang, Yue Duan, XiaoFeng Wang, Heng Yin
     <br><i>In the Network and Distributed System Security Symposium (NDSS'17)</i>
   </li>
   <br>
@@ -214,7 +214,7 @@ author_profile: true
       <a style="color:#CE33FF" href="https://xw48.github.io/files/chen2016following.bib" target="_blank" rel="noopener">[Bib]</a>
       <a style="color:#FF3C33" href="https://sites.google.com/site/phalibscom/" target="_blank" rel="noopener">[Supplementary]</a>
     </font>
-    <br>Kai Chen, <span style="text-decoration:underline;">Xueqiang Wang</span>, Yi Chen, Peng Wang, Yeonjoon Lee, XiaoFeng Wang, Bin Ma, Aohui Wang, Yingjun Zhang, Wei Zou
+    <br>Kai Chen, Xueqiang Wang, Yi Chen, Peng Wang, Yeonjoon Lee, XiaoFeng Wang, Bin Ma, Aohui Wang, Yingjun Zhang, Wei Zou
     <br><i>In Security and Privacy (SP'16)</i>
   </li>
   <br>
@@ -224,7 +224,7 @@ author_profile: true
       <a style="color:#3364FF" href="https://xw48.github.io/files/wang2015deepdroid.pdf" target="_blank" rel="noopener">[PDF]</a>
       <a style="color:#CE33FF" href="https://xw48.github.io/files/wang2015deepdroid.bib" target="_blank" rel="noopener">[Bib]</a>
     </font>
-    <br><span style="text-decoration:underline;">Xueqiang Wang</span>, Kun Sun, Yuewu Wang, Jiwu Jing
+    <br>Xueqiang Wang, Kun Sun, Yuewu Wang, Jiwu Jing
     <br><i>In the Network and Distributed System Security Symposium (NDSS'15)</i>
   </li>
   <br>
@@ -234,7 +234,7 @@ author_profile: true
       <a style="color:#3364FF" href="https://xw48.github.io/files/wang2014wrapdroid.pdf" target="_blank" rel="noopener">[PDF]</a>
       <a style="color:#CE33FF" href="https://xw48.github.io/files/wang2014wrapdroid.bib" target="_blank" rel="noopener">[Bib]</a>
     </font>
-    <br><span style="text-decoration:underline;">Xueqiang Wang</span>, Yuewu Wang, Limin Liu, Lingguang Lei, Jiwu Jing
+    <br>Xueqiang Wang, Yuewu Wang, Limin Liu, Lingguang Lei, Jiwu Jing
     <br><i>In International Conference on Information Security and Cryptology (ICISC'14)</i>
   </li>
   <br>
@@ -242,7 +242,7 @@ author_profile: true
     <font size="4">
       <strong>An Easy-To-Deploy Behavior Monitoring Scheme for Android Applications (In Chinese)</strong>
     </font>
-    <br><span style="text-decoration:underline;">Xueqiang Wang</span>, Lingguang Lei, Yuewu Wang
+    <br>Xueqiang Wang, Lingguang Lei, Yuewu Wang
     <br><i>In Journal of University of Chinese Academy of Sciences</i>
   </li>
   <br>
@@ -250,7 +250,7 @@ author_profile: true
     <font size="4">
       <strong>A Review of Security Threats of Mobile Internet (In Chinese)</strong>
     </font>
-    <br><span style="text-decoration:underline;">Xueqiang Wang</span>, Lingguang Lei, Yuewu Wang
+    <br>Xueqiang Wang, Lingguang Lei, Yuewu Wang
     <br><i>In Netinfo Security</i>
   </li>
   <br>
