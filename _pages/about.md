@@ -33,7 +33,11 @@ redirect_from:
 
 <h3>News</h3>
 <ul>
-  <li>(10/2023) I am serving as registration chair for CCS'24. </li>
+  <li>(05/2024) One paper on the privacy compliance risks of the software supply chain has been accepted to USENIX Security 2024. Congrats to Yifan and Zhaojie.</li>
+  <li>(03/2024) One paper on a new authentication method for voice-enabled IoT devices is accepted to IoT-J. Congrats to Sungbin (Bill).</li>
+  <li>(02/2024) One paper on the analysis of fake evidence (or misinformation) supply chains has been accepted to EuroS&P 2024. Congrats to Zhaojie and Jingzhou.</li>
+  <li>(12/2023) I will serve as a PC member of the software security track at <a href="https://www.sigsac.org/ccs/CCS2024/">ACM CCS 2024</a>.</li>
+  <li>(10/2023) I will serve as registration chair for <a href="https://www.sigsac.org/ccs/CCS2024/">ACM CCS 2024</a>. </li>
   <li>(09/2023) NSF awarded our collaborative grant led by FAU through the CyberTraining program. </li>
   <li>(08/2023) I will serve as a PC member of <a href="https://eurosp2024.ieee-security.org/">EuroS&P 2024</a> </li>
   <li>(08/2023) Welcome Jingzhou and Zhaojie to the team! </li>
