@@ -52,7 +52,7 @@ author_profile: true
       <a style="color:#3364FF" href="https://xw48.github.io/files/wang2023duress.pdf" target="_blank" rel="noopener">[PDF]</a>
       <a style="color:#CE33FF" href="https://xw48.github.io/files/wang2023duress.bib" target="_blank" rel="noopener">[Bib]</a>
     </font>
-    <br>Xueqiang Wang, Yifan Zhang, XiaoFeng Wang, Yan Jia, Luyi Xing
+    <br>Xueqiang Wang*, Yifan Zhang*, XiaoFeng Wang, Yan Jia, Luyi Xing
     <br><i>In USENIX Security’23</i>
   </li>
    <br>
