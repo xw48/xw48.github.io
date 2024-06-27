@@ -41,6 +41,7 @@ redirect_from:
   <li>(09/2023) NSF awarded our collaborative grant led by FAU through the CyberTraining program. </li>
   <li>(08/2023) I will serve as a PC member of <a href="https://eurosp2024.ieee-security.org/">EuroS&P 2024</a> </li>
   <li>(08/2023) Welcome Jingzhou and Zhaojie to the team! </li>
+  <li>(07/2023) I will introduce cybersecurity and privacy to 8th-11th graders at UCF Camp Connect I.</li>
   <li>(04/2023) Our paper on mobile dark user interface patterns is accepted to DSN 2023. </li>
   <li>(03/2023) Our paper on software supply chain security is accepted to USENIX Security 2023. </li>
   <li>(09/2022) Our paper on a large-scale analysis of IoT data exposure is accepted to USENIX Security 2023. </li>
