@@ -32,7 +32,8 @@ redirect_from:
 
 <h3>News</h3>
 <ul>
- <li>(08/2024) I will serve as a PC member of <a href="https://www.usenix.org/conference/usenixsecurity25">USENIX Security 2025</a>.</li>
+  <li>(08/2024) I will serve as a PC member of <a href="https://asiaccs2025.hust.edu.vn/">AsiaCCS 2025</a>.</li>
+  <li>(08/2024) I will serve as a PC member of <a href="https://www.usenix.org/conference/usenixsecurity25">USENIX Security 2025</a>.</li>
   <li>(05/2024) Together with colleagues at FAU, USF, and FIU, we provided a 9-day hands-on training for developing a workforce in secure, resilient cyber-physical energy systems.</li>
   <li>(05/2024) One paper on the privacy compliance risks of the software supply chain is accepted to USENIX Security 2024. Congrats to Yifan and Zhaojie.</li>
   <li>(03/2024) One paper on a new authentication method for voice-enabled IoT devices is accepted to IoT-J. Congrats to Sungbin (Bill).</li>
