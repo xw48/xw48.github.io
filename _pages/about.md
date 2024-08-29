@@ -12,7 +12,7 @@ redirect_from:
 <table border="1" cellpadding="10" cellspacing="0">
   <tr>
     <td>
-      <p><font size="-0.5"><b><span style="color:red">Openings:</span></b> The SPIRIT lab is looking for one self-motivated <b>Ph.D. student</b> (starting Fall 2025) who is passionate about exploring security and privacy issues in the software supply chain to join our team at UCF. Students with experience in software analysis, or vulnerability detection and mitigation are highly encouraged to apply. If you are interested, please feel free to send an email to <span style="color:blue">xueqiang.wang@ucf.edu</span> with the subject line <span style="color:blue">"Prospective Student [Your Name]"</span>, your research interests, and your CV. For more information about CS PhD program at UCF, please visit the <a href="https://www.cs.ucf.edu/graduate/computer-science-phd/">program webpage!</a></font></p> 
+      <p><font size="-1.0"><b><span style="color:red">Openings:</span></b> The SPIRIT lab is looking for one self-motivated <b>Ph.D. student</b> (starting Fall 2025) who is passionate about exploring security and privacy issues in the software supply chain to join our team at UCF. Students with experience in software analysis, or vulnerability detection and mitigation are highly encouraged to apply. If you are interested, please feel free to send an email to <span style="color:blue">xueqiang.wang@ucf.edu</span> with the subject line <span style="color:blue">"Prospective Student [Your Name]"</span>, your research interests, and your CV. For more information about CS PhD program at UCF, please visit the <a href="https://www.cs.ucf.edu/graduate/computer-science-phd/">program webpage!</a></font></p> 
     </td>
   </tr>
 </table>
