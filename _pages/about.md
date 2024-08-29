@@ -32,23 +32,23 @@ redirect_from:
 
 <h3>News</h3>
 <ul>
-  <li>(08/2024) I will serve as a PC member of <a href="https://asiaccs2025.hust.edu.vn/">AsiaCCS 2025</a>.</li>
-  <li>(08/2024) I will serve as a PC member of <a href="https://www.usenix.org/conference/usenixsecurity25">USENIX Security 2025</a>.</li>
+  <li>(08/2024) I will serve as a PC member of AsiaCCS 2025.</li>
+  <li>(08/2024) I will serve as a PC member of USENIX Security 2025.</li>
   <li>(05/2024) Together with colleagues at FAU, USF, and FIU, we provided a 9-day hands-on training for developing a workforce in secure, resilient cyber-physical energy systems.</li>
   <li>(05/2024) One paper on the privacy compliance risks of the software supply chain is accepted to USENIX Security 2024. Congrats to Yifan and Zhaojie.</li>
   <li>(03/2024) One paper on a new authentication method for voice-enabled IoT devices is accepted to IoT-J. Congrats to Sungbin (Bill).</li>
   <li>(02/2024) One paper on the analysis of fake evidence (or misinformation) supply chains is accepted to EuroS&P 2024. Congrats to Zhaojie and Jingzhou.</li>
-  <li>(12/2023) I will serve as a PC member of the software security track at <a href="https://www.sigsac.org/ccs/CCS2024/">ACM CCS 2024</a>.</li>
+  <li>(12/2023) I will serve as a PC member of the software security track at ACM CCS 2024.</li>
   <li>(10/2023) I will serve as registration chair for ACM CCS 2024.</li>
   <li>(09/2023) NSF awarded our collaborative grant led by FAU through the CyberTraining program. </li>
-  <li>(08/2023) I will serve as a PC member of <a href="https://eurosp2024.ieee-security.org/">EuroS&P 2024</a> </li>
+  <li>(08/2023) I will serve as a PC member of EuroS&P 2024. </li>
   <li>(08/2023) Welcome Jingzhou and Zhaojie to the team! </li>
   <li>(07/2023) I will introduce cybersecurity and privacy to 8th-11th graders at UCF Camp Connect I.</li>
   <li>(04/2023) Our paper on mobile dark user interface patterns is accepted to DSN 2023. </li>
   <li>(03/2023) Our paper on software supply chain security is accepted to USENIX Security 2023. </li>
   <li>(09/2022) Our paper on a large-scale analysis of IoT data exposure is accepted to USENIX Security 2023. </li>
   <li>(07/2022) Our paper on the security of exposed cloud services is accepted to USENIX Security 2023. </li>
-  <li>(07/2022) I will serve as a PC member of <a href="https://sulab-sever.u-aizu.ac.jp/ACNS2023/index.html">ACNS 2023</a> (Applied Cryptography and Network Security 2023).</li>
+  <li>(07/2022) I will serve as a PC member of ACNS 2023 (Applied Cryptography and Network Security 2023).</li>
   <li>(03/2022) I will join UCF as a tenure-track assistant professor in fall 2022.</li>
   <li>(09/2021) I will serve as a reviewer of IEEE Security & Privacy.</li>
   <li>(01/2021) I will serve as a reviewer of ACM Transactions on Privacy and Security.</li>
