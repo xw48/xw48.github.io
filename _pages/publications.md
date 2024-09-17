@@ -28,16 +28,6 @@ author_profile: true
    <br>
     <li>
     <font size="4">
-      <strong>STATION: Gesture-Based Authentication for Voice Interfaces</strong>
-      <a style="color:#3364FF" href="https://ieeexplore.ieee.org/document/10485205" target="_blank" rel="noopener">[PDF]</a>
-      <a style="color:#CE33FF" href="" target="_blank" rel="noopener">[Bib]</a>
-    </font>
-    <br>Sungbin Park, Xueqiang Wang, Kai Chen, Yeonjoon Lee
-    <br><i>In IoT-J’24</i>
-  </li>
-   <br>
-    <li>
-    <font size="4">
       <strong>DARPA: Combating Asymmetric Dark UI Patterns on Android with Run-time View Decorator</strong>
       <a style="color:#3364FF" href="https://xw48.github.io/files/cai2023darpa.pdf" target="_blank" rel="noopener">[PDF]</a>
       <a style="color:#CE33FF" href="https://xw48.github.io/files/cai2023darpa.bib" target="_blank" rel="noopener">[Bib]</a>
