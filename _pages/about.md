@@ -32,6 +32,7 @@ redirect_from:
 
 <h3>News</h3>
 <ul>
+  <li>(09/2024) One paper on software privacy compliance is accepted to USENIX Security 2025.</li>
   <li>(08/2024) I will serve as a PC member of AsiaCCS 2025.</li>
   <li>(08/2024) I will serve as a PC member of USENIX Security 2025.</li>
   <li>(05/2024) Together with colleagues at FAU, USF, and FIU, we provided a 9-day hands-on training for developing a workforce in secure, resilient cyber-physical energy systems.</li>
