@@ -13,7 +13,7 @@ EuroS&P (2024)
 ACNS (2023)
 
 #### Organizing Committee Member
-ACM CCS 2024 (Registration Chair)
+ACM CCS 2024 (Co-Registration Chair)
 
 #### Reviewer
 ACM Transactions on Privacy and Security (TOPS, 2021)  
