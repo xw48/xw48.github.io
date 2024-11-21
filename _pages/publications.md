@@ -8,6 +8,16 @@ author_profile: true
 <ul>
     <li>
     <font size="4">
+      <strong>Privacy Law Enforcement Under Centralized Governance: A Qualitative Analysis of Four Years’ Special Privacy Rectification Campaigns</strong>
+      <a style="color:#3364FF" href="" target="_blank" rel="noopener">[PDF]</a>
+      <a style="color:#CE33FF" href="" target="_blank" rel="noopener">[Bib]</a>
+    </font>
+    <br>Tao Jing, Yao Li, Jingzhou Ye, Jie Wang, Xueqiang Wang
+    <br><i>To Appear in USENIX Security'25</i>  
+  </li>
+   <br>
+    <li>
+    <font size="4">
       <strong>Navigating the Privacy Compliance Maze: Understanding Risks with Privacy-Configurable Mobile SDKs</strong>
       <a style="color:#3364FF" href="https://xw48.github.io/files/pico-preview.pdf" target="_blank" rel="noopener">[PDF]</a>
       <a style="color:#CE33FF" href="" target="_blank" rel="noopener">[Bib]</a>
