@@ -32,6 +32,7 @@ redirect_from:
 
 <h3>News</h3>
 <ul>
+  <li>(01/2025) One paper on educating users about dark patterns (a broad variety of online deception) is accepted to CHI 2025. Congrats to Jingzhou and collaborators! </li>
   <li>(10/2024) I will serve as a PC member of ACM CCS 2025.</li>
   <li>(09/2024) One paper on software privacy compliance is accepted to USENIX Security 2025.</li>
   <li>(08/2024) I will serve as a PC member of AsiaCCS 2025.</li>
