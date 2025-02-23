@@ -17,7 +17,7 @@ redirect_from:
   </tr>
 </table>
 
-<p>Xueqiang (Brandon) Wang is an Assistant Professor of Computer Science at <a href="https://www.ucf.edu" target="_blank" rel="noopener">UCF</a>, where he is also a member of the Cyber Security and Privacy Cluster (<a href="https://sites.google.com/view/ucfcybersp/home" target="_blank" rel="noopener">CyberSP</a>). Dr. Wang obtained his Ph.D. degree in 2021 from Indiana University Bloomington. Prior to that, he earned a Master's degree from IIE CAS in 2015 and a Bachelor's degree from USTC in 2012. </p>
+<p>Xueqiang (Brandon) Wang is an Assistant Professor of Computer Science at <a href="https://www.ucf.edu" target="_blank" rel="noopener">UCF</a>, where he is also a member of the Cyber Security and Privacy Cluster (<a href="https://cyber.cs.ucf.edu/" target="_blank" rel="noopener">CyberSP</a>). Dr. Wang obtained his Ph.D. degree in 2021 from Indiana University Bloomington. Prior to that, he earned a Master's degree from IIE CAS in 2015 and a Bachelor's degree from USTC in 2012. </p>
 
 <p> Dr. Wang leads the Security and PRIvacy for smarT systems (<b>SPIRIT</b>) lab at UCF. His recent research focuses on the <b>security and privacy compliance of software supply chains</b>, with growing efforts to technically identify issues, understand their impact on end users, and create developer-centered solutions to mitigate them. He is also interested in mobile and IoT systems security and cybercrime analysis. </p>
 
