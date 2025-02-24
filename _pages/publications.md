@@ -15,7 +15,6 @@ author_profile: true
     <br>Tao Jing, Yao Li, Jingzhou Ye, Jie Wang, Xueqiang Wang
     <br><i>To Appear in USENIX Security'25</i>  
   </li>
-   <br>
     <li>
     <font size="4">
       <strong>Navigating the Privacy Compliance Maze: Understanding Risks with Privacy-Configurable Mobile SDKs</strong>
@@ -25,7 +24,6 @@ author_profile: true
     <br>Yifan Zhang*, Zhaojie Hu*, Xueqiang Wang, Yuhui Hong, Yuhong Nan, XiaoFeng Wang, Jiatao Cheng, Luyi Xing
     <br><i>In USENIX Security'24</i>
   </li>
-   <br>
     <li>
     <font size="4">
       <strong>Seeing is Not Always Believing: An Empirical Analysis of Fake Evidence Generators</strong>
@@ -35,7 +33,6 @@ author_profile: true
     <br>Zhaojie Hu*, Jingzhou Ye*, Yifan Zhang, Xueqiang Wang
     <br><i>In EuroS&P’24</i>
   </li>
-   <br>
     <li>
     <font size="4">
       <strong>DARPA: Combating Asymmetric Dark UI Patterns on Android with Run-time View Decorator</strong>
@@ -45,7 +42,6 @@ author_profile: true
     <br>Zhaoxin Cai, Yuhong Nan, Xueqiang Wang, Mengyi Long, Qihua Ou, Min Yang, Zibin Zheng
     <br><i>In DSN’23</i>
   </li>
-   <br>
     <li>
     <font size="4">
       <strong>Union under Duress: Understanding Hazards of Duplicate Resource Mismediation in Android Software Supply Chain</strong>
@@ -55,7 +51,6 @@ author_profile: true
     <br>Xueqiang Wang*, Yifan Zhang*, XiaoFeng Wang, Yan Jia, Luyi Xing
     <br><i>In USENIX Security’23</i>
   </li>
-   <br>
     <li>
     <font size="4">
       <strong>Are You Spying on Me? Large-Scale Analysis on IoT Data Exposure through Companion Apps</strong>
@@ -66,7 +61,6 @@ author_profile: true
     <br>Yuhong Nan*, Xueqiang Wang*, Luyi Xing, Xiaojing Liao, Ruoyu Wu, Jianliang Wu, Yifan Zhang, XiaoFeng Wang
     <br><i>In USENIX Security’23</i>
   </li>
-   <br>
    <li>
     <font size="4">
       <strong>Credit Karma: Understanding Security Implications of Exposed Cloud Services through Automated Capability Inference</strong>
@@ -76,7 +70,6 @@ author_profile: true
     <br>Xueqiang Wang*, Yuqiong Sun*, Susanta Nanda, XiaoFeng Wang
     <br><i>In USENIX Security’23</i>
   </li>
-  <br>
    <li>
     <font size="4">
       <strong>Understanding Malicious Cross-library Data Harvesting on Android</strong>
@@ -86,7 +79,6 @@ author_profile: true
       <br>Jice Wang*, Yue Xiao*, Xueqiang Wang, Yuhong Nan, Luyi Xing, Xiaojing Liao, JinWei Dong, Nicolas Serrano, XiaoFeng Wang, Yuqing Zhang, Haoran Lu
     <br><i>In USENIX Security’21</i>
   </li>
-  <br>
    <li>
     <font size="4">
       <strong>Demystifying Resource Management Risks in Emerging Mobile App-in-App Ecosystems</strong>
@@ -96,7 +88,6 @@ author_profile: true
     <br>Haoran Lu, Luyi Xing, Yue Xiao, Yifan Zhang, Xiaojing Liao, XiaoFeng Wang, Xueqiang Wang
     <br><i>In CCS'20</i>
   </li>
-  <br>
   <li>
     <font size="4">
       <strong>Understanding Illicit UI in iOS apps Through Hidden UI Analysis</strong>
@@ -108,7 +99,6 @@ author_profile: true
     <br>Yeonjoon Lee*,Xueqiang Wang*, Xiaojing Liao, XiaoFeng Wang
     <br><i>In TDSC'19</i>
   </li>
-  <br>
   <li>
     <font size="4">
       <strong>System and Methods for Evaluating Security Posture of Smart Home Devices</strong>
@@ -116,7 +106,6 @@ author_profile: true
     <br>Yuqiong Sun, Xueqiang Wang, Susanta Nanda, Petros Efstathopouloss
     <br><i>US Patent (US11132447B1)</i>
   </li>
-  <br>
   <li>
     <font size="4">
       <strong>Generate Accurate IoT Device Fingerprints Without IoT Device</strong>
@@ -124,7 +113,6 @@ author_profile: true
     <br>Yuqiong Sun, Xueqiang Wang, Susanta Nanda, Yun Shen, Pierre-Antoine Vervier, Petros Efstathopouloss
     <br><i>US Patent (US11122040B1)</i>
   </li>
-  <br>
   <li>
     <font size="4">
       <strong>Looking from the Mirror: Evaluating IoT Device Security through Mobile Companion Apps</strong>
@@ -135,7 +123,6 @@ author_profile: true
     <br>Xueqiang Wang, Yuqiong Sun, Susanta Nanda, XiaoFeng Wang
     <br><i>In USENIX Security'19</i>
   </li>
-  <br>
   <li>
     <font size="4">
       <strong>Understanding iOS-based Crowdturfing Through Hidden UI Analysis</strong>
@@ -145,7 +132,6 @@ author_profile: true
     <br>Yeonjoon Lee*, Xueqiang Wang*, Kwangwuk Lee, Xiaojing Liao, XiaoFeng Wang, Tongxi Li, Xianghang Mi
     <br><i>In USENIX Security'19</i>
   </li>
-  <br>
   <li>
     <font size="4">
       <strong>ProFuzzer: On-the-fly Input Type Probing for Better Zero-day Vulnerability Discovery</strong>
@@ -155,7 +141,6 @@ author_profile: true
     <br>Wei You, Xueqiang Wang, Shiqing Ma, Jianjun Huang, Xiangyu Zhang, XiaoFeng Wang, Bin Liang
     <br><i>In Security and Privacy (SP'19)</i>
   </li>
-  <br>
   <li>
     <font size="4">
       <strong>OS-level Side Channels without Procfs: Exploring Cross-App Information Leakage on iOS</strong>
@@ -165,7 +150,6 @@ author_profile: true
     <br>Xiaokuan Zhang, Xueqiang Wang, Xiaolong Bai, Yinqian Zhang, XiaoFeng Wang
     <br><i>In the Network and Distributed System Security Symposium (NDSS'18)</i>
   </li>
-  <br>
   <li>
     <font size="4">
       <strong>Things You May Not Know About Android (Un)Packers: A Systematic Study based on Whole-System Emulation</strong>
@@ -175,7 +159,6 @@ author_profile: true
     <br>Yue Duan, Mu Zhang, Abhishek Vasist Bhaskar, Heng Yin, Xiaorui Pan, Tongxin Li, Xueqiang Wang, Xiaofeng Wang
     <br><i>In the Network and Distributed System Security Symposium (NDSS'18)</i>
   </li>
-  <br>
   <li>
     <font size="4">
       <strong>Privacy Loss in Apple’s Implementation of Differential Privacy on MacOS 10.12</strong>
@@ -185,7 +168,6 @@ author_profile: true
     <br>Jun Tang, Aleksandra Korolova, Xiaolong Bai, Xueqiang Wang, XiaoFeng Wang
     <br><i>In TPDP'17 (co-located with CCS)</i>
   </li>
-  <br>
   <li>
     <font size="4">
       <strong>Unleashing the Walking Dead: Understanding Cross-App Remote Infections on Mobile WebViews</strong>
@@ -196,7 +178,6 @@ author_profile: true
     <br>Tongxin Li, Xueqiang Wang, Mingming Zha, Kai Chen, XiaoFeng Wang, Luyi Xing, Xiaolong Bai, Nan Zhang, Xinhui Han
     <br><i>In the 24th ACM Conference on Computer and Communications Security (CCS'17)</i>
   </li>
-  <br>
   <li>
     <font size="4">
       <strong>Dark Hazard: Learning-based, Large-scale Discovery of Hidden Sensitive Operations in Android Apps</strong>
@@ -206,7 +187,6 @@ author_profile: true
     <br>Xiaorui Pan, Xueqiang Wang, Yue Duan, XiaoFeng Wang, Heng Yin
     <br><i>In the Network and Distributed System Security Symposium (NDSS'17)</i>
   </li>
-  <br>
   <li>
     <font size="4">
       <strong>Following devil's footprints: Cross-platform analysis of potentially harmful libraries on android and ios</strong>
@@ -217,7 +197,6 @@ author_profile: true
     <br>Kai Chen, Xueqiang Wang, Yi Chen, Peng Wang, Yeonjoon Lee, XiaoFeng Wang, Bin Ma, Aohui Wang, Yingjun Zhang, Wei Zou
     <br><i>In Security and Privacy (SP'16)</i>
   </li>
-  <br>
   <li>
     <font size="4">
       <strong>DeepDroid: Dynamically Enforcing Enterprise Policy on Android Devices</strong>
@@ -227,7 +206,6 @@ author_profile: true
     <br>Xueqiang Wang, Kun Sun, Yuewu Wang, Jiwu Jing
     <br><i>In the Network and Distributed System Security Symposium (NDSS'15)</i>
   </li>
-  <br>
   <li>
     <font size="4">
       <strong>WrapDroid: Flexible and Fine-Grained Scheme Towards Regulating Behaviors of Android Apps</strong>
@@ -237,7 +215,6 @@ author_profile: true
     <br>Xueqiang Wang, Yuewu Wang, Limin Liu, Lingguang Lei, Jiwu Jing
     <br><i>In International Conference on Information Security and Cryptology (ICISC'14)</i>
   </li>
-  <br>
   <li>
     <font size="4">
       <strong>An Easy-To-Deploy Behavior Monitoring Scheme for Android Applications (In Chinese)</strong>
@@ -245,7 +222,6 @@ author_profile: true
     <br>Xueqiang Wang, Lingguang Lei, Yuewu Wang
     <br><i>In Journal of University of Chinese Academy of Sciences</i>
   </li>
-  <br>
   <li>
     <font size="4">
       <strong>A Review of Security Threats of Mobile Internet (In Chinese)</strong>
