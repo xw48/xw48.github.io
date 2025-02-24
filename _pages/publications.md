@@ -5,6 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
+<a style="color:#3364FF" href="https://scholar.google.com/citations?user=KvZqX-oAAAAJ&hl=en" target="_blank" rel="noopener">Google Scholar</a>
+&nbsp;
+<a style="color:#3364FF" href="https://dblp.org/pid/60/8494.html" target="_blank" rel="noopener">dblp</a>
 <ul>
     <li>
     <font size="4">
