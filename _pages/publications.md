@@ -9,8 +9,8 @@ author_profile: true
     <li>
     <font size="4">
       <strong>Privacy Law Enforcement Under Centralized Governance: A Qualitative Analysis of Four Years’ Special Privacy Rectification Campaigns</strong>
-      <a style="color:#3364FF" href="" target="_blank" rel="noopener">[PDF]</a>
-      <a style="color:#CE33FF" href="" target="_blank" rel="noopener">[Bib]</a>
+      <a style="color:#3364FF" href="https://xw48.github.io/files/jing2025privacy.pdf" target="_blank" rel="noopener">[PDF]</a>
+      <a style="color:#CE33FF" href="https://xw48.github.io/files/jing2025privacy.bib" target="_blank" rel="noopener">[Bib]</a>
     </font>
     <br>Tao Jing, Yao Li, Jingzhou Ye, Jie Wang, Xueqiang Wang
     <br><i>To Appear in USENIX Security'25</i>  
@@ -20,7 +20,7 @@ author_profile: true
     <font size="4">
       <strong>Navigating the Privacy Compliance Maze: Understanding Risks with Privacy-Configurable Mobile SDKs</strong>
       <a style="color:#3364FF" href="https://xw48.github.io/files/pico-preview.pdf" target="_blank" rel="noopener">[PDF]</a>
-      <a style="color:#CE33FF" href="" target="_blank" rel="noopener">[Bib]</a>
+      <a style="color:#CE33FF" href="https://xw48.github.io/files/zhang2024navigating.bib" target="_blank" rel="noopener">[Bib]</a>
     </font>
     <br>Yifan Zhang*, Zhaojie Hu*, Xueqiang Wang, Yuhui Hong, Yuhong Nan, XiaoFeng Wang, Jiatao Cheng, Luyi Xing
     <br><i>In USENIX Security'24</i>
@@ -30,7 +30,7 @@ author_profile: true
     <font size="4">
       <strong>Seeing is Not Always Believing: An Empirical Analysis of Fake Evidence Generators</strong>
       <a style="color:#3364FF" href="https://xw48.github.io/files/fegen.pdf" target="_blank" rel="noopener">[PDF]</a>
-      <a style="color:#CE33FF" href="" target="_blank" rel="noopener">[Bib]</a>
+      <a style="color:#CE33FF" href="https://xw48.github.io/files/hu2024seeing.bib" target="_blank" rel="noopener">[Bib]</a>
     </font>
     <br>Zhaojie Hu*, Jingzhou Ye*, Yifan Zhang, Xueqiang Wang
     <br><i>In EuroS&P’24</i>
