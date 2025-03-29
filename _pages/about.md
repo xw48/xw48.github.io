@@ -32,6 +32,8 @@ redirect_from:
 
 <h3>News</h3>
 <ul>
+  <li>(03/2025) Our paper won the Best Paper Award at CHI 2025. Congrats to Jingzhou and the collaborators!</li>
+  <li>(03/2025) Together with Dr. Yao Li, we gave a talk about dark patterns threatening security and privacy to the Learning Institute for Elders (LIFE) at UCF.</li>
   <li>(02/2025) Thanks to UCF Seed Funding for supporting our research on educating older adults about cyber threats!</li>
   <li>(01/2025) One paper is accepted to CHI 2025. Congrats to Jingzhou and collaborators!</li>
   <li>(10/2024) I will serve as a PC member of ACM CCS 2025.</li>
