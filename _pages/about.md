@@ -35,6 +35,7 @@ redirect_from:
 <h3>News</h3>
 <ul>
   <li>(04/2025) I will serve as a PC member of NDSS 2026.</li>
+  <li>(03/2025) Thanks to the LIFE Gerontology Research Grant for supporting our research participants. </li>
   <li>(03/2025) Our paper won the Best Paper Award at CHI 2025. Congrats to Jingzhou and the collaborators!</li>
   <li>(03/2025) Together with Dr. Yao Li, we gave a talk about dark patterns threatening security and privacy to the Learning Institute for Elders (LIFE) at UCF.</li>
   <li>(02/2025) Thanks to UCF Seed Funding for supporting our research on educating older adults about cyber threats!</li>
