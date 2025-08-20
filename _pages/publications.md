@@ -16,7 +16,7 @@ author_profile: true
       <a style="color:#CE33FF" href="https://xw48.github.io/files/jing2025privacy.bib" target="_blank" rel="noopener">[Bib]</a>
     </font>
     <br>Jingzhou Ye, Yao Li, Wenting Zou, and Xueqiang Wang
-    <br><i>CHI'25</i>
+    <br><i>In CHI'25</i>
   </li>
     <li>
     <font size="4">
