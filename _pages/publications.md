@@ -11,12 +11,21 @@ author_profile: true
 <ul>
     <li>
     <font size="4">
+      <strong>From Awareness to Action: The Effects of Experiential Learning on Educating Users about Dark Patterns</strong>
+      <a style="color:#3364FF" href="https://xw48.github.io/files/jing2025privacy.pdf" target="_blank" rel="noopener">[PDF]</a>
+      <a style="color:#CE33FF" href="https://xw48.github.io/files/jing2025privacy.bib" target="_blank" rel="noopener">[Bib]</a>
+    </font>
+    <br>Jingzhou Ye, Yao Li, Wenting Zou, and Xueqiang Wang
+    <br><i>CHI'25</i>
+  </li>
+    <li>
+    <font size="4">
       <strong>Privacy Law Enforcement Under Centralized Governance: A Qualitative Analysis of Four Years’ Special Privacy Rectification Campaigns</strong>
       <a style="color:#3364FF" href="https://xw48.github.io/files/jing2025privacy.pdf" target="_blank" rel="noopener">[PDF]</a>
       <a style="color:#CE33FF" href="https://xw48.github.io/files/jing2025privacy.bib" target="_blank" rel="noopener">[Bib]</a>
     </font>
     <br>Tao Jing, Yao Li, Jingzhou Ye, Jie Wang, Xueqiang Wang
-    <br><i>To Appear in USENIX Security'25</i>  
+    <br><i>In USENIX Security'25</i>  
   </li>
     <li>
     <font size="4">
