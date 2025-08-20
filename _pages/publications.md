@@ -10,14 +10,15 @@ author_profile: true
 <a style="color:#3364FF" href="https://dblp.org/pid/60/8494.html" target="_blank" rel="noopener">dblp</a>
 <ul>
     <li>
-    <font size="4">
-      <strong>From Awareness to Action: The Effects of Experiential Learning on Educating Users about Dark Patterns</strong>
-      <a style="color:#3364FF" href="https://xw48.github.io/files/jing2025privacy.pdf" target="_blank" rel="noopener">[PDF]</a>
-      <a style="color:#CE33FF" href="https://xw48.github.io/files/jing2025privacy.bib" target="_blank" rel="noopener">[Bib]</a>
-    </font>
-    <br>Jingzhou Ye, Yao Li, Wenting Zou, and Xueqiang Wang
-    <br><i>In CHI'25</i>
-  </li>
+      <font size="4">
+        <strong>From Awareness to Action: The Effects of Experiential Learning on Educating Users about Dark Patterns</strong>
+        <a style="color:#3364FF" href="https://xw48.github.io/files/jing2025privacy.pdf" target="_blank" rel="noopener">[PDF]</a>
+        <a style="color:#CE33FF" href="https://xw48.github.io/files/jing2025privacy.bib" target="_blank" rel="noopener">[Bib]</a>
+        <font color="#FF8C00"><strong>[Best Paper Award]</strong></font>
+      </font>
+      <br>Jingzhou Ye, Yao Li, Wenting Zou, and Xueqiang Wang
+      <br><i>In CHI'25</i>
+    </li>
     <li>
     <font size="4">
       <strong>Privacy Law Enforcement Under Centralized Governance: A Qualitative Analysis of Four Years’ Special Privacy Rectification Campaigns</strong>
