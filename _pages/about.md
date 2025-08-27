@@ -12,7 +12,7 @@ redirect_from:
 <table border="1" cellpadding="10" cellspacing="0">
   <tr>
     <td>
-      <p><font size="-0.5"><b><span style="color:red">Openings:</span></b> The SPIRIT lab is looking for one <b>Postdoctoral researcher</b> (starting Fall 2025 or Spring 2026) who is passionate about exploring issues in software privacy compliance to join our team at UCF. *Please note that ML, NLP, LLM, etc., are tools I use for research, but I don’t conduct research directly on them*. If you are interested, please feel free to send an email to <span style="color:blue">xueqiang.wang@ucf.edu</span> with a description of your research interests, future research plan, and your CV. </font></p> 
+      <p><font size="-0.5"><span style="color:red">Openings:</span> I am looking for PhD students with a strong interest in exploring issues related to *privacy compliance and the security of software systems* to join our team at UCF. If you are interested, please email me at <span style="color:blue">xueqiang.wang@ucf.edu</span> with your CV and a brief description of your research interests. *Please note that while I broadly use ML as a tool in my research, I am not currently focused on developing ML algorithms*. </font></p> 
     </td>
   </tr>
 </table>
