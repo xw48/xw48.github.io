@@ -12,7 +12,7 @@ redirect_from:
 <table border="1" cellpadding="10" cellspacing="0">
   <tr>
     <td>
-      <p><font size="-0.5"><span style="color:red">Openings:</span> I am looking for PhD students with a strong interest in exploring issues related to *privacy compliance and the security of software systems* to join our team at UCF. If you are interested, please email me at <span style="color:blue">xueqiang.wang@ucf.edu</span> with your CV and a brief description of your research interests. *Please note that while I broadly use ML as a tool in my research, I am not currently focused on developing ML algorithms*. </font></p> 
+      <p><font size="-0.5"><span style="color:red">Openings:</span> I am seeking motivated PhD students with a strong interest in *privacy compliance and the security of smart systems* (e.g., AI-driven software and emerging devices) to join our research team at the University of Central Florida (UCF). If you have experience in security/privacy analysis or user-focused studies and are interested, please email me at <span style="color:blue">xueqiang.wang@ucf.edu</span> with your CV and a brief self-introduction. *Please note that while I broadly use ML as a tool in my research, I do not work on ML algorithms*. </font></p> 
     </td>
   </tr>
 </table>
