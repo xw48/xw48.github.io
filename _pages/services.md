@@ -7,7 +7,8 @@ author_profile: true
 
 #### PC Member
 ACM CCS (2025)  
-USENIX Security (2025)  
+USENIX Security (2025, 2026)
+NDSS (2026)
 AsiaCCS (2025)  
 ACM CCS (2024)  
 EuroS&P (2024)  
