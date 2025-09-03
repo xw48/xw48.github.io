@@ -7,8 +7,8 @@ author_profile: true
 
 #### PC Member
 ACM CCS (2025)  
-USENIX Security (2025, 2026)
-NDSS (2026)
+USENIX Security (2025, 2026)  
+NDSS (2026)  
 AsiaCCS (2025)  
 ACM CCS (2024)  
 EuroS&P (2024)  
@@ -19,8 +19,8 @@ ACM CCS 2024 (Co-Registration Chair)
 
 #### Reviewer
 TIFS (2023, 2024)  
-TDSC (2023) 
-IEEE Security & Privacy (2022) 
+TDSC (2023)  
+IEEE Security & Privacy (2022)  
 ACM Transactions on Privacy and Security (TOPS, 2021)  
 Journal of Computer Science and Technology (2021)  
 
