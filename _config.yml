@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Welcome"
 title_separator          : "-"
-name                     : &name "Xueqiang Wang"
+name                     : &name "Xueqiang (Brandon) Wang"
 description              : &description "Active Security and Privacy Researcher"
 url                      : https://xw48.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
