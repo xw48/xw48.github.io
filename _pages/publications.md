@@ -12,8 +12,8 @@ author_profile: true
     <li>
       <font size="4">
         <strong>From Awareness to Action: The Effects of Experiential Learning on Educating Users about Dark Patterns</strong>
-        <a style="color:#3364FF" href="https://xw48.github.io/files/jing2025privacy.pdf" target="_blank" rel="noopener">[PDF]</a>
-        <a style="color:#CE33FF" href="https://xw48.github.io/files/jing2025privacy.bib" target="_blank" rel="noopener">[Bib]</a>
+        <a style="color:#3364FF" href="https://xw48.github.io/files/ye2025awareness.pdf" target="_blank" rel="noopener">[PDF]</a>
+        <a style="color:#CE33FF" href="https://xw48.github.io/files/ye2025awareness.bib" target="_blank" rel="noopener">[Bib]</a>
         <font color="#FF8C00"><strong>[Best Paper Award]</strong></font>
       </font>
       <br>Jingzhou Ye, Yao Li, Wenting Zou, and Xueqiang Wang
