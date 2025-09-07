@@ -1,0 +1,7 @@
+@inproceedings{ye2025awareness,
+  title={From Awareness to Action: The Effects of Experiential Learning on Educating Users about Dark Patterns},
+  author={Ye, Jingzhou and Li, Yao and Zou, Wenting and Wang, Xueqiang},
+  booktitle={Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems},
+  pages={1--22},
+  year={2025}
+}
