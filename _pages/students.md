@@ -18,5 +18,6 @@ I also work closely with the following students:
 Past Students and Mentees:
 - Omar Saleme (UPR REU, 2024)
 - Edelma Saenz (UCF REU, 2023)
+- Alexander Charkiewicz (UCF MS, 2024)
 
 <!--- <a href="https://xw48.github.io/faqs">FAQs for Future Students</a></p> -->
