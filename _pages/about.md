@@ -39,11 +39,11 @@ redirect_from:
   <li>(08/2025) Jingzhou presented our paper on software privacy compliance at USENIX Security 2025 in Seattle.</li>
   <li>(06/2025) We received an SaTC EDU award from NSF for experiential learning of dark patterns in cybersecurity and privacy.</li>
   <li>(06/2025) I am invited to serve as a PC member of USENIX Security 2026.</li>
-  <li>(05/2025) 21 students completed our summer training for secure, resilient cyber-physical energy systems.</li>
+  <li>(05/2025) 21 STEM students across Florida completed our summer training for secure, resilient cyber-physical energy systems.</li>
   <li>(04/2025) I will serve as a PC member of NDSS 2026.</li>
   <li>(03/2025) Thanks to the LIFE Gerontology Research Grant for supporting our research participants. </li>
   <li>(03/2025) Our paper won the Best Paper Award at CHI 2025. Congrats to Jingzhou and the collaborators!</li>
-  <li>(03/2025) Together with Dr. Yao Li, we gave a talk about dark patterns threatening security and privacy to the Learning Institute for Elders (LIFE) at UCF.</li>
+  <li>(03/2025) We (Dr. Yao Li and I) gave a talk about dark patterns threatening security and privacy to the Learning Institute for Elders (LIFE) at UCF.</li>
   <li>(02/2025) Thanks to UCF Seed Funding for supporting our research on educating older adults about cyber threats!</li>
   <li>(01/2025) One paper is accepted to CHI 2025. Congrats to Jingzhou and collaborators!</li>
   <li>(10/2024) I will serve as a PC member of ACM CCS 2025.</li>
