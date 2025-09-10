@@ -12,7 +12,7 @@ redirect_from:
 <table border="1" cellpadding="10" cellspacing="0">
   <tr>
     <td>
-      <p><font size="-0.5"><span style="color:red">Openings:</span> I am seeking motivated PhD students with a strong interest in <b>privacy compliance and security of software systems and devices</b> to join our research team at the University of Central Florida (UCF). If you have experience in software security and privacy analysis, reverse engineering, or user-focused studies and are interested, please email me at <span style="color:blue">xueqiang.wang@ucf.edu</span> with your CV and a brief self-introduction. </font></p> 
+      <p><font size="-0.5"><span style="color:red">Openings:</span> I am seeking motivated PhD students with a strong interest in privacy compliance and security of software systems and devices to join our research team at the University of Central Florida (UCF). If you have experience in software security and privacy analysis, reverse engineering, or user-focused studies and are interested, please email me at <span style="color:blue">xueqiang.wang@ucf.edu</span> with your CV and a brief self-introduction. </font></p> 
     </td>
   </tr>
 </table>
