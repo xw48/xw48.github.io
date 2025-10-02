@@ -9,7 +9,7 @@ Current Students:
 - Jingzhou Ye (PhD, Fall 2023) [EuroS&P'24, USENIX Security'25, CHI'25, S&P'26]
 - Zhaojie Hu (PhD, Fall 2023) [EuroS&P'24, USENIX Security'24]
 
-I also work closely with the following students:
+I also worked closely with the following students:
 - Zhaoxin Cai (Sun Yat-sen University）[DSN'23]
 - Tao Jing (Huazhong University of Science and Technology) [USENIX Security'25]
 - Sungbin Park (Hanyang University) [IoTJ'24, JNCA'24]
