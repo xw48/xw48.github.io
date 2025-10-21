@@ -11,6 +11,15 @@ author_profile: true
 <ul>
     <li>
       <font size="4">
+        <strong>Understanding and Analyzing Privacy Risks in Mobile Consent-Management Platforms</strong>
+        <a style="color:#3364FF" href="https://xw48.github.io/files/ye2026understanding.pdf" target="_blank" rel="noopener">[PDF]</a>
+        <a style="color:#CE33FF" href="https://xw48.github.io/files/ye2025understanding.bib" target="_blank" rel="noopener">[Bib]</a>
+      </font>
+      <br>Jingzhou Ye*, Fares Alharbi*, Luyi Xing, and Xueqiang Wang
+      <br><i>In IEEE Security & Privacy'26</i>
+    </li>
+    <li>
+      <font size="4">
         <strong>From Awareness to Action: The Effects of Experiential Learning on Educating Users about Dark Patterns</strong>
         <a style="color:#3364FF" href="https://xw48.github.io/files/ye2025awareness.pdf" target="_blank" rel="noopener">[PDF]</a>
         <a style="color:#CE33FF" href="https://xw48.github.io/files/ye2025awareness.bib" target="_blank" rel="noopener">[Bib]</a>
