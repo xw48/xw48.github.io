@@ -5,7 +5,7 @@ permalink: /students/
 author_profile: true
 ---
 
-Current Students:
+My Current PhD Students at UCF:
 - Jingzhou Ye (PhD, Fall 2023) [EuroS&P'24, USENIX Security'25, CHI'25, S&P'26] [Recipient of the FCI Student Scholarship]
 - Zhaojie Hu (PhD, Fall 2023) [EuroS&P'24, USENIX Security'24]
 
