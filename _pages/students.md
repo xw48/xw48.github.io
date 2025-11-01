@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 Current Students:
-- Jingzhou Ye (PhD, Fall 2023) [EuroS&P'24, USENIX Security'25, CHI'25, S&P'26]
+- Jingzhou Ye (PhD, Fall 2023) [EuroS&P'24, USENIX Security'25, CHI'25, S&P'26] [Recipient of the FCI Student Scholarship]
 - Zhaojie Hu (PhD, Fall 2023) [EuroS&P'24, USENIX Security'24]
 
 I also worked closely with the following students:
