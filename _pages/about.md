@@ -12,7 +12,7 @@ redirect_from:
 <table border="1" cellpadding="10" cellspacing="0">
   <tr>
     <td>
-      <p><font size="-0.5"><span style="color:red">Openings:</span> I am looking for a highly motivated PhD student to join our research team at the University of Central Florida (UCF). If you have a strong interest in <b>software supply chain security</b> and <b>privacy compliance</b>, please email your CV and a brief self-introduction to <span style="color:blue">xueqiang.wang@ucf.edu</span>. (<i>Please do not reach out if ML is a primary focus of your CV as I don't work directly in it.</i>)</font></p> 
+      <p><font size="-0.5"><span style="color:red">Openings:</span> <s>I am looking for a highly motivated PhD student to join our research team at the University of Central Florida (UCF). If you have a strong interest in <b>software supply chain security</b> and <b>privacy compliance</b>, please email your CV and a brief self-introduction to <span style="color:blue">xueqiang.wang@ucf.edu</span>. (<i>Please do not reach out if ML is a primary focus of your CV as I don't work directly in it.</i>)</s></font></p> 
     </td>
   </tr>
 </table>
