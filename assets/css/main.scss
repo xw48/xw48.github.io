@@ -11,20 +11,20 @@
 */
 
 $doc-font-size: 12;
-$type-size-1: 2.2em;
-$type-size-2: 1.8em;
-$type-size-3: 1.45em;
-$type-size-4: 1.15em;
-$type-size-5: 1em;
-$type-size-6: 0.75em;
-$type-size-7: 0.68em;
-$type-size-8: 0.62em;
+$type-size-1: 2.0em;
+$type-size-2: 1.65em;
+$type-size-3: 1.35em;
+$type-size-4: 1.1em;
+$type-size-5: 0.95em;
+$type-size-6: 0.7em;
+$type-size-7: 0.63em;
+$type-size-8: 0.58em;
 
-$small: 650px;
-$medium: 800px;
-$medium-wide: 950px;
-$large: 1000px;
-$x-large: 1350px;
+$small: 680px;
+$medium: 830px;
+$medium-wide: 980px;
+$large: 1040px;
+$x-large: 1400px;
 
 @import "vendor/breakpoint/breakpoint"; // media query mixins
 @import "variables";
