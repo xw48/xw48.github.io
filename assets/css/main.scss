@@ -10,9 +10,6 @@
  *
 */
 
-@import "vendor/breakpoint/breakpoint"; // media query mixins
-@import "vendor/susy/susy";
-
 $doc-font-size: 12;
 $type-size-1: 2.2em;
 $type-size-2: 1.8em;
@@ -29,8 +26,10 @@ $medium-wide: 950px;
 $large: 1000px;
 $x-large: 1350px;
 
+@import "vendor/breakpoint/breakpoint"; // media query mixins
 @import "variables";
 @import "mixins";
+@import "vendor/susy/susy";
 
 @import "reset";
 @import "base";
