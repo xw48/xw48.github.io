@@ -10,6 +10,16 @@
  *
 */
 
+$doc-font-size: 12;
+$type-size-1: 2.2em;
+$type-size-2: 1.8em;
+$type-size-3: 1.45em;
+$type-size-4: 1.15em;
+$type-size-5: 1em;
+$type-size-6: 0.75em;
+$type-size-7: 0.68em;
+$type-size-8: 0.62em;
+
 @import "vendor/breakpoint/breakpoint"; // media query mixins
 @import "variables";
 @import "mixins";
