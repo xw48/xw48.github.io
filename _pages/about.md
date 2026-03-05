@@ -43,6 +43,7 @@ redirect_from:
 <ul>
   <li>(09/2025) One paper on privacy compliance analysis is accepted to S&P'26. Congratulations to Jingzhou and Fares.</li>
   <li>(09/2025) Congrats to Jingzhou for receiving the FCI Student Scholarship!</li>
+  <li>(09/2025) I am invited to serve as a PC member of ACM CCS 2026.</li>
   <li>(08/2025) Jingzhou presented our paper on software privacy compliance at USENIX Security 2025.</li>
   <li>(06/2025) We received an SaTC EDU award from NSF for experiential learning of dark patterns in cybersecurity and privacy.</li>
   <li>(06/2025) I am invited to serve as a PC member of USENIX Security 2026.</li>
