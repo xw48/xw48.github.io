@@ -9,10 +9,15 @@ redirect_from:
 
 
 
-<table border="1" cellpadding="10" cellspacing="0">
+<table border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse;">
   <tr>
-    <td>
-      <p><font size="-0.5"><span style="color:red">Openings:</span> <s>I am looking for a highly motivated PhD student to join our research team at the University of Central Florida (UCF). If you have a strong interest in <b>privacy compliance</b> and <b>software supply chain security</b>, please email your CV and a brief self-introduction to <span style="color:blue">xueqiang.wang@ucf.edu</span>.</s></font></p>
+    <td style="padding: 10px;">
+      <span style="color:red;">Openings:</span>
+      <s>
+        I am looking for a highly motivated PhD student to join our research team at the University of Central Florida (UCF). 
+        If you have a strong interest in <b>privacy compliance</b> and <b>software supply chain security</b>, please email your CV and a brief self-introduction to 
+        <a href="mailto:xueqiang.wang@ucf.edu" style="color:blue;">xueqiang.wang@ucf.edu</a>.
+      </s>
     </td>
   </tr>
 </table>
@@ -65,8 +70,8 @@ redirect_from:
   <li>(08/2023) Welcome Jingzhou and Zhaojie to the team! </li>
   <li>(07/2023) I will introduce cybersecurity and privacy to 8th-11th graders at UCF Camp Connect I.</li>
   <li>(04/2023) Our paper on mobile dark user interface patterns is accepted to DSN 2023. </li>
-  <li>(03/2023) Our paper on software supply chain security is accepted to USENIX Security 2023. </li>
-  <li>(09/2022) Our paper on a large-scale analysis of IoT data exposure is accepted to USENIX Security 2023. </li>
+  <li>(03/2023) Our paper on mobile supply chain security is accepted to USENIX Security 2023. </li>
+  <li>(09/2022) Our paper on analyzing IoT data exposure is accepted to USENIX Security 2023. </li>
   <li>(07/2022) Our paper on the security of exposed cloud services is accepted to USENIX Security 2023. </li>
   <li>(07/2022) I will serve as a PC member of ACNS 2023.</li>
   <li>(03/2022) I will join UCF as a tenure-track assistant professor in fall 2022.</li>
