@@ -9,14 +9,12 @@ redirect_from:
 
 
 
-<table border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse;">
+<table border="1" cellpadding="10" cellspacing="0">
   <tr>
     <td style="padding: 10px;">
       <span style="color:red;">Openings:</span>
       <s>
-        I am looking for a highly motivated PhD student to join our research team at the University of Central Florida (UCF). 
-        If you have a strong interest in <b>privacy compliance</b> and <b>software supply chain security</b>, please email your CV and a brief self-introduction to 
-        <a href="mailto:xueqiang.wang@ucf.edu" style="color:blue;">xueqiang.wang@ucf.edu</a>.
+        I am looking for a highly motivated PhD student to join our research team at the University of Central Florida (UCF). If you have a strong interest in <b>privacy compliance</b> and <b>software supply chain security</b>, please email your CV and a brief self-introduction to <a href="mailto:xueqiang.wang@ucf.edu" style="color:blue;">xueqiang.wang@ucf.edu</a>.
       </s>
     </td>
   </tr>
