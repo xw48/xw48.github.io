@@ -49,31 +49,31 @@ redirect_from:
   <li>(06/2025) We received an SaTC EDU award from NSF for experiential learning of dark patterns in cybersecurity and privacy.</li>
   <li>(06/2025) I am invited to serve as a PC member of USENIX Security 2026.</li>
   <li>(05/2025) 21 STEM students across Florida completed our summer training for secure, resilient cyber-physical energy systems.</li>
-  <li>(04/2025) I will serve as a PC member of NDSS 2026.</li>
+  <li>(04/2025) I am invited to serve as a PC member of NDSS 2026.</li>
   <li>(03/2025) Thanks to the LIFE Gerontology Research Grant for supporting our research participants.</li>
   <li>(03/2025) Our paper won the Best Paper Award at CHI 2025. Congrats to Jingzhou and the collaborators!</li>
   <li>(03/2025) We (Dr. Yao Li and I) gave a talk about dark patterns to the Learning Institute for Elders (LIFE) at UCF.</li>
   <li>(02/2025) Thanks to UCF Seed Funding for supporting our research on educating older adults about cyber threats!</li>
   <li>(01/2025) One paper is accepted to CHI 2025. Congrats to Jingzhou and collaborators!</li>
-  <li>(10/2024) I will serve as a PC member of ACM CCS 2025.</li>
+  <li>(10/2024) I am invited to serve as a PC member of ACM CCS 2025.</li>
   <li>(09/2024) One paper on software privacy compliance is accepted to USENIX Security 2025.</li>
-  <li>(08/2024) I will serve as a PC member of AsiaCCS 2025.</li>
-  <li>(08/2024) I will serve as a PC member of USENIX Security 2025.</li>
+  <li>(08/2024) I am invited to serve as a PC member of AsiaCCS 2025.</li>
+  <li>(08/2024) I am invited to serve as a PC member of USENIX Security 2025.</li>
   <li>(05/2024) Together with colleagues at FAU, USF, and FIU, we provided a 9-day summer training for secure, resilient cyber-physical energy systems.</li>
   <li>(05/2024) One paper on the privacy compliance risks of the software supply chain is accepted to USENIX Security 2024. Congrats to Yifan and Zhaojie.</li>
   <li>(03/2024) One paper on a new authentication method for voice-enabled IoT devices is accepted to IoT-J. Congrats to Sungbin (Bill).</li>
   <li>(02/2024) One paper on the analysis of fake evidence (or misinformation) supply chains is accepted to EuroS&P 2024. Congrats to Zhaojie and Jingzhou.</li>
-  <li>(12/2023) I will serve as a PC member of the software security track at ACM CCS 2024.</li>
+  <li>(12/2023) I am invited to serve as a PC member of ACM CCS 2024.</li>
   <li>(10/2023) I will serve as the co-registration chair for ACM CCS 2024.</li>
   <li>(09/2023) NSF awarded our collaborative grant led by FAU through the CyberTraining program. </li>
-  <li>(08/2023) I will serve as a PC member of EuroS&P 2024. </li>
+  <li>(08/2023) I am invited to serve as a PC member of EuroS&P 2024. </li>
   <li>(08/2023) Welcome Jingzhou and Zhaojie to the team! </li>
   <li>(07/2023) I will introduce cybersecurity and privacy to 8th-11th graders at UCF Camp Connect I.</li>
   <li>(04/2023) Our paper on mobile dark user interface patterns is accepted to DSN 2023. </li>
   <li>(03/2023) Our paper on mobile supply chain security is accepted to USENIX Security 2023. </li>
   <li>(09/2022) Our paper on analyzing IoT data exposure is accepted to USENIX Security 2023. </li>
   <li>(07/2022) Our paper on the security of exposed cloud services is accepted to USENIX Security 2023. </li>
-  <li>(07/2022) I will serve as a PC member of ACNS 2023.</li>
+  <li>(07/2022) I am invited to serve as a PC member of ACNS 2023.</li>
   <li>(03/2022) I will join UCF as a tenure-track assistant professor in fall 2022.</li>
   <li>(09/2021) I will serve as a reviewer of IEEE Security & Privacy.</li>
   <li>(01/2021) I will serve as a reviewer of ACM Transactions on Privacy and Security.</li>
