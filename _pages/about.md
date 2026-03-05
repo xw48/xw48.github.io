@@ -9,7 +9,7 @@ redirect_from:
 
 
 
-<table border="1" cellpadding="10" cellspacing="0" style="font-size:16px;">
+<table border="1" cellpadding="10" cellspacing="0" style="font-size:17px;">
   <tr>
     <td style="padding: 10px;">
       <span style="color:red;">Openings:</span>
