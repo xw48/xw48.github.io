@@ -19,7 +19,9 @@ redirect_from:
 
 <p>Xueqiang (Brandon) Wang is an Assistant Professor of Computer Science at <a href="https://www.ucf.edu" target="_blank" rel="noopener">UCF</a>, where he is also a member of the Cyber Security and Privacy Cluster (<a href="https://cyber.cs.ucf.edu/" target="_blank" rel="noopener">CyberSP</a>). Dr. Wang obtained his Ph.D. in 2021 from <a href="https://bloomington.iu.edu/" target="_blank" rel="noopener">Indiana University Bloomington</a>, and worked in security and privacy teams at <a href="" target="_blank" rel="noopener">Symantec Research Labs</a>, <a href="https://www.nio.com/" target="_blank" rel="noopener">NIO USA</a>, and <a href="https://www.lab126.com" target="_blank" rel="noopener">Amazon Lab126</a>. Prior to that, he earned a Master’s degree (2015) from the Institute of Information Engineering, CAS, and a Bachelor’s degree (2012) from the University of Science and Technology of China.</p>
 
-<p> Dr. Wang leads the Security and PRIvacy for smarT systems (<b>SPIRIT</b>) lab at UCF. His recent research focuses on the <b>Privacy Compliance</b> and <b>Supply Chain Security</b> of real-world systems, spanning existing mobile and IoT applications as well as emerging AI-enabled software. Recently, driven by the goal of empowering both developers and users, he has worked on and gained increasing interest in <b>building developer-centered solutions</b> to mitigate security and privacy issues, and <b>educating end users</b> to prevent further harm. These efforts have effectively guided the SPIRIT lab toward a series of interdisciplinary research projects at the intersection of Cybersecurity and Privacy, HCI, and Software Engineering. </p>
+<p>Dr. Wang leads the Security and PRIvacy for smarT systems (<b>SPIRIT</b>) lab at UCF. His recent research focuses on the <b>Privacy Compliance</b> and <b>Supply Chain Security</b> of real-world systems, spanning existing mobile and IoT applications as well as emerging AI-enabled software. Recently, driven by the goal of empowering both developers and users, he has worked on and gained increasing interest in <b>building developer-centered solutions</b> to mitigate security and privacy issues, and <b>educating end users</b> to prevent further harm.</p>
+
+<p>These efforts have effectively guided the SPIRIT lab toward a series of interdisciplinary research projects at the intersection of Cybersecurity and Privacy, HCI, and Software Engineering:</p>
 
 <ul>
 <li>Privacy Compliance: <a href="https://xw48.github.io/files/ye2026understanding.pdf" target="_blank" rel="noopener">[S&P'26]</a>, <a href="https://xw48.github.io/files/zhang2024navigating.pdf" target="_blank" rel="noopener">[USENIX Security'24]</a>, <a href="https://xw48.github.io/files/nan2023iotprofiler.pdf" target="_blank" rel="noopener">[USENIX Security'23-A]</a>, <a href="https://xw48.github.io/files/wang2023creditkarma.pdf" target="_blank" rel="noopener">[USENIX Security'23-B]</a>, <a href="https://xw48.github.io/files/wang2023duress.pdf" target="_blank" rel="noopener">[USENIX Security'23-C]</a>, <a href="https://xw48.github.io/files/wang2021understanding.pdf" target="_blank" rel="noopener">[USENIX Security'21]</a> 
@@ -45,7 +47,7 @@ redirect_from:
   <li>(04/2025) I will serve as a PC member of NDSS 2026.</li>
   <li>(03/2025) Thanks to the LIFE Gerontology Research Grant for supporting our research participants.</li>
   <li>(03/2025) Our paper won the Best Paper Award at CHI 2025. Congrats to Jingzhou and the collaborators!</li>
-  <li>(03/2025) We (Dr. Yao Li and I) gave a talk about dark patterns threatening security and privacy to the Learning Institute for Elders (LIFE) at UCF.</li>
+  <li>(03/2025) We (Dr. Yao Li and I) gave a talk about dark patterns to the Learning Institute for Elders (LIFE) at UCF.</li>
   <li>(02/2025) Thanks to UCF Seed Funding for supporting our research on educating older adults about cyber threats!</li>
   <li>(01/2025) One paper is accepted to CHI 2025. Congrats to Jingzhou and collaborators!</li>
   <li>(10/2024) I will serve as a PC member of ACM CCS 2025.</li>
@@ -66,7 +68,7 @@ redirect_from:
   <li>(03/2023) Our paper on software supply chain security is accepted to USENIX Security 2023. </li>
   <li>(09/2022) Our paper on a large-scale analysis of IoT data exposure is accepted to USENIX Security 2023. </li>
   <li>(07/2022) Our paper on the security of exposed cloud services is accepted to USENIX Security 2023. </li>
-  <li>(07/2022) I will serve as a PC member of ACNS 2023 (Applied Cryptography and Network Security 2023).</li>
+  <li>(07/2022) I will serve as a PC member of ACNS 2023.</li>
   <li>(03/2022) I will join UCF as a tenure-track assistant professor in fall 2022.</li>
   <li>(09/2021) I will serve as a reviewer of IEEE Security & Privacy.</li>
   <li>(01/2021) I will serve as a reviewer of ACM Transactions on Privacy and Security.</li>
