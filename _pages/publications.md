@@ -40,7 +40,7 @@ author_profile: true
     <li>
     <font size="4">
       <strong>Navigating the Privacy Compliance Maze: Understanding Risks with Privacy-Configurable Mobile SDKs</strong>
-      <a style="color:#3364FF" href="https://xw48.github.io/files/pico-preview.pdf" target="_blank" rel="noopener">[PDF]</a>
+      <a style="color:#3364FF" href="https://xw48.github.io/files/zhang2024navigating.pdf" target="_blank" rel="noopener">[PDF]</a>
       <a style="color:#CE33FF" href="https://xw48.github.io/files/zhang2024navigating.bib" target="_blank" rel="noopener">[Bib]</a>
     </font>
     <br>Yifan Zhang*, Zhaojie Hu*, Xueqiang Wang, Yuhui Hong, Yuhong Nan, XiaoFeng Wang, Jiatao Cheng, Luyi Xing
