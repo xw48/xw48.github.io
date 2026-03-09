@@ -6,8 +6,8 @@ author_profile: true
 ---
 
 My Current PhD Students at UCF:
-- Jingzhou Ye (PhD, Fall 2023) [EuroS&P'24, USENIX Security'25, CHI'25, S&P'26] [Recipient of the FCI Student Scholarship]
-- Zhaojie Hu (PhD, Fall 2023) [EuroS&P'24, USENIX Security'24]
+- Jingzhou Ye (PhD, Fall 2023) [EuroS&P'24, USENIX Security'25, CHI'25, S&P'26a, S&P'26c] [Recipient of the FCI Student Scholarship]
+- Zhaojie Hu (PhD, Fall 2023) [EuroS&P'24, USENIX Security'24, S&P'26b]
 
 I also worked closely with the following students:
 - Yifan Zhang (Indiana University Bloomington; joined SDSU as a tenure-track assistant professor) [USENIX Security'23, USENIX Security'24]
