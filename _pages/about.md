@@ -42,7 +42,7 @@ redirect_from:
 <h3>News</h3>
 <ul>
   <li>(03/2026) One paper on LLM-enabled privacy compliance analysis is accepted to S&P'26. Congratulations to Zhaojie.</li>
-  <li>(03/2026) One paper on understanding designer practices in privacy-sensitive interfaces is accepted to S&P'26. Congratulations to Jingzhou. </li>
+  <li>(03/2026) One paper on revealing UI designer practices and the privacy implications of using AI-powered design tools is accepted to S&P '26. Congratulations to Jingzhou. </li>
   <li>(09/2025) Congrats to Jingzhou for receiving the FCI Student Scholarship!</li>
   <li>(09/2025) One paper on privacy compliance analysis is accepted to S&P'26. Congratulations to Jingzhou and Fares.</li>
   <li>(09/2025) I am invited to serve as a PC member of ACM CCS 2026.</li>
