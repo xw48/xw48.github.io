@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-
+<!--
 <table border="1" cellpadding="10" cellspacing="0" style="font-size:17px;">
   <tr>
     <td style="padding: 10px;">
@@ -19,6 +19,7 @@ redirect_from:
     </td>
   </tr>
 </table>
+-->
 
 <p>Xueqiang (Brandon) Wang is an Assistant Professor of Computer Science at <a href="https://www.ucf.edu" target="_blank" rel="noopener">University of Central Florida (UCF)</a>, where he is also a member of the Cyber Security and Privacy Cluster (<a href="https://cyber.cs.ucf.edu/" target="_blank" rel="noopener">CyberSP</a>). Dr. Wang obtained his Ph.D. in 2021 from <a href="https://bloomington.iu.edu/" target="_blank" rel="noopener">Indiana University Bloomington</a>, and worked in security and privacy teams at <a href="" target="_blank" rel="noopener">Symantec Research Labs</a>, <a href="https://www.nio.com/" target="_blank" rel="noopener">NIO USA</a>, and <a href="https://www.lab126.com" target="_blank" rel="noopener">Amazon Lab126</a>. Prior to that, he earned a Master’s degree (2015) from the Institute of Information Engineering, CAS, and a Bachelor’s degree (2012) from the University of Science and Technology of China.</p>
 
