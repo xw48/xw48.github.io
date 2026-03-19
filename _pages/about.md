@@ -42,10 +42,10 @@ redirect_from:
 
 <h3>News</h3>
 <ul>
-  <li>(03/2026) One paper on LLM-enabled privacy compliance analysis is accepted to S&P'26. Congratulations to Zhaojie.</li>
-  <li>(03/2026) One paper on revealing UI designer practices and the privacy implications of using AI-powered design tools is accepted to S&P '26. Congratulations to Jingzhou. </li>
+  <li>(03/2026) One paper on LLM-enabled privacy compliance analysis is accepted to S&P'26. Congrats, Zhaojie.</li>
+  <li>(03/2026) One paper on revealing UI designer practices and the privacy implications of using AI-powered design tools is accepted to S&P'26. Congrats, Jingzhou. </li>
   <li>(09/2025) Congrats to Jingzhou for receiving the FCI Student Scholarship!</li>
-  <li>(09/2025) One paper on privacy risks in mobile consent management platforms is accepted to S&P'26. Congratulations to Jingzhou and Fares.</li>
+  <li>(09/2025) One paper on privacy risks in mobile consent management platforms is accepted to S&P'26. Congrats, Jingzhou and Fares.</li>
   <li>(09/2025) I am invited to serve as a PC member of ACM CCS 2026.</li>
   <li>(08/2025) Jingzhou presented our paper on software privacy compliance at USENIX Security 2025.</li>
   <li>(06/2025) We received an SaTC EDU award for experiential learning of dark patterns in cybersecurity and privacy.</li>
@@ -62,7 +62,7 @@ redirect_from:
   <li>(08/2024) I am invited to serve as a PC member of AsiaCCS 2025.</li>
   <li>(08/2024) I am invited to serve as a PC member of USENIX Security 2025.</li>
   <li>(05/2024) Together with colleagues at FAU, USF, and FIU, we provided a 9-day summer training for secure, resilient cyber-physical energy systems.</li>
-  <li>(05/2024) One paper on the privacy compliance risks of the software supply chain is accepted to USENIX Security 2024. Congrats to Yifan and Zhaojie.</li>
+  <li>(05/2024) One paper on the privacy compliance risks of the software supply chain is accepted to USENIX Security 2024. Congrats, Yifan and Zhaojie.</li>
     
   <!-- Collapsible older news -->
   <details>
