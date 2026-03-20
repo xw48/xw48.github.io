@@ -176,7 +176,7 @@ author_profile: true
       <a style="color:#CE33FF" href="https://xw48.github.io/files/zhang2018level.bib" target="_blank" rel="noopener">[Bib]</a>
     </font>
     <br>Xiaokuan Zhang, Xueqiang Wang, Xiaolong Bai, Yinqian Zhang, XiaoFeng Wang
-    <br><i>In the Network and Distributed System Security Symposium (NDSS'18)</i>
+    <br><i>In NDSS'18</i>
   </li>
   <li>
     <font size="4">
@@ -185,7 +185,7 @@ author_profile: true
       <a style="color:#CE33FF" href="https://xw48.github.io/files/duan2018things.bib" target="_blank" rel="noopener">[Bib]</a>
     </font>
     <br>Yue Duan, Mu Zhang, Abhishek Vasist Bhaskar, Heng Yin, Xiaorui Pan, Tongxin Li, Xueqiang Wang, Xiaofeng Wang
-    <br><i>In the Network and Distributed System Security Symposium (NDSS'18)</i>
+    <br><i>In NDSS'18</i>
   </li>
   
   <!--
@@ -208,7 +208,7 @@ author_profile: true
       <a style="color:#FF3C33" href="https://sites.google.com/site/xawisite/" target="_blank">[Supplementary]</a>
     </font>
     <br>Tongxin Li, Xueqiang Wang, Mingming Zha, Kai Chen, XiaoFeng Wang, Luyi Xing, Xiaolong Bai, Nan Zhang, Xinhui Han
-    <br><i>In the 24th ACM Conference on Computer and Communications Security (CCS'17)</i>
+    <br><i>In CCS'17</i>
   </li>
   <li>
     <font size="4">
@@ -217,7 +217,7 @@ author_profile: true
       <a style="color:#CE33FF" href="https://xw48.github.io/files/pan2017dark.bib" target="_blank" rel="noopener">[Bib]</a>
     </font>
     <br>Xiaorui Pan, Xueqiang Wang, Yue Duan, XiaoFeng Wang, Heng Yin
-    <br><i>In the Network and Distributed System Security Symposium (NDSS'17)</i>
+    <br><i>In NDSS'17</i>
   </li>
   <li>
     <font size="4">
@@ -236,7 +236,7 @@ author_profile: true
       <a style="color:#CE33FF" href="https://xw48.github.io/files/wang2015deepdroid.bib" target="_blank" rel="noopener">[Bib]</a>
     </font>
     <br>Xueqiang Wang, Kun Sun, Yuewu Wang, Jiwu Jing
-    <br><i>In the Network and Distributed System Security Symposium (NDSS'15)</i>
+    <br><i>In NDSS'15</i>
   </li>
   <li>
     <font size="4">
@@ -245,7 +245,7 @@ author_profile: true
       <a style="color:#CE33FF" href="https://xw48.github.io/files/wang2014wrapdroid.bib" target="_blank" rel="noopener">[Bib]</a>
     </font>
     <br>Xueqiang Wang, Yuewu Wang, Limin Liu, Lingguang Lei, Jiwu Jing
-    <br><i>In International Conference on Information Security and Cryptology (ICISC'14)</i>
+    <br><i>In ICISC'14</i>
   </li>
 
   <!--
