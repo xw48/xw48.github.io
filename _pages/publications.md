@@ -123,6 +123,8 @@ author_profile: true
     <br>Yeonjoon Lee*,Xueqiang Wang*, Xiaojing Liao, XiaoFeng Wang
     <br><i>In TDSC'19</i>
   </li>
+
+  <!--
   <li>
     <font size="4">
       <strong>System and Methods for Evaluating Security Posture of Smart Home Devices</strong>
@@ -137,6 +139,8 @@ author_profile: true
     <br>Yuqiong Sun, Xueqiang Wang, Susanta Nanda, Yun Shen, Pierre-Antoine Vervier, Petros Efstathopouloss
     <br><i>US Patent (US11122040B1)</i>
   </li>
+  -->
+  
   <li>
     <font size="4">
       <strong>Looking from the Mirror: Evaluating IoT Device Security through Mobile Companion Apps</strong>
@@ -163,7 +167,7 @@ author_profile: true
       <a style="color:#CE33FF" href="https://xw48.github.io/files/you2019profuzzer.bib" target="_blank" rel="noopener">[Bib]</a>
     </font>
     <br>Wei You, Xueqiang Wang, Shiqing Ma, Jianjun Huang, Xiangyu Zhang, XiaoFeng Wang, Bin Liang
-    <br><i>In Security and Privacy (SP'19)</i>
+    <br><i>In IEEE Security & Privacy'19</i>
   </li>
   <li>
     <font size="4">
@@ -183,6 +187,8 @@ author_profile: true
     <br>Yue Duan, Mu Zhang, Abhishek Vasist Bhaskar, Heng Yin, Xiaorui Pan, Tongxin Li, Xueqiang Wang, Xiaofeng Wang
     <br><i>In the Network and Distributed System Security Symposium (NDSS'18)</i>
   </li>
+  
+  <!--
   <li>
     <font size="4">
       <strong>Privacy Loss in Apple’s Implementation of Differential Privacy on MacOS 10.12</strong>
@@ -192,6 +198,8 @@ author_profile: true
     <br>Jun Tang, Aleksandra Korolova, Xiaolong Bai, Xueqiang Wang, XiaoFeng Wang
     <br><i>In TPDP'17 (co-located with CCS)</i>
   </li>
+  -->
+  
   <li>
     <font size="4">
       <strong>Unleashing the Walking Dead: Understanding Cross-App Remote Infections on Mobile WebViews</strong>
@@ -219,7 +227,7 @@ author_profile: true
       <a style="color:#FF3C33" href="https://sites.google.com/site/phalibscom/" target="_blank" rel="noopener">[Supplementary]</a>
     </font>
     <br>Kai Chen, Xueqiang Wang, Yi Chen, Peng Wang, Yeonjoon Lee, XiaoFeng Wang, Bin Ma, Aohui Wang, Yingjun Zhang, Wei Zou
-    <br><i>In Security and Privacy (SP'16)</i>
+    <br><i>In IEEE Security & Privacy'16</i>
   </li>
   <li>
     <font size="4">
@@ -239,6 +247,8 @@ author_profile: true
     <br>Xueqiang Wang, Yuewu Wang, Limin Liu, Lingguang Lei, Jiwu Jing
     <br><i>In International Conference on Information Security and Cryptology (ICISC'14)</i>
   </li>
+
+  <!--
   <li>
     <font size="4">
       <strong>An Easy-To-Deploy Behavior Monitoring Scheme for Android Applications (In Chinese)</strong>
@@ -253,5 +263,7 @@ author_profile: true
     <br>Xueqiang Wang, Lingguang Lei, Yuewu Wang
     <br><i>In Netinfo Security</i>
   </li>
+  -->
+  
   <br>
 </ul>
