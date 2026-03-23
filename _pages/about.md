@@ -43,19 +43,19 @@ redirect_from:
 <h3>News</h3>
 <ul>
   <li>(03/2026) One paper on LLM-enabled privacy compliance analysis is accepted to S&P'26. Congrats, Zhaojie.</li>
-  <li>(03/2026) One paper on revealing UI designer practices and the privacy implications of using AI-powered design tools is accepted to S&P'26. Congrats, Jingzhou. </li>
+  <li>(03/2026) One paper on revealing UI designer practices and privacy implications of GenAI-powered design tools is accepted to S&P'26. Congrats, Jingzhou. </li>
   <li>(09/2025) Congrats to Jingzhou for receiving the FCI Student Scholarship!</li>
   <li>(09/2025) One paper on privacy risks in mobile consent management platforms is accepted to S&P'26. Congrats, Jingzhou and Fares.</li>
   <li>(09/2025) I am invited to serve as a PC member of ACM CCS 2026.</li>
   <li>(08/2025) Jingzhou presented our paper on software privacy compliance at USENIX Security 2025.</li>
-  <li>(06/2025) We received an SaTC EDU award for experiential learning of dark patterns in cybersecurity and privacy.</li>
+  <li>(06/2025) We received an SaTC EDU award for experiential learning of dark patterns.</li>
   <li>(06/2025) I am invited to serve as a PC member of USENIX Security 2026.</li>
   <li>(05/2025) 21 STEM students across Florida completed our summer training for secure, resilient cyber-physical energy systems.</li>
   <li>(04/2025) I am invited to serve as a PC member of NDSS 2026.</li>
-  <li>(03/2025) Thanks to the LIFE Gerontology Research Grant for supporting our research participants.</li>
+  <li>(03/2025) Thanks, LIFE Gerontology Research Grant, for supporting our research participants.</li>
   <li>(03/2025) Our paper won the Best Paper Award at CHI 2025. Congrats, Jingzhou!</li>
   <li>(03/2025) We (Dr. Yao Li and I) gave a talk about dark patterns to the Learning Institute for Elders (LIFE) at UCF.</li>
-  <li>(02/2025) Thanks to UCF Seed Funding for supporting our research on educating older adults about cyber threats!</li>
+  <li>(02/2025) Thanks, UCF Seed Funding, for supporting our research on educating older adults about cyber threats!</li>
   <li>(01/2025) One paper is accepted to CHI 2025. Congrats, Jingzhou!</li>
   <li>(10/2024) I am invited to serve as a PC member of ACM CCS 2025.</li>
   <li>(09/2024) One paper on software privacy compliance is accepted to USENIX Security 2025.</li>
