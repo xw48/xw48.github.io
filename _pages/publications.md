@@ -13,6 +13,24 @@ author_profile: true
 <ul>
     <li>
       <font size="4">
+        <strong>Navigating Developers’ Quagmire: LLM-Enabled Privacy Compliance Analysis for SDK Integrations</strong>
+        <a style="color:#3364FF" href="https://xw48.github.io/files/hu2026navigating.pdf" target="_blank" rel="noopener">[PDF]</a>
+        <a style="color:#CE33FF" href="https://xw48.github.io/files/hu2026navigating.bib" target="_blank" rel="noopener">[Bib]</a>
+      </font>
+      <br>Zhaojie Hu, and Xueqiang Wang
+      <br><i>In IEEE Security & Privacy'26</i>
+    </li>
+    <li>
+      <font size="4">
+        <strong>When Designers Meet GenAI: Understanding the Role of Prompt-to-Design Generators in Privacy Dark Patterns</strong>
+        <a style="color:#3364FF" href="https://xw48.github.io/files/ye2026when.pdf" target="_blank" rel="noopener">[PDF]</a>
+        <a style="color:#CE33FF" href="https://xw48.github.io/files/ye2026when.bib" target="_blank" rel="noopener">[Bib]</a>
+      </font>
+      <br>Jingzhou Ye, Zhaojie Hu, Yao Li, and Xueqiang Wang
+      <br><i>In IEEE Security & Privacy'26</i>
+    </li>
+    <li>
+      <font size="4">
         <strong>Understanding and Analyzing Privacy Risks in Mobile Consent-Management Platforms</strong>
         <a style="color:#3364FF" href="https://xw48.github.io/files/ye2026understanding.pdf" target="_blank" rel="noopener">[PDF]</a>
         <a style="color:#CE33FF" href="https://xw48.github.io/files/ye2025understanding.bib" target="_blank" rel="noopener">[Bib]</a>
@@ -38,7 +56,7 @@ author_profile: true
     </font>
     <br>Tao Jing, Yao Li, Jingzhou Ye, Jie Wang, Xueqiang Wang
     <br><i>In USENIX Security'25</i>  
-  </li>
+    </li>
     <li>
     <font size="4">
       <strong>Navigating the Privacy Compliance Maze: Understanding Risks with Privacy-Configurable Mobile SDKs</strong>
@@ -47,7 +65,7 @@ author_profile: true
     </font>
     <br>Yifan Zhang*, Zhaojie Hu*, Xueqiang Wang, Yuhui Hong, Yuhong Nan, XiaoFeng Wang, Jiatao Cheng, Luyi Xing
     <br><i>In USENIX Security'24</i>
-  </li>
+    </li>
     <li>
     <font size="4">
       <strong>Seeing is Not Always Believing: An Empirical Analysis of Fake Evidence Generators</strong>
@@ -56,7 +74,7 @@ author_profile: true
     </font>
     <br>Zhaojie Hu*, Jingzhou Ye*, Yifan Zhang, Xueqiang Wang
     <br><i>In EuroS&P’24</i>
-  </li>
+    </li>
     <li>
     <font size="4">
       <strong>DARPA: Combating Asymmetric Dark UI Patterns on Android with Run-time View Decorator</strong>
