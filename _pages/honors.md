@@ -14,6 +14,8 @@ author_profile: true
 <li>Vulnerability Bounty Reward, $1120, Twitter, 2017.</li>
 <li>2015 Dean’s Award, IIE, CAS.</li>
 <li>2011 Outstanding Student Scholarship, USTC.</li>
-<li>National Scholarship, Ministry of Education of the P.R. China 2010.</li>
-<li>National Scholarship, Ministry of Education of the P.R. China 2009.</li>
+<!--
+  <li>National Scholarship, Ministry of Education of the P.R. China 2010.</li>
+  <li>National Scholarship, Ministry of Education of the P.R. China 2009.</li>
+-->
 </ul>
