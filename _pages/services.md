@@ -14,7 +14,7 @@ EuroS&P (2024)
 ACNS (2023)
 
 #### Organizing Committee Member
-ACM CCS 2024 (Co-Registration Chair)
+ACM CCS 2024 (Registration Chair)
 
 #### Reviewer
 TIFS (2023, 2024)  
