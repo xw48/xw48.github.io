@@ -42,7 +42,7 @@ redirect_from:
 
 <h3>News</h3>
 <ul>
-  <li>(03/2026) One paper on LLM-based privacy compliance is accepted to S&P'26. Congrats, Zhaojie.</li>
+  <li>(03/2026) One paper on LLM-based reasoning about privacy compliance issues in software has been accepted to S&P 2026. Congrats, Zhaojie.</li>
   <li>(03/2026) One paper on GenAI-powered, privacy-respecting UI design is accepted to S&P'26. Congrats, Jingzhou. </li>
   <li>(09/2025) Congrats to Jingzhou for receiving the FCI Student Scholarship!</li>
   <li>(09/2025) One paper on mobile consent management platforms (CMP) is accepted to S&P'26. Congrats, Jingzhou and Fares.</li>
