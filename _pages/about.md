@@ -49,7 +49,7 @@ redirect_from:
   <li>(09/2025) One paper on mobile consent management platforms (CMP) is accepted to S&P'26. Congrats, Jingzhou and Fares.</li>
   <li>(09/2025) I am invited to serve as a PC member of ACM CCS 2026.</li>
   <li>(08/2025) Jingzhou presented our paper on software privacy compliance at USENIX Security 2025.</li>
-  <li>(06/2025) We received an SaTC EDU award for experiential learning of dark patterns.</li>
+  <!--<li>(06/2025) We received an SaTC EDU award for experiential learning of dark patterns.</li>-->
   <li>(06/2025) I am invited to serve as a PC member of USENIX Security 2026.</li>
   <li>(05/2025) 21 STEM students across Florida completed our summer training for secure, resilient cyber-physical energy systems.</li>
   <li>(04/2025) I am invited to serve as a PC member of NDSS 2026.</li>
