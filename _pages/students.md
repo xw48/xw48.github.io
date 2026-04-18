@@ -6,11 +6,11 @@ author_profile: true
 ---
 
 My Current PhD Students at UCF:
-- Jingzhou Ye (PhD, Fall 2023) [EuroS&P'24, USENIX Security'25, CHI'25, S&P'26a, S&P'26c] [Recipient of the FCI Student Scholarship]
-- Zhaojie Hu (PhD, Fall 2023) [EuroS&P'24, USENIX Security'24, S&P'26b]
+- <a href="https://yjz2001.github.io/" target="_blank" rel="noopener">Jingzhou Ye</a> (PhD, Fall 2023) [EuroS&P'24, USENIX Security'25, CHI'25, S&P'26a, S&P'26c] [Recipient of the FCI Student Scholarship]
+- <a href="https://yorca.github.io/" target="_blank" rel="noopener">Zhaojie Hu</a> (PhD, Fall 2023) [EuroS&P'24, USENIX Security'24, S&P'26b] [Recipient of the ORCGS Doctoral Fellowship]
 
 I also worked closely with the following students:
-- Yifan Zhang (Indiana University Bloomington; joined SDSU as a tenure-track assistant professor) [USENIX Security'23, USENIX Security'24]
+- <a href="https://1phan.com/" target="_blank" rel="noopener">Yifan Zhang</a> (Indiana University Bloomington; joined SDSU as a tenure-track assistant professor) [USENIX Security'23, USENIX Security'24]
 - Tao Jing (Huazhong University of Science and Technology) [USENIX Security'25]
 - Zhaoxin Cai (Sun Yat-sen University）[DSN'23]
 - Sungbin Park (Hanyang University) [IoTJ'24, JNCA'24]
