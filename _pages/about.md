@@ -44,7 +44,7 @@ redirect_from:
 <ul>
   <li>(04/2026) We have been working on a learning platform called DPTrek to help end users understand and safely navigate common deceptive patterns online. Check out our preview version <a href="https://dptrek-nine.vercel.app" target="_blank" rel="noopener">HERE</a>.</li>
   <li>(03/2026) One paper on LLM-based privacy compliance analysis has been accepted to S&P 2026. Congrats, Zhaojie.</li>
-  <li>(03/2026) One paper on GenAI-powered, privacy-respecting UI design is accepted to S&P'26. Congrats, Jingzhou. </li>
+  <li>(03/2026) One paper on GenAI-powered, privacy-respecting software and UI design and development is accepted to S&P’26. Congrats, Jingzhou.</li>
   <li>(09/2025) Welcome Jihwan and Taiwo to the team!</li>
   <li>(09/2025) Congrats to Jingzhou for receiving the FCI Student Scholarship!</li>
   <li>(09/2025) One paper on mobile consent management platforms (CMP) is accepted to S&P'26. Congrats, Jingzhou and Fares.</li>
