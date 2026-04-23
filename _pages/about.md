@@ -42,14 +42,15 @@ redirect_from:
 
 <h3>News</h3>
 <ul>
-  <li>(03/2026) One paper on LLM-based reasoning about privacy compliance issues in software has been accepted to S&P 2026. Congrats, Zhaojie.</li>
+  <li>(04/2026) We have been working on a learning platform called DPTrek to help end users understand and safely navigate common deceptive patterns online. Check out our preview version <a href="https://dptrek-nine.vercel.app" target="_blank" rel="noopener">HERE</a>.</li>
+  <li>(03/2026) One paper on LLM-based privacy compliance analysis has been accepted to S&P 2026. Congrats, Zhaojie.</li>
   <li>(03/2026) One paper on GenAI-powered, privacy-respecting UI design is accepted to S&P'26. Congrats, Jingzhou. </li>
   <li>(09/2025) Welcome Jihwan and Taiwo to the team!</li>
   <li>(09/2025) Congrats to Jingzhou for receiving the FCI Student Scholarship!</li>
   <li>(09/2025) One paper on mobile consent management platforms (CMP) is accepted to S&P'26. Congrats, Jingzhou and Fares.</li>
   <li>(09/2025) I am invited to serve as a PC member of ACM CCS 2026.</li>
   <li>(08/2025) Jingzhou presented our paper on software privacy compliance at USENIX Security 2025.</li>
-  <!--<li>(06/2025) We received an SaTC EDU award for experiential learning of dark patterns.</li>-->
+  <li>(06/2025) We received an SaTC EDU award for experiential learning of dark patterns.</li>
   <li>(06/2025) I am invited to serve as a PC member of USENIX Security 2026.</li>
   <li>(05/2025) 21 STEM students across Florida completed our summer training for secure, resilient cyber-physical energy systems.</li>
   <li>(04/2025) I am invited to serve as a PC member of NDSS 2026.</li>
