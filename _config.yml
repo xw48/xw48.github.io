@@ -113,10 +113,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  links:
-    - label: "CV"
-      icon: "fas fa-fw fa-file-pdf"
-      url: "/files/Xueqiang_Wang-UCF_CV.pdf"
+  cv        : "/files/Xueqiang_Wang-UCF_CV.pdf"
 
 # Reading Files
 include:
