@@ -11,9 +11,7 @@ redirect_from:
   <tr>
     <td style="padding: 10px;">
       <span style="color:red;">Openings:</span>
-      <s>
-        I am looking for one highly motivated PhD student to join our research team. If you have a strong interest in security and privacy compliance of emerging agentic systems, please email your CV and a brief self-introduction to <a href="mailto:xueqiang.wang@ucf.edu" style="color:blue;">xueqiang.wang@ucf.edu</a>.
-      </s>
+      I am looking for one highly motivated PhD student to join our research team. If you have a strong interest in security and privacy compliance of emerging agentic systems, please email your CV and a brief self-introduction to <a href="mailto:xueqiang.wang@ucf.edu" style="color:blue;">xueqiang.wang@ucf.edu</a>.
     </td>
   </tr>
 </table>
