@@ -39,6 +39,7 @@ redirect_from:
 <h3>News</h3>
 <ul>
   <li>(05/2026) With a group of colleagues from FAU, USF, and FIU, we conducted a 9-day summer training program for 20+ STEM students from across Florida and the nation on secure and resilient cyber-physical energy systems. </li>
+  <li>(05/2026) Congrats to Jingzhou on receiving the IEEE S&P Student Travel Grant! Thank you to the conference for the support! </li>
   <li>(04/2026) I am invited to serve on the TPC of NDSS 2027.</li>
   <li>(04/2026) We are working on a learning platform (DPTrek) helping online users to understand and navigate deceptive patterns online. Check out our preview <a href="https://dptrek-psi.vercel.app/" target="_blank" rel="noopener">HERE</a>, and feedback is greatly welcome!</li>
   <li>(03/2026) One paper on LLM-based privacy compliance analysis has been accepted to S&P 2026. Congrats, Zhaojie.</li>
