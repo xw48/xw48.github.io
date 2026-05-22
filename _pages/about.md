@@ -42,8 +42,9 @@ redirect_from:
 
 <h3>News</h3>
 <ul>
+  <li>(05/2026) With a group of colleagues from FAU, USF, and FIU, we conducted a 9-day summer training program for 20+ STEM students from across Florida and the nation on secure and resilient cyber-physical energy systems. </li>
   <li>(04/2026) I am invited to serve on the TPC of NDSS 2027.</li>
-  <li>(04/2026) We are working on a learning platform (DPTrek) helping online users to understand and navigate deceptive patterns online. Check out our preview <a href="https://dptrek-psi.vercel.app/" target="_blank" rel="noopener">HERE</a>.</li>
+  <li>(04/2026) We are working on a learning platform (DPTrek) helping online users to understand and navigate deceptive patterns online. Check out our preview <a href="https://dptrek-psi.vercel.app/" target="_blank" rel="noopener">HERE</a>, and feedback is greatly welcome!</li>
   <li>(03/2026) One paper on LLM-based privacy compliance analysis has been accepted to S&P 2026. Congrats, Zhaojie.</li>
   <li>(03/2026) One paper on GenAI-powered, privacy-respecting software and UI design and development is accepted to S&P’26. Congrats, Jingzhou.</li>
   <li>(09/2025) Welcome Jihwan and Taiwo to the team!</li>
@@ -53,15 +54,15 @@ redirect_from:
   <li>(08/2025) Jingzhou presented our paper on software privacy compliance at USENIX Security 2025.</li>
   <li>(06/2025) We received an SaTC EDU award for experiential learning of dark patterns.</li>
   <li>(06/2025) I am invited to serve as a PC member of USENIX Security 2026.</li>
-  <li>(05/2025) 21 STEM students across Florida completed our summer training for secure, resilient cyber-physical energy systems.</li>
-  <li>(04/2025) I am invited to serve as a PC member of NDSS 2026.</li>
-  <li>(03/2025) Thanks, LIFE Gerontology Research Grant, for supporting our research participants.</li>
-  <li>(03/2025) Our paper won the Best Paper Award at CHI 2025. Congrats, Jingzhou!</li>
-    
+  
   <!-- Collapsible older news -->
   <details>
     <summary>Older News</summary>
     <ul>
+      <li>(05/2025) 21 STEM students across Florida completed our summer training for secure, resilient cyber-physical energy systems.</li>
+      <li>(04/2025) I am invited to serve as a PC member of NDSS 2026.</li>
+      <li>(03/2025) Thanks, LIFE Gerontology Research Grant, for supporting our research participants.</li>
+      <li>(03/2025) Our paper won the Best Paper Award at CHI 2025. Congrats, Jingzhou!</li>
       <li>(03/2025) We (Dr. Yao Li and I) gave a talk about dark patterns to the Learning Institute for Elders (LIFE) at UCF.</li>
       <li>(02/2025) Thanks, UCF Seed Funding, for supporting our research on educating older adults about cyber threats!</li>
       <li>(01/2025) One paper is accepted to CHI 2025. Congrats, Jingzhou!</li>
