@@ -58,4 +58,4 @@ This project is bridging the critical gap by developing a dark patterns learning
 ---
 * 2026, The project website is publicly accessible, and educational materials will be shared here to support public access.
 * 2025, Demonstrations at Legacy Pointe Health Research Fair, “Surviving the Web Jungle: Your Guide to Spotting and Navigating Dark (Deceptive) Patterns on Websites”, Orlando, FL.
-• 2025, Presentation to LIFE at UCF, “What Makes Online Services Tricky and Deceptive? Exploring Common Dark Patterns and Their Impact on User Experience”, Orlando, FL
+* 2025, Presentation to LIFE at UCF, “What Makes Online Services Tricky and Deceptive? Exploring Common Dark Patterns and Their Impact on User Experience”, Orlando, FL
