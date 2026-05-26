@@ -11,7 +11,7 @@ author_profile: true
 
 ### Summary
 
-<img src="/assets/DPTrek_logo.png" alt="Project image" style="float:left; width:250px; margin: 0 0 15px 15px;" />
+<img src="/assets/DPTrek_logo.png" alt="Project image" style="float:left; width:250px; margin: 10px 15px 15px 15px;" />
 
 Many people who in the past did not use the internet are increasingly using websites and software applications to access important services that support their well-being and quality of life, including their healthcare, learning opportunities, and many products and services. For those with limited digital literacy, this growing use increases their exposure to cyber risks. One of the most common and concerning risks they face is so-called Dark Patterns, that is, user interface designs that trick users into making unintended decisions such as giving their consent to unwanted subscriptions or revealing personal information. Dark Pattern designs can also make it difficult for these users to opt out of data collection. It is therefore crucial for people who are not computer experts to become more aware of and educated about these risks. Unfortunately, current cyber education is generally limited to generic warnings and lacks real-world examples to effectively and safely educate them and fails to keep pace with the rapid evolution of dark patterns, especially as AI and machine learning are increasingly employed.
 
