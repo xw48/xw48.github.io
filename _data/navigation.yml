@@ -6,8 +6,8 @@ main:
   - title: "Selected Publications"
     url: /publications/
 
-  - title: "Recent Projects"
-    url: /projects/
+#  - title: "Recent Projects"
+#    url: /projects/
 
   - title: "Services"
     url: /services/
