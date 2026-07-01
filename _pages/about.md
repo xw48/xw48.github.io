@@ -7,6 +7,7 @@ redirect_from:
   - /about.html
 ---
 
+<!--
 <table border="1" cellpadding="10" cellspacing="0" style="font-size:17px;">
   <tr>
     <td style="padding: 10px;">
@@ -15,12 +16,18 @@ redirect_from:
     </td>
   </tr>
 </table>
+-->
 
+<!--
 <h3>Short Bio</h3>
+-->
 
 <p>Xueqiang (Brandon) Wang is an Assistant Professor of Computer Science at <a href="https://www.cs.ucf.edu/" target="_blank" rel="noopener">University of Central Florida (UCF)</a>, where he is also a member of the Cyber Security and Privacy Cluster (<a href="https://cyber.cs.ucf.edu/" target="_blank" rel="noopener">CyberSP</a>). Dr. Wang obtained his Ph.D. in 2021 from Indiana University Bloomington, and worked in security and privacy teams at Symantec Research Labs, NIO USA, and Amazon Lab126. Prior to that, he earned a Master’s degree (2015) from the Chinese Academy of Sciences (CAS), and a Bachelor’s degree (2012) from the University of Science and Technology of China (USTC).</p>
 
+<!--
 <h3>Recent Research Interests & Areas</h3>
+-->
+
 <p>Dr. Wang leads the Security and PRIvacy for smarT systems (<b>SPIRIT</b>) Lab at UCF. His recent research focuses on <b>privacy compliance</b> and <b>supply chain security</b> in real-world software systems, including emerging <i>agentic AI systems</i>, <i>mobile</i>, and <i>IoT</i>. In addition to uncovering new issues through technical analysis, he has increasingly focused on <b>building developer-centered solutions</b> to mitigate these issues and <b>educating end users</b> to prevent further harm. These efforts have guided the SPIRIT Lab toward a growing portfolio of interdisciplinary projects at the intersection of cybersecurity and privacy, HCI, and software engineering:</p>
 
 <ul>
