@@ -10,6 +10,52 @@ author_profile: true
 <a style="color:#3364FF" href="https://dblp.org/pid/60/8494.html" target="_blank" rel="noopener">dblp</a>
 -->
 
+<h2>Research Overview</h2>
+<p>
+My research broadly spans privacy, security, and trustworthy computing, with a focus on understanding real-world risks, developing practical analysis techniques, and studying the human factors that shape system security and privacy.
+</p>
+<ul>
+  <li>
+    <strong>Privacy Compliance of Real-World Systems</strong> (e.g., Agentic, Mobile, IoT):
+    <a href="https://xw48.github.io/files/ye2026when.pdf" target="_blank" rel="noopener">[S&amp;P'26c]</a>,
+    <a href="https://xw48.github.io/files/hu2026navigating.pdf" target="_blank" rel="noopener">[S&amp;P'26b]</a>,
+    <a href="https://xw48.github.io/files/ye2026understanding.pdf" target="_blank" rel="noopener">[S&amp;P'26a]</a>,
+    <a href="https://xw48.github.io/files/zhang2024navigating.pdf" target="_blank" rel="noopener">[USENIX Security'24]</a>,
+    <a href="https://xw48.github.io/files/nan2023iotprofiler.pdf" target="_blank" rel="noopener">[USENIX Security'23a]</a>,
+    <a href="https://xw48.github.io/files/wang2023creditkarma.pdf" target="_blank" rel="noopener">[USENIX Security'23b]</a>,
+    <a href="https://xw48.github.io/files/wang2023duress.pdf" target="_blank" rel="noopener">[USENIX Security'23c]</a>,
+    <a href="https://xw48.github.io/files/wang2021understanding.pdf" target="_blank" rel="noopener">[USENIX Security'21]</a>
+  </li>
+<li>
+    <strong>User and Developer Aspects of Privacy</strong>:
+    <a href="https://xw48.github.io/files/ye2026when.pdf" target="_blank" rel="noopener">[S&amp;P'26c]</a>,
+    <a href="https://xw48.github.io/files/jing2025privacy.pdf" target="_blank" rel="noopener">[USENIX Security'25]</a>,
+    <a href="https://xw48.github.io/files/ye2025awareness.pdf" target="_blank" rel="noopener">[CHI'25]</a>
+  </li>
+<li>
+    <strong>Security Vulnerabilities, Attacks, and Mitigations</strong>:
+    <a href="https://xw48.github.io/files/wang2023creditkarma.pdf" target="_blank" rel="noopener">[USENIX Security'23b]</a>,
+    <a href="https://xw48.github.io/files/wang2019looking.pdf" target="_blank" rel="noopener">[USENIX Security'19]</a>,
+    <a href="https://xw48.github.io/files/lu2020demystifying.pdf" target="_blank" rel="noopener">[CCS'20]</a>,
+    <a href="https://xw48.github.io/files/you2019profuzzer.pdf" target="_blank" rel="noopener">[S&amp;P'19]</a>,
+    <a href="https://xw48.github.io/files/chen2016following.pdf" target="_blank" rel="noopener">[S&amp;P'16]</a>,
+    <a href="https://xw48.github.io/files/zhang2018level.pdf" target="_blank" rel="noopener">[NDSS'18]</a>,
+    <a href="https://xw48.github.io/files/duan2018things.pdf" target="_blank" rel="noopener">[NDSS'18]</a>,
+    <a href="https://xw48.github.io/files/li2017unleashing.pdf" target="_blank" rel="noopener">[CCS'17]</a>,
+    <a href="https://xw48.github.io/files/pan2017dark.pdf" target="_blank" rel="noopener">[NDSS'17]</a>,
+    <a href="https://xw48.github.io/files/wang2015deepdroid.pdf" target="_blank" rel="noopener">[NDSS'15]</a>
+  </li>
+<li>
+    <strong>Cybercrime and Online Deception</strong>:
+    <a href="" target="_blank" rel="noopener">[CCS'26]</a>,
+    <a href="https://xw48.github.io/files/fegen.pdf" target="_blank" rel="noopener">[EuroS&amp;P'24]</a>,
+    <a href="https://xw48.github.io/files/cai2023darpa.pdf" target="_blank" rel="noopener">[DSN'23]</a>,
+    <a href="https://xw48.github.io/files/lee2019understandingi.pdf" target="_blank" rel="noopener">[USENIX Security'19]</a>,
+    <a href="https://xw48.github.io/files/lee2019understanding.pdf" target="_blank" rel="noopener">[TDSC'19]</a>
+  </li>
+</ul>
+<h2>Selected Publications</h2>
+
 <ul>
     <li>
       <font size="4">
@@ -141,8 +187,7 @@ author_profile: true
     <br>Yeonjoon Lee*,Xueqiang Wang*, Xiaojing Liao, XiaoFeng Wang
     <br><i>In TDSC'19</i>
   </li>
-
-  <!--
+<!--
   <li>
     <font size="4">
       <strong>System and Methods for Evaluating Security Posture of Smart Home Devices</strong>
@@ -157,9 +202,7 @@ author_profile: true
     <br>Yuqiong Sun, Xueqiang Wang, Susanta Nanda, Yun Shen, Pierre-Antoine Vervier, Petros Efstathopouloss
     <br><i>US Patent (US11122040B1)</i>
   </li>
-  -->
-  
-  <li>
+<li>
     <font size="4">
       <strong>Looking from the Mirror: Evaluating IoT Device Security through Mobile Companion Apps</strong>
       <a style="color:#3364FF" href="https://xw48.github.io/files/wang2019looking.pdf" target="_blank" rel="noopener">[PDF]</a>
@@ -205,8 +248,7 @@ author_profile: true
     <br>Yue Duan, Mu Zhang, Abhishek Vasist Bhaskar, Heng Yin, Xiaorui Pan, Tongxin Li, Xueqiang Wang, Xiaofeng Wang
     <br><i>In NDSS'18</i>
   </li>
-  
-  <!--
+<!--
   <li>
     <font size="4">
       <strong>Privacy Loss in Apple’s Implementation of Differential Privacy on MacOS 10.12</strong>
@@ -216,9 +258,7 @@ author_profile: true
     <br>Jun Tang, Aleksandra Korolova, Xiaolong Bai, Xueqiang Wang, XiaoFeng Wang
     <br><i>In TPDP'17 (co-located with CCS)</i>
   </li>
-  -->
-  
-  <li>
+<li>
     <font size="4">
       <strong>Unleashing the Walking Dead: Understanding Cross-App Remote Infections on Mobile WebViews</strong>
       <a style="color:#3364FF" href="https://xw48.github.io/files/li2017unleashing.pdf" target="_blank" rel="noopener">[PDF]</a>
@@ -265,8 +305,7 @@ author_profile: true
     <br>Xueqiang Wang, Yuewu Wang, Limin Liu, Lingguang Lei, Jiwu Jing
     <br><i>In ICISC'14</i>
   </li>
-
-  <!--
+<!--
   <li>
     <font size="4">
       <strong>An Easy-To-Deploy Behavior Monitoring Scheme for Android Applications (In Chinese)</strong>
@@ -281,7 +320,5 @@ author_profile: true
     <br>Xueqiang Wang, Lingguang Lei, Yuewu Wang
     <br><i>In Netinfo Security</i>
   </li>
-  -->
-  
-  <br>
+<br>
 </ul>
