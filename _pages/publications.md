@@ -59,6 +59,15 @@ My research broadly spans privacy, security, and trustworthy computing, with a f
 <ul>
     <li>
       <font size="4">
+        <strong>When Ad Networks Misbehave: Understanding Risks of Semi-Drive-By Splash Ads</strong>
+        <a style="color:#3364FF" target="_blank" rel="noopener">[PDF]</a>
+        <a style="color:#CE33FF" target="_blank" rel="noopener">[Bib]</a>
+      </font>
+      <br>Song Wu, Yifan Zhang, Xueqiang Wang, YinFeng Cao, Bo Wang
+      <br><i>In ACM CCS'26</i>
+    </li>
+    <li>
+      <font size="4">
         <strong>Navigating Developers’ Quagmire: LLM-Enabled Privacy Compliance Analysis for SDK Integrations</strong>
         <a style="color:#3364FF" href="https://xw48.github.io/files/hu2026navigating.pdf" target="_blank" rel="noopener">[PDF]</a>
         <a style="color:#CE33FF" href="https://xw48.github.io/files/hu2026navigating.bib" target="_blank" rel="noopener">[Bib]</a>
@@ -174,7 +183,7 @@ My research broadly spans privacy, security, and trustworthy computing, with a f
       <a style="color:#CE33FF" href="https://xw48.github.io/files/lu2020demystifying.bib" target="_blank" rel="noopener">[Bib]</a>
     </font>
     <br>Haoran Lu, Luyi Xing, Yue Xiao, Yifan Zhang, Xiaojing Liao, XiaoFeng Wang, Xueqiang Wang
-    <br><i>In CCS'20</i>
+    <br><i>In ACM CCS'20</i>
   </li>
   <li>
     <font size="4">
@@ -202,6 +211,7 @@ My research broadly spans privacy, security, and trustworthy computing, with a f
     <br>Yuqiong Sun, Xueqiang Wang, Susanta Nanda, Yun Shen, Pierre-Antoine Vervier, Petros Efstathopouloss
     <br><i>US Patent (US11122040B1)</i>
   </li>
+-->
 <li>
     <font size="4">
       <strong>Looking from the Mirror: Evaluating IoT Device Security through Mobile Companion Apps</strong>
@@ -248,7 +258,6 @@ My research broadly spans privacy, security, and trustworthy computing, with a f
     <br>Yue Duan, Mu Zhang, Abhishek Vasist Bhaskar, Heng Yin, Xiaorui Pan, Tongxin Li, Xueqiang Wang, Xiaofeng Wang
     <br><i>In NDSS'18</i>
   </li>
-<!--
   <li>
     <font size="4">
       <strong>Privacy Loss in Apple’s Implementation of Differential Privacy on MacOS 10.12</strong>
@@ -266,7 +275,7 @@ My research broadly spans privacy, security, and trustworthy computing, with a f
       <a style="color:#FF3C33" href="https://sites.google.com/site/xawisite/" target="_blank">[Supplementary]</a>
     </font>
     <br>Tongxin Li, Xueqiang Wang, Mingming Zha, Kai Chen, XiaoFeng Wang, Luyi Xing, Xiaolong Bai, Nan Zhang, Xinhui Han
-    <br><i>In CCS'17</i>
+    <br><i>In ACM CCS'17</i>
   </li>
   <li>
     <font size="4">
@@ -320,5 +329,6 @@ My research broadly spans privacy, security, and trustworthy computing, with a f
     <br>Xueqiang Wang, Lingguang Lei, Yuewu Wang
     <br><i>In Netinfo Security</i>
   </li>
+-->
 <br>
 </ul>
