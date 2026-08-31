@@ -63,7 +63,7 @@ My research broadly spans privacy, security, and trustworthy computing, with a f
         <a style="color:#3364FF" target="_blank" rel="noopener">[PDF]</a>
         <a style="color:#CE33FF" target="_blank" rel="noopener">[Bib]</a>
       </font>
-      <br>Song Wu, Yifan Zhang, Xueqiang Wang, YinFeng Cao, Bo Wang
+      <br>Song Wu, Bo Wang, Yifan Zhang, YinFeng Cao, Bo Wang, Xueqiang Wang
       <br><i>In ACM CCS'26</i>
     </li>
     <li>
