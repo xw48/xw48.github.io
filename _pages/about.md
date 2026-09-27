@@ -7,16 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-<!--
 <table border="1" cellpadding="10" cellspacing="0" style="font-size:17px;">
   <tr>
     <td style="padding: 10px;">
       <span style="color:red;">Openings:</span>
-      I am looking for one highly motivated PhD student to join our research team. If you have a strong interest in privacy engineering research using agentic systems, please email your CV and a brief self-introduction to <a href="mailto:xueqiang.wang@ucf.edu" style="color:blue;">xueqiang.wang@ucf.edu</a>.
+      I am looking for one or two graduate students at UCF to work on an hourly-paid research project related to the security and privacy of AI agentic workflows. If you have a background in security analysis, reverse engineering, and experience with LLMs/AI agents, please email your CV and a brief self-introduction to <a href="mailto:xueqiang.wang@ucf.edu" style="color:blue;">xueqiang.wang@ucf.edu</a>.
     </td>
   </tr>
 </table>
--->
 
 <!--
 <h3>Short Bio</h3>
