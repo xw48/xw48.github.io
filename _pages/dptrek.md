@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "DPTrek"
-permalink: /projects/dptrek/
+permalink: /dptrek/
 author_profile: true
 ---
 
