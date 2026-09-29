@@ -48,7 +48,7 @@ This project is bridging the critical gap by developing a dark patterns learning
 * [Conference] Zhaojie Hu, and Xueqiang Wang.
   "[Navigating Developers’ Quagmire: LLM-Enabled Privacy Compliance Analysis for SDK Integrations](https://xw48.github.io/files/hu2026navigating.pdf)." In Proceedings of IEEE Security & Privacy'26.
 
-### Software and Datasets
+### Software, Datasets, and Other Materials
 
 ---
 
