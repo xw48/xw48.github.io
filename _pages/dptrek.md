@@ -61,13 +61,6 @@ This project is bridging the critical gap by developing a dark patterns learning
 ## Activities and Outreach
 
 ---
-## Activities and Outreach
-
----
-
-## Activities and Outreach
-
----
 
 * 2026, Together with Drs. Yao Li and Yunying (Susan) Zhong, we joined the Legacy Pointe Healthy Aging Fair to showcase our learning platform to 40+ senior community members and greatly appreciated the feedback and organizers’ support.
 
