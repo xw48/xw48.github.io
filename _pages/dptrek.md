@@ -22,7 +22,7 @@ This project is bridging the critical gap by developing a dark patterns learning
 ---
 
 * NSF [Award No. 2520321](https://www.nsf.gov/awardsearch/show-award?AWD_ID=2520321)
-* Additional support: [2024-25 Seed Funding Program at UCF](https://hospitality.ucf.edu/news/recipients-of-the-2024-25-seed-funding-program-announced/)
+* Additional support: [2024-25 Seed Funding Program at UCF](https://hospitality.ucf.edu/news/recipients-of-the-2024-25-seed-funding-program-announced/), [Richard Tucker Gerontology Applied Research Award Program LIFE at UCF](https://lifeatucf.org/life-gerontology-research-award-instructions/)
 
 ## People
 
