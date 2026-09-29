@@ -44,13 +44,18 @@ This project is bridging the critical gap by developing a dark patterns learning
 
 * [Conference] Jingzhou Ye*, Fares Alharbi*, Luyi Xing, and Xueqiang Wang.
   "[Understanding and Analyzing Privacy Risks in Mobile Consent-Management Platforms](https://xw48.github.io/files/ye2026understanding.pdf)." In Proceedings of IEEE Security & Privacy'26.
-  
+
+* [Conference] Zhaojie Hu, and Xueqiang Wang.
+  "[Navigating Developers’ Quagmire: LLM-Enabled Privacy Compliance Analysis for SDK Integrations](https://xw48.github.io/files/hu2026navigating.pdf)." In Proceedings of IEEE Security & Privacy'26.
+
 ### Software and Datasets
 
 ---
 
 * [Prototype of DPTrek](https://dptrek-psi.vercel.app/)
-* [Source code of DPTrek](https://github.com/xw48/dptrek) (Not open to the public yet due to ongoing development)
+* [Source code of DPTrek](https://github.com/xw48/dptrek-public)
+* [Flyer 1](https://xw48.github.io/files/dptrek/dptrek-flyer.png)
+* [Slides 1](https://xw48.github.io/files/dptrek/LIFE%20at%20UCF%20-%20Short.pdf)
 * Dataset for paper [PRODEGENS](https://github.com/SPIRIT-security/PRODEGENs_material)
 
 ### Outreach
