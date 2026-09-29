@@ -58,10 +58,10 @@ This project is bridging the critical gap by developing a dark patterns learning
 * [Slides 1](https://xw48.github.io/files/dptrek/LIFE%20at%20UCF%20-%20Short.pdf)
 * Dataset for paper [PRODEGENS](https://github.com/SPIRIT-security/PRODEGENs_material)
 
-## Outreach
+## Recent Activities
 
 ---
-* 2026, Together with Drs. Yao Li and Yunying (Susan) Zhong, we joined the Legacy Pointe Healthy Aging Fair to showcase our  learning platform to 40+ senior community members and greatly appreciated the feedback and organizers’ support. </li>
-* 2026, The project website is publicly accessible, and educational materials will be shared here to support public access.
+* 2026, Together with Drs. Yao Li and Yunying (Susan) Zhong, we joined the Legacy Pointe Healthy Aging Fair to showcase our  learning platform to 40+ senior community members and greatly appreciated the feedback and organizers’ support.
+* 2026, A prototype learning website is publicly accessible, and educational materials will be shared here to support public access.
 * 2025, Demonstrations at Legacy Pointe Health Research Fair, “Surviving the Web Jungle: Your Guide to Spotting and Navigating Dark (Deceptive) Patterns on Websites”, Orlando, FL.
 * 2025, Presentation to LIFE at UCF, “What Makes Online Services Tricky and Deceptive? Exploring Common Dark Patterns and Their Impact on User Experience”, Orlando, FL
