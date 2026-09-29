@@ -79,8 +79,8 @@ This project is bridging the critical gap by developing a dark patterns learning
 * 2025, Presentation to LIFE at UCF, “What Makes Online Services Tricky and Deceptive? Exploring Common Dark Patterns and Their Impact on User Experience”, Orlando, FL.
 
 <div class="gallery">
-  <img src="/images/dptrek/life-ucf-2025-1.jpg" alt="Presentation to LIFE at UCF" style="width: 31%; height: auto;">
-  <img src="/images/dptrek/life-ucf-2025-2.jpg" alt="Presentation to LIFE at UCF" style="width: 31%; height: auto;">
+  <img src="/images/dptrek/life-ucf-2025-1.jpeg" alt="Presentation to LIFE at UCF" style="width: 31%; height: auto;">
+  <img src="/images/dptrek/life-ucf-2025-2.jpeg" alt="Presentation to LIFE at UCF" style="width: 31%; height: auto;">
 </div>
 
 
