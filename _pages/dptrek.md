@@ -66,8 +66,8 @@ This project is bridging the critical gap by developing a dark patterns learning
 
 <div class="gallery">
   <img src="/images/dptrek/legacy-pointe-2026-1.jpeg" alt="Legacy Pointe Healthy Aging Fair" style="width: 31%; height: auto;">
-  <img src="/images/dptrek/legacy-pointe-2026-2.jpeg" alt="DPTrek demonstration" style="width: 31%; height: auto;">
   <img src="/images/dptrek/legacy-pointe-2026-3.jpeg" alt="DPTrek team at the event" style="width: 31%; height: auto;">
+  <img src="/images/dptrek/legacy-pointe-2026-2.jpeg" alt="DPTrek demonstration" style="width: 31%; height: auto;">
 </div>
 
 * 2026, We have invited and are working with several domain experts in education, healthy aging, and online deception and fraud to improve the learning platform.
