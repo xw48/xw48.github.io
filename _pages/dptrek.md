@@ -65,12 +65,16 @@ This project is bridging the critical gap by developing a dark patterns learning
 
 ---
 
+## Activities and Outreach
+
+---
+
 * 2026, Together with Drs. Yao Li and Yunying (Susan) Zhong, we joined the Legacy Pointe Healthy Aging Fair to showcase our learning platform to 40+ senior community members and greatly appreciated the feedback and organizers’ support.
 
 <div class="gallery">
-  <img src="/images/dptrek/legacy-pointe-2026-1.jpeg" alt="Legacy Pointe Healthy Aging Fair">
-  <img src="/images/dptrek/legacy-pointe-2026-2.jpeg" alt="DPTrek demonstration">
-  <img src="/images/dptrek/legacy-pointe-2026-3.jpeg" alt="DPTrek team at the event">
+  <img src="/images/dptrek/legacy-pointe-2026-1.jpeg" alt="Legacy Pointe Healthy Aging Fair" style="width: 31%; height: auto;">
+  <img src="/images/dptrek/legacy-pointe-2026-2.jpeg" alt="DPTrek demonstration" style="width: 31%; height: auto;">
+  <img src="/images/dptrek/legacy-pointe-2026-3.jpeg" alt="DPTrek team at the event" style="width: 31%; height: auto;">
 </div>
 
 * 2026, We have invited and are working with several domain experts in education, healthy aging, and online deception and fraud to improve the learning platform.
@@ -82,7 +86,8 @@ This project is bridging the critical gap by developing a dark patterns learning
 * 2025, Presentation to LIFE at UCF, “What Makes Online Services Tricky and Deceptive? Exploring Common Dark Patterns and Their Impact on User Experience”, Orlando, FL.
 
 <div class="gallery">
-  <img src="/images/dptrek/life-ucf-2025-1.jpg" alt="Presentation to LIFE at UCF">
-  <img src="/images/dptrek/life-ucf-2025-2.jpg" alt="Presentation to LIFE at UCF">
+  <img src="/images/dptrek/life-ucf-2025-1.jpg" alt="Presentation to LIFE at UCF" style="width: 31%; height: auto;">
+  <img src="/images/dptrek/life-ucf-2025-2.jpg" alt="Presentation to LIFE at UCF" style="width: 31%; height: auto;">
 </div>
+
 
