@@ -35,7 +35,7 @@ This project is bridging the critical gap by developing a dark patterns learning
 * Safoora Moazam, M.S. Student Researcher (UCF SMST)
 * Jingzhou Ye, Ph.D. Student Researcher (UCF CS)
 
-### Publications
+## Publications
 
 ---
 
@@ -48,7 +48,7 @@ This project is bridging the critical gap by developing a dark patterns learning
 * [Conference] Zhaojie Hu, and Xueqiang Wang.
   "[Navigating Developers’ Quagmire: LLM-Enabled Privacy Compliance Analysis for SDK Integrations](https://xw48.github.io/files/hu2026navigating.pdf)." In Proceedings of IEEE Security & Privacy'26.
 
-### Software, Datasets, and Other Materials
+## Software, Datasets, and Other Materials
 
 ---
 
@@ -58,7 +58,7 @@ This project is bridging the critical gap by developing a dark patterns learning
 * [Slides 1](https://xw48.github.io/files/dptrek/LIFE%20at%20UCF%20-%20Short.pdf)
 * Dataset for paper [PRODEGENS](https://github.com/SPIRIT-security/PRODEGENs_material)
 
-### Outreach
+## Outreach
 
 ---
 * 2026, Together with Drs. Yao Li and Yunying (Susan) Zhong, we joined the Legacy Pointe Healthy Aging Fair to showcase our  learning platform to 40+ senior community members and greatly appreciated the feedback and organizers’ support. </li>
