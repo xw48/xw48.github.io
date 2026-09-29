@@ -39,11 +39,11 @@ This project is bridging the critical gap by developing a dark patterns learning
 
 ---
 
-* [Prototype of DPTrek](https://dptrek-psi.vercel.app/)
-* [Source code of DPTrek](https://github.com/xw48/dptrek-public)
-* [Flyer 1](https://xw48.github.io/files/dptrek/dptrek-flyer.png)
-* [Slides 1](https://xw48.github.io/files/dptrek/LIFE%20at%20UCF%20-%20Short.pdf)
-* Dataset for paper [PRODEGENS](https://github.com/SPIRIT-security/PRODEGENs_material)
+* Prototype of DPTrek: [Website](https://dptrek-psi.vercel.app/)
+* Source code of DPTrek [Github](https://github.com/xw48/dptrek-public)
+* Flyers: [Legacy Pointe](https://xw48.github.io/files/dptrek/dptrek-flyer.png)
+* Slides: [Life at UCF](https://xw48.github.io/files/dptrek/LIFE%20at%20UCF%20-%20Short.pdf)
+* Datasets: [PRODEGENS](https://github.com/SPIRIT-security/PRODEGENs_material)
 
 ## Publications
 
