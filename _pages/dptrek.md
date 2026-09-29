@@ -62,6 +62,7 @@ This project is bridging the critical gap by developing a dark patterns learning
 
 ---
 * 2026, Together with Drs. Yao Li and Yunying (Susan) Zhong, we joined the Legacy Pointe Healthy Aging Fair to showcase our  learning platform to 40+ senior community members and greatly appreciated the feedback and organizers’ support.
+* 2026, We have invited and are working with several domain experts in education, healthy aging, and online deception and fraud to improve the learning platform.
 * 2026, A prototype learning website is publicly accessible, and educational materials will be shared here to support public access.
 * 2025, Demonstrations at Legacy Pointe Health Research Fair, “Surviving the Web Jungle: Your Guide to Spotting and Navigating Dark (Deceptive) Patterns on Websites”, Orlando, FL.
 * 2025, Presentation to LIFE at UCF, “What Makes Online Services Tricky and Deceptive? Exploring Common Dark Patterns and Their Impact on User Experience”, Orlando, FL
