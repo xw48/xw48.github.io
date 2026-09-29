@@ -67,9 +67,9 @@ This project is bridging the critical gap by developing a dark patterns learning
 * 2026, Together with Drs. Yao Li and Yunying (Susan) Zhong, we joined the Legacy Pointe Healthy Aging Fair to showcase our learning platform to 40+ senior community members and greatly appreciated the feedback and organizers’ support.
 
 <div class="gallery">
-  <img src="/images/dptrek/legacy-pointe-2026-1.jpeg" alt="Legacy Pointe Healthy Aging Fair" style="width: 31%; height: auto;">
-  <img src="/images/dptrek/legacy-pointe-2026-3.jpeg" alt="DPTrek team at the event" style="width: 31%; height: auto;">
-  <img src="/images/dptrek/legacy-pointe-2026-2.jpeg" alt="DPTrek demonstration" style="width: 31%; height: auto;">
+  <img src="/images/dptrek/legacy-pointe-2026-1.jpeg" alt="Legacy Pointe Healthy Aging Fair" style="width: 31%; height: 220px; object-fit: cover;">
+  <img src="/images/dptrek/legacy-pointe-2026-3.jpeg" alt="DPTrek team at the event" style="width: 31%; height: 220px; object-fit: cover;">
+  <img src="/images/dptrek/legacy-pointe-2026-2.jpeg" alt="DPTrek demonstration" style="width: 31%; height: 220px; object-fit: cover;">
 </div>
 
 * 2026, We have invited and are working with several domain experts in education, healthy aging, and online deception and fraud to improve the learning platform.
