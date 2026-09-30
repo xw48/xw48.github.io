@@ -30,7 +30,7 @@ redirect_from:
 
 <h3>News</h3>
 <ul>
-  <li>(09/2026) Together with Drs. Yao Li and Yunying (Susan) Zhong, we joined the Legacy Pointe Healthy Aging Fair to showcase our deceptive-web-design learning platform (<a href="https://xw48.github.io/dptrek/" target="_blank" rel="noopener"> Project Page</a>, <a href="https://dptrek-psi.vercel.app/" target="_blank" rel="noopener">Prototype Platform</a> and <a href="https://xw48.github.io/files/dptrek/dptrek-flyer.png" target="_blank" rel="noopener">Flyer</a>) to 40+ senior community members and greatly appreciated the feedback and organizers’ support. </li>
+  <li>(09/2026) Together with Drs. Yao Li and Yunying (Susan) Zhong, we joined the Legacy Pointe Healthy Aging Fair to showcase our deceptive-web-design learning platform (<a href="https://xw48.github.io/dptrek/" target="_blank" rel="noopener">Project Page</a>, <a href="https://dptrek-psi.vercel.app/" target="_blank" rel="noopener">Prototype Platform</a> and <a href="https://xw48.github.io/files/dptrek/dptrek-flyer.png" target="_blank" rel="noopener">Flyer</a>) to 40+ senior community members and greatly appreciated the feedback and organizers’ support. </li>
   <li>(09/2026) Two papers accepted to ACM CCS 2026 and NDSS 2027. Congrats, Bill and Song. </li>
   <li>(05/2026) With a group of colleagues from FAU, USF, and FIU, we conducted a 9-day summer training program for 20+ STEM students from across Florida and the nation on secure and resilient cyber-physical energy systems. </li>
   <li>(05/2026) Congrats to Jingzhou on receiving the IEEE S&P Student Travel Grant! </li>
