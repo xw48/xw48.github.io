@@ -26,7 +26,7 @@ redirect_from:
 <h3>Recent Research Interests & Areas</h3>
 -->
 
-<p>Dr. Wang leads the Security and PRIvacy for smarT systems (<b>SPIRIT</b>) Lab at UCF. His recent research focuses on <b>privacy</b> and <b>software supply chain security</b> risks in real-world software systems, including <i>agentic AI systems</i>, <i>mobile</i>, and <i>Internet of Things (IoT) systems</i>. Beyond identifying emerging risks through technical system analysis, he has increasingly focused on developing <b>developer- and user-centered solutions</b> (e.g., developer-facing methodologies and educational interventions) to mitigate these risks and prevent harm. These efforts have shaped the SPIRIT Lab's growing portfolio of interdisciplinary research projects at the intersection of cybersecurity, privacy, human-computer interaction, and software engineering.</p>
+<p>Dr. Wang leads the Security and PRIvacy for smarT systems (<b>SPIRIT</b>) Lab at UCF. His research investigates security and privacy risks in real-world software ecosystems, with a focus on privacy compliance, software supply chain security, and online deception across mobile and IoT systems and emerging agentic AI systems. Complementing this technical analysis, his work also develops developer- and user-centered solutions, including security- and privacy-oriented methodologies for software design and development, as well as educational interventions, to mitigate these risks and their potential harms. This interdisciplinary research brings together cybersecurity, privacy, human-computer interaction, and software engineering to address real-world challenges.</p>
 
 <h3>News</h3>
 <ul>
