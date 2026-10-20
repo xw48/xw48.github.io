@@ -59,6 +59,15 @@ My research broadly spans privacy, security, and trustworthy computing, with a f
 <ul>
     <li>
       <font size="4">
+        <strong>Demystifying the DP-friendliness of Vision Transformers: Impact of Inductive Biases and Efficiency Mechanisms</strong>
+        <a style="color:#3364FF" target="_blank" rel="noopener">[PDF]</a>
+        <a style="color:#CE33FF" target="_blank" rel="noopener">[Bib]</a>
+      </font>
+      <br>Sungbin Park, Xueqiang Wang, Yeonjoon Lee, Sungju Yun
+      <br><i>In NDSS'27</i>
+    </li>
+    <li>
+      <font size="4">
         <strong>When Ad Networks Misbehave: Understanding Risks of Semi-Drive-By Splash Ads</strong>
         <a style="color:#3364FF" target="_blank" rel="noopener">[PDF]</a>
         <a style="color:#CE33FF" target="_blank" rel="noopener">[Bib]</a>
