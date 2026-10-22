@@ -17,6 +17,7 @@ My research broadly spans privacy, security, and trustworthy computing, with a f
 <ul>
   <li>
     <strong>Privacy Compliance of Real-World Systems</strong> (e.g., Agentic, Mobile, IoT):
+    <a href="https://xw48.github.io/files/placeholder.pdf" target="_blank" rel="noopener">[ICSE'27]</a>,
     <a href="https://xw48.github.io/files/ye2026when.pdf" target="_blank" rel="noopener">[S&amp;P'26c]</a>,
     <a href="https://xw48.github.io/files/hu2026navigating.pdf" target="_blank" rel="noopener">[S&amp;P'26b]</a>,
     <a href="https://xw48.github.io/files/ye2026understanding.pdf" target="_blank" rel="noopener">[S&amp;P'26a]</a>,
