@@ -60,8 +60,17 @@ My research broadly spans privacy, security, and trustworthy computing, with a f
 <ul>
     <li>
       <font size="4">
+        <strong>AgentRaft: Detecting Data Over-Exposure in LLM Agents via Fine-grained Prompt Generation and Data Flow Inspection</strong>
+        <a style="color:#3364FF" href="https://xw48.github.io/files/placeholder.pdf" rel="noopener">[PDF]</a>
+        <a style="color:#CE33FF" target="_blank" rel="noopener">[Bib]</a>
+      </font>
+      <br>Yixi Lin, Jiangrong Wu, Xueqiang Wang, Xinyuan Zhang, Yuhong Nan
+      <br><i>In ICSE'27</i>
+    </li>
+    <li>
+      <font size="4">
         <strong>Demystifying the DP-friendliness of Vision Transformers: Impact of Inductive Biases and Efficiency Mechanisms</strong>
-        <a style="color:#3364FF" target="_blank" rel="noopener">[PDF]</a>
+        <a style="color:#3364FF" href="https://xw48.github.io/files/placeholder.pdf" rel="noopener">[PDF]</a>
         <a style="color:#CE33FF" target="_blank" rel="noopener">[Bib]</a>
       </font>
       <br>Sungbin Park, Xueqiang Wang, Yeonjoon Lee, Sungju Yun
@@ -70,7 +79,7 @@ My research broadly spans privacy, security, and trustworthy computing, with a f
     <li>
       <font size="4">
         <strong>When Ad Networks Misbehave: Understanding Risks of Semi-Drive-By Splash Ads</strong>
-        <a style="color:#3364FF" target="_blank" rel="noopener">[PDF]</a>
+        <a style="color:#3364FF" href="https://xw48.github.io/files/placeholder.pdf" rel="noopener">[PDF]</a>
         <a style="color:#CE33FF" target="_blank" rel="noopener">[Bib]</a>
       </font>
       <br>Song Wu, Bo Wang, Yifan Zhang, YinFeng Cao, Xueqiang Wang
