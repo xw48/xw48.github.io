@@ -63,8 +63,9 @@ This project is bridging the critical gap by developing a dark patterns learning
 ## Activities and Outreach
 
 ---
+* October, 2026, I give a talk about deceptive patterns and our education platform to members of LIFE at UCF, "Spotting Online Tricks: Understanding Deceptive Patterns and Learning to Navigate Them", Orlando, FL.
 
-* 2026, Together with Drs. Yao Li and Yunying (Susan) Zhong, we joined the Legacy Pointe Healthy Aging Fair to showcase our learning platform to 40+ senior community members and greatly appreciated the feedback and organizers’ support.
+* September, 2026, Together with Drs. Yao Li and Yunying (Susan) Zhong, we joined the Legacy Pointe Healthy Aging Fair to showcase our learning platform to 40+ senior community members and greatly appreciated the feedback and organizers’ support.
 
 <div class="gallery">
   <img src="/images/dptrek/legacy-pointe-2026-1.jpeg" alt="Legacy Pointe Healthy Aging Fair" style="height: 220px; width: auto;">
